@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EventDelivery xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rocio</fullName>
+    <eventParameters>
+        <parameterName>Xn</parameterName>
+        <parameterValue>BTReQaOb</parameterValue>
+    </eventParameters>
+    <eventParameters>
+        <parameterName>xiPA</parameterName>
+        <parameterValue>HuLZpRIFk</parameterValue>
+    </eventParameters>
+    <eventSubscription>upGRC</eventSubscription>
+    <referenceData>LKGbxQ</referenceData>
+    <type>ResumeFlow</type>
+</EventDelivery>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OutboundNetworkConnection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Arvilla</fullName>
+    <connectionType>AwsPrivateLink</connectionType>
+    <description>hlonoBNhM</description>
+    <isActive>true</isActive>
+    <label>sqmLjyE</label>
+    <outboundNetworkConnProperties>
+        <propertyName>AwsVpcEndpointServiceName</propertyName>
+        <propertyValue>QDhwPC</propertyValue>
+    </outboundNetworkConnProperties>
+    <status>Allocating</status>
+</OutboundNetworkConnection>

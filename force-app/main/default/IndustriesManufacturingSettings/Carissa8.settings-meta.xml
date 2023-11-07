@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IndustriesManufacturingSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Carissa</fullName>
+    <enableIndManufacturing>true</enableIndManufacturing>
+    <enableIndustriesMfgAccountForecast>true</enableIndustriesMfgAccountForecast>
+    <enableIndustriesMfgAdvForecast>true</enableIndustriesMfgAdvForecast>
+    <enableIndustriesMfgIAS>true</enableIndustriesMfgIAS>
+    <enableIndustriesMfgProgram>true</enableIndustriesMfgProgram>
+    <enableIndustriesMfgRebates>false</enableIndustriesMfgRebates>
+    <enableIndustriesMfgTargets>true</enableIndustriesMfgTargets>
+    <enablePartnerLeadManagement>false</enablePartnerLeadManagement>
+    <enablePartnerPerformanceManagement>true</enablePartnerPerformanceManagement>
+    <enablePartnerVisitManagement>true</enablePartnerVisitManagement>
+</IndustriesManufacturingSettings>

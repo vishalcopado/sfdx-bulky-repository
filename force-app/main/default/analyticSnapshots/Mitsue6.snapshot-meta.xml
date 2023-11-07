@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticSnapshot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mitsue</fullName>
+    <description>rzWmR</description>
+    <groupColumn>myXrrdI</groupColumn>
+    <mappings>
+        <aggregateType>Sum</aggregateType>
+        <sourceField>jfFut</sourceField>
+        <sourceType>snapshot</sourceType>
+        <targetField>nMIgxq</targetField>
+    </mappings>
+    <mappings>
+        <aggregateType>Average</aggregateType>
+        <sourceField>sWYCtGFh</sourceField>
+        <sourceType>snapshot</sourceType>
+        <targetField>A</targetField>
+    </mappings>
+    <name>jTU</name>
+    <runningUser>jzQAzm</runningUser>
+    <sourceReport>A</sourceReport>
+    <targetObject>EGDMUxu</targetObject>
+</AnalyticSnapshot>

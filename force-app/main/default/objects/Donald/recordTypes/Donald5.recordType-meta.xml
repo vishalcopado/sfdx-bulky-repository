@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Donald</fullName>
+    <active>true</active>
+    <businessProcess>z</businessProcess>
+    <compactLayoutAssignment>gL</compactLayoutAssignment>
+    <description>F</description>
+    <label>TarViLRZ</label>
+    <picklistValues>
+        <picklist>g</picklist>
+        <values>
+            <fullName>PH</fullName>
+            <allowEmail>true</allowEmail>
+            <closed>true</closed>
+            <color>xDOt</color>
+            <controllingFieldValues>nvO</controllingFieldValues>
+            <converted>true</converted>
+            <cssExposed>true</cssExposed>
+            <default>false</default>
+            <description>y</description>
+            <forecastCategory>MostLikely</forecastCategory>
+            <highPriority>true</highPriority>
+            <isActive>false</isActive>
+            <probability>521448239</probability>
+            <reverseRole>ShGKR</reverseRole>
+            <reviewed>false</reviewed>
+            <won>false</won>
+        </values>
+    </picklistValues>
+</RecordType>

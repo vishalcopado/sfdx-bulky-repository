@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannelMember xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Isaias</fullName>
+    <enrichedFields>
+        <name>xvO</name>
+    </enrichedFields>
+    <enrichedFields>
+        <name>duWz</name>
+    </enrichedFields>
+    <eventChannel>uObb</eventChannel>
+    <filterExpression>aSK</filterExpression>
+    <selectedEntity>YRoZCARdl</selectedEntity>
+</PlatformEventChannelMember>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountingFieldMapping xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ignacia</fullName>
+    <accountingModelConfig>Cvp</accountingModelConfig>
+    <isForAllocationType>false</isForAllocationType>
+    <isForPaymentType>true</isForPaymentType>
+    <isForTransactionType>false</isForTransactionType>
+    <isProtected>true</isProtected>
+    <mappingBehavior>PointInTime</mappingBehavior>
+    <masterLabel>cN</masterLabel>
+    <sourceField>iG</sourceField>
+    <targetField>a</targetField>
+</AccountingFieldMapping>

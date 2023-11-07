@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileSecurityPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bernita</fullName>
+    <effectiveDate>2013-12-27T04:03:26.314Z</effectiveDate>
+    <isEnabled>true</isEnabled>
+    <isProtected>true</isProtected>
+    <masterLabel>COlJEM</masterLabel>
+    <mobilePlatform>Android</mobilePlatform>
+    <mobileSecurityAssignment>YRy</mobileSecurityAssignment>
+    <mobileSecurityPolicySet>ZHrVI</mobileSecurityPolicySet>
+    <ruleValue>G</ruleValue>
+    <ruleValueType>Text</ruleValueType>
+    <severityLevel>Warn</severityLevel>
+    <type>Screenshot</type>
+</MobileSecurityPolicy>

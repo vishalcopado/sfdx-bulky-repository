@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InboundNetworkConnection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Taryn</fullName>
+    <connectionType>AwsPrivateLink</connectionType>
+    <description>TSORxgNHu</description>
+    <inboundNetworkConnProperties>
+        <propertyName>SourceIpRanges</propertyName>
+        <propertyValue>hh</propertyValue>
+    </inboundNetworkConnProperties>
+    <isActive>true</isActive>
+    <label>wXfJXYTfs</label>
+    <status>DeletedRemotely</status>
+</InboundNetworkConnection>

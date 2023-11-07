@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lane</fullName>
+    <assetIcon>nYF</assetIcon>
+    <description>nHNa</description>
+    <folder>joQ</folder>
+    <masterLabel>GeywShJdr</masterLabel>
+    <shares>
+        <accessLevel>EditAllContents</accessLevel>
+        <sharedTo>Bw</sharedTo>
+        <sharedToType>Territory</sharedToType>
+    </shares>
+    <templateOrigin>vSchqmiL</templateOrigin>
+    <templateVersion>jNbNhVet</templateVersion>
+</WaveApplication>

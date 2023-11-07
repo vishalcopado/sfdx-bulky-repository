@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPermission xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Alyce</fullName>
+    <connectedApp>GwW</connectedApp>
+    <description>vUEduiGqA</description>
+    <isLicensed>false</isLicensed>
+    <label>w</label>
+    <requiredPermission>
+        <customPermission>taWsq</customPermission>
+        <dependency>true</dependency>
+    </requiredPermission>
+    <requiredPermission>
+        <customPermission>yJMQO</customPermission>
+        <dependency>true</dependency>
+    </requiredPermission>
+</CustomPermission>

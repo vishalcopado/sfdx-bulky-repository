@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CareLimitType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Hiram</fullName>
+    <isProtected>true</isProtected>
+    <limitType>KpoOKFq</limitType>
+    <masterLabel>xcgMcKoj</masterLabel>
+    <metricType>Percentage</metricType>
+</CareLimitType>

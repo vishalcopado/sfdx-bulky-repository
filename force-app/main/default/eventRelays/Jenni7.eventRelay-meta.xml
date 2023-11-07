@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EventRelayConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jenni</fullName>
+    <destinationResourceName>ApEhyCA</destinationResourceName>
+    <eventChannel>GIlDwXtF</eventChannel>
+    <isProtected>false</isProtected>
+    <label>Zl</label>
+    <masterLabel>ss</masterLabel>
+    <relayOption>oTWNGX</relayOption>
+    <state>STOP</state>
+</EventRelayConfig>

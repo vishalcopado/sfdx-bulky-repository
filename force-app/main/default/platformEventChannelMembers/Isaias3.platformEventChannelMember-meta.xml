@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannelMember xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Isaias</fullName>
+    <enrichedFields>
+        <name>XKmerP</name>
+    </enrichedFields>
+    <eventChannel>iRxI</eventChannel>
+    <filterExpression>tCFsh</filterExpression>
+    <selectedEntity>msvBr</selectedEntity>
+</PlatformEventChannelMember>

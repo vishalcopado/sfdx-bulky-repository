@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountRelationshipShareRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Teodoro</fullName>
+    <accessLevel>EsS</accessLevel>
+    <accountToCriteriaField>eWn</accountToCriteriaField>
+    <description>u</description>
+    <entityType>BGZRCMmOD</entityType>
+    <masterLabel>nWbbu</masterLabel>
+    <staticFormulaCriteria>Ogs</staticFormulaCriteria>
+    <type>MPHOHLbY</type>
+</AccountRelationshipShareRule>

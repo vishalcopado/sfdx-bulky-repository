@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkflowKnowledgePublish xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Erma</fullName>
+    <action>Publish</action>
+    <description>ITYmZQC</description>
+    <label>eg</label>
+    <language>pUFBEiKbF</language>
+    <protected>false</protected>
+</WorkflowKnowledgePublish>

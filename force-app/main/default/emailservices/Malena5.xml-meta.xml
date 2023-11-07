@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailServicesFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Malena</fullName>
+    <apexClass>Ephgghr</apexClass>
+    <attachmentOption>BinaryOnly</attachmentOption>
+    <authenticationFailureAction>Requeue</authenticationFailureAction>
+    <authorizationFailureAction>Discard</authorizationFailureAction>
+    <authorizedSenders>HbRR</authorizedSenders>
+    <emailServicesAddresses>
+        <authorizedSenders>ipeZFO</authorizedSenders>
+        <developerName>ZGjgQe</developerName>
+        <isActive>true</isActive>
+        <localPart>coebryn</localPart>
+        <runAsUser>TSfaYRWgw</runAsUser>
+    </emailServicesAddresses>
+    <emailServicesAddresses>
+        <authorizedSenders>Dich</authorizedSenders>
+        <developerName>OSLjVuv</developerName>
+        <isActive>true</isActive>
+        <localPart>TKSZ</localPart>
+        <runAsUser>XaMAopVd</runAsUser>
+    </emailServicesAddresses>
+    <errorRoutingAddress>Poj</errorRoutingAddress>
+    <functionInactiveAction>UseSystemDefault</functionInactiveAction>
+    <functionName>XiAeAJ</functionName>
+    <isActive>false</isActive>
+    <isAuthenticationRequired>true</isAuthenticationRequired>
+    <isErrorRoutingEnabled>false</isErrorRoutingEnabled>
+    <isTextAttachmentsAsBinary>true</isTextAttachmentsAsBinary>
+    <isTlsRequired>false</isTlsRequired>
+    <overLimitAction>UseSystemDefault</overLimitAction>
+</EmailServicesFunction>

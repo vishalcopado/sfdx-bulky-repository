@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformCachePartition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Dwain</fullName>
+    <description>LondM</description>
+    <isDefaultPartition>false</isDefaultPartition>
+    <masterLabel>f</masterLabel>
+    <platformCachePartitionTypes>
+        <allocatedCapacity>43912342</allocatedCapacity>
+        <allocatedPartnerCapacity>-415231305</allocatedPartnerCapacity>
+        <allocatedPurchasedCapacity>1878164908</allocatedPurchasedCapacity>
+        <allocatedTrialCapacity>-936719372</allocatedTrialCapacity>
+        <cacheType>Session</cacheType>
+    </platformCachePartitionTypes>
+</PlatformCachePartition>

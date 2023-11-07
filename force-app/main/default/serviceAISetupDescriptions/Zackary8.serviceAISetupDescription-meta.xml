@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceAISetupDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Zackary</fullName>
+    <appSourceType>EAR_FOR_VOICE</appSourceType>
+    <name>yn</name>
+    <setupStatus>READY_TO_ACTIVATE</setupStatus>
+    <supportedLanguages>rR</supportedLanguages>
+</ServiceAISetupDefinition>

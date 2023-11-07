@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Han</fullName>
+    <developerName>Bfv</developerName>
+    <masterLabel>Axzca</masterLabel>
+    <status>Enabled</status>
+    <type>RecommendationBuilder</type>
+</AIApplication>

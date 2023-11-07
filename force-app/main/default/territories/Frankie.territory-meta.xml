@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Frankie</fullName>
+    <caseAccessLevel>vWz</caseAccessLevel>
+    <contactAccessLevel>iIK</contactAccessLevel>
+    <description>OWRrCysmT</description>
+    <mayForecastManagerShare>true</mayForecastManagerShare>
+    <name>m</name>
+    <opportunityAccessLevel>cZmtyo</opportunityAccessLevel>
+    <accountAccessLevel>ATsBN</accountAccessLevel>
+    <parentTerritory>DZVCmV</parentTerritory>
+</Territory>

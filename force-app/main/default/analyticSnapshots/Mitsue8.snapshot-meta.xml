@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticSnapshot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mitsue</fullName>
+    <description>G</description>
+    <groupColumn>LM</groupColumn>
+    <mappings>
+        <aggregateType>Average</aggregateType>
+        <sourceField>Bdn</sourceField>
+        <sourceType>snapshot</sourceType>
+        <targetField>GQwQQHZET</targetField>
+    </mappings>
+    <name>hBcBbj</name>
+    <runningUser>z</runningUser>
+    <sourceReport>y</sourceReport>
+    <targetObject>fpHxbF</targetObject>
+</AnalyticSnapshot>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Letterhead xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jefferson</fullName>
+    <available>false</available>
+    <backgroundColor>KdQwaIr</backgroundColor>
+    <bodyColor>eGlNGSIPD</bodyColor>
+    <bottomLine>
+        <color>WztnaeZLZ</color>
+        <height>1601246514</height>
+    </bottomLine>
+    <description>xOnymg</description>
+    <footer>
+        <backgroundColor>ryvM</backgroundColor>
+        <height>1205481618</height>
+        <horizontalAlignment>Left</horizontalAlignment>
+        <logo>CdW</logo>
+        <verticalAlignment>Top</verticalAlignment>
+    </footer>
+    <header>
+        <backgroundColor>EAtwfkE</backgroundColor>
+        <height>1421751316</height>
+        <horizontalAlignment>Center</horizontalAlignment>
+        <logo>owgqumn</logo>
+        <verticalAlignment>Middle</verticalAlignment>
+    </header>
+    <middleLine>
+        <color>CFjd</color>
+        <height>-820992479</height>
+    </middleLine>
+    <name>HK</name>
+    <topLine>
+        <color>pm</color>
+        <height>480846941</height>
+    </topLine>
+</Letterhead>

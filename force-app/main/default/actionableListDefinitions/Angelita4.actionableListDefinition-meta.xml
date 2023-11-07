@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionableListDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Angelita</fullName>
+    <actionableListDatasetColumns>
+        <dataDomain>Measures</dataDomain>
+        <dataType>Url</dataType>
+        <displayOrder>1048356604</displayOrder>
+        <isDefault>false</isDefault>
+        <objectName>dQpkS</objectName>
+        <sourceColumnApiName>rYqMM</sourceColumnApiName>
+        <sourceFieldName>gqvM</sourceFieldName>
+    </actionableListDatasetColumns>
+    <actionableListDatasetColumns>
+        <dataDomain>Dimensions</dataDomain>
+        <dataType>Email</dataType>
+        <displayOrder>1764589448</displayOrder>
+        <isDefault>true</isDefault>
+        <objectName>YIkWseKLo</objectName>
+        <sourceColumnApiName>XrqOruJSp</sourceColumnApiName>
+        <sourceFieldName>Ls</sourceFieldName>
+    </actionableListDatasetColumns>
+    <actionableListMemberStatuses>
+        <iconName>TnL</iconName>
+        <status>RyVWgm</status>
+    </actionableListMemberStatuses>
+    <batchCalcJobDefinition>tv</batchCalcJobDefinition>
+    <datasetName>ATMWkc</datasetName>
+    <edgeMart>PlpJA</edgeMart>
+    <isActive>false</isActive>
+    <isProtected>true</isProtected>
+    <masterLabel>Rf</masterLabel>
+    <objectName>zX</objectName>
+</ActionableListDefinition>

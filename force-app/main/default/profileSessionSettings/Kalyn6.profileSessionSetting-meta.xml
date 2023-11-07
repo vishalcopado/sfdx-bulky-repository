@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProfileSessionSetting xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Kalyn</fullName>
+    <externalCommunityUserIdentityVerif>false</externalCommunityUserIdentityVerif>
+    <forceLogout>true</forceLogout>
+    <profile>nvlpkWNm</profile>
+    <requiredSessionLevel>LOW</requiredSessionLevel>
+    <sessionPersistence>false</sessionPersistence>
+    <sessionTimeout>2092973278</sessionTimeout>
+    <sessionTimeoutWarning>false</sessionTimeoutWarning>
+</ProfileSessionSetting>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConversationVendorInfo xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Golden</fullName>
+    <agentSSOSupported>true</agentSSOSupported>
+    <awsAccountKey>NYxy</awsAccountKey>
+    <awsRootEmail>ussmi</awsRootEmail>
+    <awsTenantVersion>0.2865238242904049</awsTenantVersion>
+    <bridgeComponent>YzKmgz</bridgeComponent>
+    <clientAuthMode>SSO</clientAuthMode>
+    <connectorUrl>xnWS</connectorUrl>
+    <customConfig>OARzd</customConfig>
+    <customLoginUrl>Qpukgghu</customLoginUrl>
+    <developerName>LTMhvw</developerName>
+    <einsteinConversationInsightsSupported>true</einsteinConversationInsightsSupported>
+    <integrationClass>fobEeAUK</integrationClass>
+    <integrationClassName>MJVjR</integrationClassName>
+    <isTaxCompliant>false</isTaxCompliant>
+    <keyProvisioningSupported>false</keyProvisioningSupported>
+    <masterLabel>tMV</masterLabel>
+    <namedCredential>XUaq</namedCredential>
+    <namedCredentialSupported>false</namedCredentialSupported>
+    <partnerContactCenterListSupported>false</partnerContactCenterListSupported>
+    <partnerPhoneNumbersSupported>false</partnerPhoneNumbersSupported>
+    <partnerTransferDestinationsSupported>true</partnerTransferDestinationsSupported>
+    <queueManagementSupported>true</queueManagementSupported>
+    <serverAuthMode>OAuth</serverAuthMode>
+    <telephonySettingsComponent>lSzDvCY</telephonySettingsComponent>
+    <universalCallRecordingAccessSupported>false</universalCallRecordingAccessSupported>
+    <userSyncingSupported>false</userSyncingSupported>
+    <vendorType>Amazon_Connect</vendorType>
+</ConversationVendorInfo>

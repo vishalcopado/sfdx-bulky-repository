@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchedulingRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Charity</fullName>
+    <isProtected>true</isProtected>
+    <masterLabel>Lq</masterLabel>
+    <schedulingCategory>B</schedulingCategory>
+    <schedulingRuleParameters>
+        <schedulingParameterKey>L</schedulingParameterKey>
+        <value>aSQLVAjGS</value>
+    </schedulingRuleParameters>
+    <schedulingRuleType>LimitNonstandardShifts</schedulingRuleType>
+</SchedulingRule>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexTrigger xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Marcus</fullName>
+    <content>/cU=</content>
+    <apiVersion>0.19478623014868168</apiVersion>
+    <packageVersions>
+        <majorNumber>-2082906657</majorNumber>
+        <minorNumber>-738292585</minorNumber>
+        <namespace>K</namespace>
+    </packageVersions>
+    <status>Deleted</status>
+</ApexTrigger>

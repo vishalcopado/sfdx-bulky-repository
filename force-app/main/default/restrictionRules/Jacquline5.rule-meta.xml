@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RestrictionRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jacquline</fullName>
+    <active>true</active>
+    <dataspaceScope>kSyxmrmw</dataspaceScope>
+    <description>g</description>
+    <enforcementType>Restrict</enforcementType>
+    <masterLabel>FTdO</masterLabel>
+    <recordFilter>DCyxv</recordFilter>
+    <targetEntity>goHyMaf</targetEntity>
+    <userCriteria>NUgpaBBk</userCriteria>
+    <version>1689072187</version>
+</RestrictionRule>

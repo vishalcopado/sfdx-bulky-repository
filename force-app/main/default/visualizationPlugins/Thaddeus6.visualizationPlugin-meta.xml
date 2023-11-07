@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualizationPlugin xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Thaddeus</fullName>
+    <description>kKIryktP</description>
+    <developerName>JqNfBbNV</developerName>
+    <icon>bLHZD</icon>
+    <masterLabel>qvO</masterLabel>
+    <visualizationResources>
+        <description>Kq</description>
+        <file>so</file>
+        <rank>-97139217</rank>
+        <type>js</type>
+    </visualizationResources>
+    <visualizationResources>
+        <description>IineyZo</description>
+        <file>vYXeiCqwh</file>
+        <rank>871168001</rank>
+        <type>js</type>
+    </visualizationResources>
+    <visualizationTypes>
+        <description>ODV</description>
+        <developerName>dHaIgpUwj</developerName>
+        <icon>udPwhyx</icon>
+        <masterLabel>wzSFOcNZG</masterLabel>
+        <scriptBootstrapMethod>HK</scriptBootstrapMethod>
+    </visualizationTypes>
+    <visualizationTypes>
+        <description>jhyla</description>
+        <developerName>WnYNr</developerName>
+        <icon>eHU</icon>
+        <masterLabel>yzmyA</masterLabel>
+        <scriptBootstrapMethod>KPLRSG</scriptBootstrapMethod>
+    </visualizationTypes>
+</VisualizationPlugin>

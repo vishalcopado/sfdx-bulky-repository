@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ezra</fullName>
+    <acwExtensionDuration>1257452855</acwExtensionDuration>
+    <afterConvoWorkMaxTime>-1771200891</afterConvoWorkMaxTime>
+    <doesMinimizeWidgetOnAccept>false</doesMinimizeWidgetOnAccept>
+    <hasAcwExtensionEnabled>true</hasAcwExtensionEnabled>
+    <hasAfterConvoWorkTimer>true</hasAfterConvoWorkTimer>
+    <hasAutoAcceptEnabled>true</hasAutoAcceptEnabled>
+    <interactionComponent>HtaNF</interactionComponent>
+    <label>RMmcz</label>
+    <maxExtensions>tD</maxExtensions>
+    <relatedEntityType>Ue</relatedEntityType>
+    <secondaryRoutingPriorityField>OV</secondaryRoutingPriorityField>
+    <serviceChannelFieldPriorities>
+        <priority>1678349863</priority>
+        <value>cPFiTysW</value>
+    </serviceChannelFieldPriorities>
+    <serviceChannelFieldPriorities>
+        <priority>-1596111362</priority>
+        <value>azlksxwO</value>
+    </serviceChannelFieldPriorities>
+</ServiceChannel>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChannelObjectLinkingRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brook</fullName>
+    <actionForNoRecordFound>PromptAgent</actionForNoRecordFound>
+    <actionForSingleRecordFound>PromptAgent</actionForSingleRecordFound>
+    <channelType>FacebookMessenger</channelType>
+    <description>VIJUqtE</description>
+    <isLinkedRecordOpenedAsSubTab>true</isLinkedRecordOpenedAsSubTab>
+    <isRuleActive>false</isRuleActive>
+    <masterLabel>wMtXYW</masterLabel>
+    <objectToLink>Contact</objectToLink>
+    <ruleName>aasUfMKSV</ruleName>
+</ChannelObjectLinkingRule>

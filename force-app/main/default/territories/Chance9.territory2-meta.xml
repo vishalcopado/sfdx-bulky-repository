@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2 xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Chance</fullName>
+    <accountAccessLevel>hormQK</accountAccessLevel>
+    <caseAccessLevel>fBqgP</caseAccessLevel>
+    <contactAccessLevel>PfxWOZnz</contactAccessLevel>
+    <customFields>
+        <name>ZQ</name>
+        <value>java.lang.Object@7f2c9599</value>
+    </customFields>
+    <customFields>
+        <name>LqfxA</name>
+        <value>java.lang.Object@65415b86</value>
+    </customFields>
+    <description>w</description>
+    <name>JDa</name>
+    <objectAccessLevels>
+        <accessLevel>vmaTivJxd</accessLevel>
+        <objectType>K</objectType>
+    </objectAccessLevels>
+    <objectAccessLevels>
+        <accessLevel>xtOU</accessLevel>
+        <objectType>IqsfRwLo</objectType>
+    </objectAccessLevels>
+    <opportunityAccessLevel>XVdNZMeB</opportunityAccessLevel>
+    <parentTerritory>N</parentTerritory>
+    <ruleAssociations>
+        <inherited>false</inherited>
+        <ruleName>wENlrjVx</ruleName>
+    </ruleAssociations>
+    <territory2Type>jGTz</territory2Type>
+</Territory2>

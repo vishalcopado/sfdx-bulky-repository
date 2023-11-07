@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetLicenseDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Travis</fullName>
+    <customPermissions>
+        <name>jaOhMq</name>
+    </customPermissions>
+    <customPermissions>
+        <name>GKh</name>
+    </customPermissions>
+    <isSupplementLicense>false</isSupplementLicense>
+    <label>gaM</label>
+    <licenseExpirationPolicy>BlockNamespaceAccess</licenseExpirationPolicy>
+    <userLicenseRestrictions>OEEQnKnVp</userLicenseRestrictions>
+</PermissionSetLicenseDefinition>

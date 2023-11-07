@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OrchestrationContext xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Maricruz</fullName>
+    <datasets>
+        <datasetType>F</datasetType>
+        <orchestrationDataset>UiZFqHaJo</orchestrationDataset>
+    </datasets>
+    <description>xXosvSw</description>
+    <events>
+        <eventType>nFHHscuq</eventType>
+        <orchestrationEvent>sCDup</orchestrationEvent>
+        <platformEvent>inqJcnNU</platformEvent>
+        <platformEventPrimaryKey>GETVqobvY</platformEventPrimaryKey>
+    </events>
+    <events>
+        <eventType>JCONf</eventType>
+        <orchestrationEvent>leHX</orchestrationEvent>
+        <platformEvent>lSNdFcnEB</platformEvent>
+        <platformEventPrimaryKey>QYse</platformEventPrimaryKey>
+    </events>
+    <imageFile>fLBlcC</imageFile>
+    <imageScale>-1047874387</imageScale>
+    <masterLabel>udFleua</masterLabel>
+    <primaryKeyDataType>ik</primaryKeyDataType>
+    <runtimeType>ihP</runtimeType>
+    <salesforceObject>molR</salesforceObject>
+    <salesforceObjectPrimaryKey>EgMRkq</salesforceObjectPrimaryKey>
+</OrchestrationContext>

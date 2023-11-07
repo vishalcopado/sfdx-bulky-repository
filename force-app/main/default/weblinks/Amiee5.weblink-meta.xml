@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPageWebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Amiee</fullName>
+    <availability>online</availability>
+    <description>gQvNtQHH</description>
+    <displayType>massActionButton</displayType>
+    <encodingKey>ISO-2022-JP</encodingKey>
+    <hasMenubar>false</hasMenubar>
+    <hasScrollbars>true</hasScrollbars>
+    <hasToolbar>false</hasToolbar>
+    <height>1581879409</height>
+    <isResizable>false</isResizable>
+    <linkType>javascript</linkType>
+    <masterLabel>KwtOg</masterLabel>
+    <openType>noSidebar</openType>
+    <page>ulYx</page>
+    <position>topLeft</position>
+    <protected>false</protected>
+    <requireRowSelection>true</requireRowSelection>
+    <scontrol>Dat</scontrol>
+    <showsLocation>true</showsLocation>
+    <showsStatus>false</showsStatus>
+    <url>gPUnZb</url>
+    <width>1776179431</width>
+</CustomPageWebLink>

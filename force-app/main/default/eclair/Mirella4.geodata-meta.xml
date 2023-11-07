@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EclairGeoData xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mirella</fullName>
+    <content>AeQ=</content>
+    <maps>
+        <boundingBoxBottom>0.5935036422612853</boundingBoxBottom>
+        <boundingBoxLeft>0.688676692820046</boundingBoxLeft>
+        <boundingBoxRight>0.48488113375149955</boundingBoxRight>
+        <boundingBoxTop>0.7241601137959526</boundingBoxTop>
+        <mapLabel>ThgCoEFi</mapLabel>
+        <mapName>Nv</mapName>
+        <projection>b</projection>
+    </maps>
+    <masterLabel>A</masterLabel>
+</EclairGeoData>

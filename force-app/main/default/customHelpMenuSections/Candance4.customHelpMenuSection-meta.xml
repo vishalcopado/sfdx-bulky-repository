@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomHelpMenuSection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Candance</fullName>
+    <customHelpMenuItems>
+        <linkUrl>WAW</linkUrl>
+        <masterLabel>dy</masterLabel>
+        <sortOrder>763064870</sortOrder>
+    </customHelpMenuItems>
+    <customHelpMenuItems>
+        <linkUrl>OupiLLTr</linkUrl>
+        <masterLabel>J</masterLabel>
+        <sortOrder>-1556677902</sortOrder>
+    </customHelpMenuItems>
+    <masterLabel>m</masterLabel>
+</CustomHelpMenuSection>

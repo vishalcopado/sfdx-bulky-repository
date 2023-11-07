@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Garland</fullName>
+    <contactEmail>xyMofZk</contactEmail>
+    <description>KVW</description>
+    <iconUrl>U</iconUrl>
+    <infoUrl>BpM</infoUrl>
+    <isDistributed>true</isDistributed>
+    <isProtected>false</isProtected>
+    <logoUrl>MRTP</logoUrl>
+    <masterLabel>gNnh</masterLabel>
+    <oauthDev>
+        <callbackUrl>ZKkThbx</callbackUrl>
+        <certificate>gwOoXxT</certificate>
+        <consumerKey>FEjB</consumerKey>
+        <consumerSecret>lGiWjVvtp</consumerSecret>
+        <idTokenConfig>
+            <idTokenAudience>Yauc</idTokenAudience>
+            <idTokenIncludeAttributes>false</idTokenIncludeAttributes>
+            <idTokenIncludeCustomPerms>false</idTokenIncludeCustomPerms>
+            <idTokenIncludeStandardClaims>false</idTokenIncludeStandardClaims>
+            <idTokenValidity>1984443901</idTokenValidity>
+        </idTokenConfig>
+        <isClientCredentialEnabled>true</isClientCredentialEnabled>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>true</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <selectedScopes>
+            <scope>Phone</scope>
+            <scope>Chatter</scope>
+        </selectedScopes>
+        <singleLogoutUrl>Fc</singleLogoutUrl>
+    </oauthDev>
+    <orgScopedExternalApp>W</orgScopedExternalApp>
+</ExternalClientApplication>

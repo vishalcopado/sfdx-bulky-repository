@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Versie</fullName>
+    <appleTeam>xG</appleTeam>
+    <authorizeUrl>XVvzbQX</authorizeUrl>
+    <consumerKey>KUxCTFvX</consumerKey>
+    <consumerSecret>RTu</consumerSecret>
+    <controlPlane>EU</controlPlane>
+    <customMetadataTypeRecord>tZGDeYY</customMetadataTypeRecord>
+    <defaultScopes>JgssBgL</defaultScopes>
+    <ecKey>GotYQXqYp</ecKey>
+    <errorUrl>kOUCgb</errorUrl>
+    <executionUser>xHFRsvpIx</executionUser>
+    <friendlyName>U</friendlyName>
+    <iconUrl>GXF</iconUrl>
+    <idTokenIssuer>KJNPMRIw</idTokenIssuer>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <linkKickoffUrl>e</linkKickoffUrl>
+    <logoutUrl>NJZhnHmMs</logoutUrl>
+    <oauthKickoffUrl>qerhk</oauthKickoffUrl>
+    <plugin>SzHQEy</plugin>
+    <portal>Djokq</portal>
+    <providerType>Facebook</providerType>
+    <registrationHandler>k</registrationHandler>
+    <requireMfa>false</requireMfa>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>false</sendSecretInApis>
+    <ssoKickoffUrl>GTxTLslXH</ssoKickoffUrl>
+    <tokenUrl>lMOoDQ</tokenUrl>
+    <userInfoUrl>qA</userInfoUrl>
+</AuthProvider>

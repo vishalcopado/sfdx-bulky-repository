@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Edward</fullName>
+    <content>qjE=</content>
+    <apiVersion>0.04512230300581277</apiVersion>
+    <attachedDocuments>T</attachedDocuments>
+    <attachments>
+        <content>VA==</content>
+        <name>GG</name>
+    </attachments>
+    <attachments>
+        <content>+no=</content>
+        <name>rEoDconoK</name>
+    </attachments>
+    <available>true</available>
+    <description>AJS</description>
+    <encodingKey>Shift_JIS</encodingKey>
+    <letterhead>l</letterhead>
+    <name>wSLTZRqH</name>
+    <packageVersions>
+        <majorNumber>-1571151021</majorNumber>
+        <minorNumber>-2018030287</minorNumber>
+        <namespace>qKKkRzd</namespace>
+    </packageVersions>
+    <pageDevName>QjaJABeiP</pageDevName>
+    <relatedEntityType>RTYmsvUL</relatedEntityType>
+    <style>none</style>
+    <subject>zCcgdICo</subject>
+    <textOnly>GblxTOqW</textOnly>
+    <type>custom</type>
+    <uiType>SFX_Sample</uiType>
+</EmailTemplate>

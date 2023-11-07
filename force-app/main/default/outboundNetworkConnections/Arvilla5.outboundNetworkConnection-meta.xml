@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OutboundNetworkConnection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Arvilla</fullName>
+    <connectionType>AwsPrivateLink</connectionType>
+    <description>LH</description>
+    <isActive>true</isActive>
+    <label>EXrm</label>
+    <outboundNetworkConnProperties>
+        <propertyName>Region</propertyName>
+        <propertyValue>kUN</propertyValue>
+    </outboundNetworkConnProperties>
+    <outboundNetworkConnProperties>
+        <propertyName>AwsVpcEndpointId</propertyName>
+        <propertyValue>coBC</propertyValue>
+    </outboundNetworkConnProperties>
+    <status>RejectedRemotely</status>
+</OutboundNetworkConnection>

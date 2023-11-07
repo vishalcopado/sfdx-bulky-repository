@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebStoreTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Enoch</fullName>
+    <autoFacetingEnabled>true</autoFacetingEnabled>
+    <cartSummaryEnabled>false</cartSummaryEnabled>
+    <cartToOrderAutoCustomFieldMapping>false</cartToOrderAutoCustomFieldMapping>
+    <checkoutTimeToLive>-1846695825</checkoutTimeToLive>
+    <checkoutValidAfterDate>2014-03-25T07:36:02.082Z</checkoutValidAfterDate>
+    <commerceEinsteinActivitiesTracked>true</commerceEinsteinActivitiesTracked>
+    <commerceEinsteinDeployed>false</commerceEinsteinDeployed>
+    <country>MG</country>
+    <defaultCurrency>gEquja</defaultCurrency>
+    <defaultLanguage>lVzGaf</defaultLanguage>
+    <defaultTaxLocaleType>Gross</defaultTaxLocaleType>
+    <description>oJZyWLqQ</description>
+    <guestBrowsingEnabled>false</guestBrowsingEnabled>
+    <guestCartEnabled>true</guestCartEnabled>
+    <guestCartTimeToLive>676085562</guestCartTimeToLive>
+    <guestCheckoutEnabled>true</guestCheckoutEnabled>
+    <masterLabel>vCUk</masterLabel>
+    <maxValuesPerFacet>1026766841</maxValuesPerFacet>
+    <orderActivationStatus>FaYEHBzDI</orderActivationStatus>
+    <orderLifeCycleType>UNMANAGED</orderLifeCycleType>
+    <paginationSize>-1671282271</paginationSize>
+    <pricingStrategy>Priority</pricingStrategy>
+    <productGrouping>VariationParent</productGrouping>
+    <skipAdditionalEntitlementCheckForSearch>true</skipAdditionalEntitlementCheckForSearch>
+    <supportedCurrencies>c</supportedCurrencies>
+    <supportedLanguages>dwdDGpU</supportedLanguages>
+    <supportedShipToCountries>y</supportedShipToCountries>
+    <type>B2CE</type>
+</WebStoreTemplate>

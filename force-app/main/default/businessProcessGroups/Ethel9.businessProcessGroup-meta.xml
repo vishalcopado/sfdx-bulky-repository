@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessProcessGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ethel</fullName>
+    <businessProcessDefinitions>
+        <businessProcessFeedbacks>
+            <actionName>OilEGs</actionName>
+            <actionParam>NHZwFiN</actionParam>
+            <actionType>SURVEY</actionType>
+        </businessProcessFeedbacks>
+        <description>TScItBq</description>
+        <developerName>CBsyHb</developerName>
+        <masterLabel>cWFjfgLz</masterLabel>
+        <sequenceNumber>2054162562</sequenceNumber>
+    </businessProcessDefinitions>
+    <customerSatisfactionMetric>Picklist</customerSatisfactionMetric>
+    <description>GPCtf</description>
+    <masterLabel>nhvATogk</masterLabel>
+</BusinessProcessGroup>

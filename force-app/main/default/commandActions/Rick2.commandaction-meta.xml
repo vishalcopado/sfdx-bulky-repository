@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommandAction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rick</fullName>
+    <actionType>pWYAIgW</actionType>
+    <description>KfKLG</description>
+    <intents>
+        <phrase>ml</phrase>
+        <responseTemplates>
+            <template>hKTrQu</template>
+        </responseTemplates>
+        <responseTemplates>
+            <template>qvlBUil</template>
+        </responseTemplates>
+    </intents>
+    <label>nGunG</label>
+    <parameters>
+        <defaultValue>nHY</defaultValue>
+        <description>eo</description>
+        <name>NTxEQok</name>
+        <required>false</required>
+        <type>VPKVOw</type>
+    </parameters>
+    <responseTemplates>
+        <template>ymnUpT</template>
+    </responseTemplates>
+    <target>hpLCe</target>
+</CommandAction>

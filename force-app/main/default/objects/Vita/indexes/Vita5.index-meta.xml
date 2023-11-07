@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Index xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Vita</fullName>
+    <fields>
+        <name>Mr</name>
+        <sortDirection>r</sortDirection>
+    </fields>
+    <fields>
+        <name>KonjWsID</name>
+        <sortDirection>iiB</sortDirection>
+    </fields>
+    <label>tFsnr</label>
+</Index>

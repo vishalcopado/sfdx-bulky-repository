@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingTypeSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Claudio</fullName>
+    <forecastingSourceDefinition>Bt</forecastingSourceDefinition>
+    <forecastingType>mgBmyyLq</forecastingType>
+    <isProtected>false</isProtected>
+    <masterLabel>iFRvpbQeU</masterLabel>
+    <parentSourceDefinition>tOxBZT</parentSourceDefinition>
+    <relationField>lyvwQJCz</relationField>
+    <sourceGroup>52293954</sourceGroup>
+</ForecastingTypeSource>

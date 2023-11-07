@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssistantRecommendationType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Minta</fullName>
+    <description>YnggyRJ</description>
+    <masterLabel>npuCU</masterLabel>
+    <platformActionlist>
+        <actionListContext>Assistant</actionListContext>
+        <platformActionListItems>
+            <actionName>o</actionName>
+            <actionType>CustomButton</actionType>
+            <sortOrder>-1501200782</sortOrder>
+            <subtype>t</subtype>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>AX</actionName>
+            <actionType>ProductivityAction</actionType>
+            <sortOrder>-1355604232</sortOrder>
+            <subtype>XB</subtype>
+        </platformActionListItems>
+        <relatedSourceEntity>QFAerELU</relatedSourceEntity>
+    </platformActionlist>
+    <sobjectType>ZnHJL</sobjectType>
+    <title>dDAUCd</title>
+</AssistantRecommendationType>

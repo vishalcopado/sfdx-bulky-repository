@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Emmett</fullName>
+    <accessMappings>
+        <accessLevel>sYOjIIhKP</accessLevel>
+        <object>fwjSPVux</object>
+        <objectField>SNTqABExT</objectField>
+        <userField>gliyAyX</userField>
+    </accessMappings>
+    <accessMappings>
+        <accessLevel>ZyvgEnEmu</accessLevel>
+        <object>NXHndCK</object>
+        <objectField>mG</objectField>
+        <userField>w</userField>
+    </accessMappings>
+    <description>FnUHLa</description>
+    <name>FphqhV</name>
+    <profiles>h</profiles>
+</SharingSet>

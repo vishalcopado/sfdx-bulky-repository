@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkflowTask xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Freeman</fullName>
+    <assignedTo>ACeRJU</assignedTo>
+    <assignedToType>portalRole</assignedToType>
+    <description>iHCcqYbv</description>
+    <dueDateOffset>-1738464120</dueDateOffset>
+    <notifyAssignee>true</notifyAssignee>
+    <offsetFromField>aEKfhQlP</offsetFromField>
+    <priority>UbD</priority>
+    <protected>true</protected>
+    <status>tAOhvYET</status>
+    <subject>AxFkJZF</subject>
+</WorkflowTask>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jaquelyn</fullName>
+    <actionOverrides>
+        <actionName>yfecmi</actionName>
+        <comment>vBpOi</comment>
+        <content>Qqb</content>
+        <formFactor>Large</formFactor>
+        <skipRecordTypeSelect>true</skipRecordTypeSelect>
+        <type>Scontrol</type>
+    </actionOverrides>
+    <auraComponent>U</auraComponent>
+    <customObject>true</customObject>
+    <description>dZXT</description>
+    <flexiPage>EDBaXnM</flexiPage>
+    <frameHeight>-1571994916</frameHeight>
+    <hasSidebar>false</hasSidebar>
+    <icon>d</icon>
+    <label>ZLr</label>
+    <lwcComponent>NkBzx</lwcComponent>
+    <mobileReady>false</mobileReady>
+    <motif>jrVrrl</motif>
+    <page>uzcCVJUx</page>
+    <scontrol>l</scontrol>
+    <splashPageLink>D</splashPageLink>
+    <url>Y</url>
+    <urlEncodingKey>EUC-JP</urlEncodingKey>
+</CustomTab>

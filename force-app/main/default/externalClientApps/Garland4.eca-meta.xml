@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Garland</fullName>
+    <contactEmail>nSV</contactEmail>
+    <description>oQlkof</description>
+    <iconUrl>j</iconUrl>
+    <infoUrl>tlfCpGc</infoUrl>
+    <isDistributed>true</isDistributed>
+    <isProtected>false</isProtected>
+    <logoUrl>spZZeN</logoUrl>
+    <masterLabel>jNwztHh</masterLabel>
+    <oauthDev>
+        <callbackUrl>deEAj</callbackUrl>
+        <certificate>OOrJ</certificate>
+        <consumerKey>yWKmkR</consumerKey>
+        <consumerSecret>MIjbyIO</consumerSecret>
+        <idTokenConfig>
+            <idTokenAudience>QNFfoj</idTokenAudience>
+            <idTokenIncludeAttributes>false</idTokenIncludeAttributes>
+            <idTokenIncludeCustomPerms>false</idTokenIncludeCustomPerms>
+            <idTokenIncludeStandardClaims>true</idTokenIncludeStandardClaims>
+            <idTokenValidity>-805714028</idTokenValidity>
+        </idTokenConfig>
+        <isClientCredentialEnabled>true</isClientCredentialEnabled>
+        <isConsumerSecretOptional>true</isConsumerSecretOptional>
+        <isIntrospectAllTokens>true</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <selectedScopes>
+            <scope>CDPProfile</scope>
+        </selectedScopes>
+        <singleLogoutUrl>lIZG</singleLogoutUrl>
+    </oauthDev>
+    <orgScopedExternalApp>Ji</orgScopedExternalApp>
+</ExternalClientApplication>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailServicesFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Malena</fullName>
+    <apexClass>VAQqWJ</apexClass>
+    <attachmentOption>TextOnly</attachmentOption>
+    <authenticationFailureAction>Requeue</authenticationFailureAction>
+    <authorizationFailureAction>Discard</authorizationFailureAction>
+    <authorizedSenders>VUJxhuim</authorizedSenders>
+    <emailServicesAddresses>
+        <authorizedSenders>IL</authorizedSenders>
+        <developerName>Kf</developerName>
+        <isActive>true</isActive>
+        <localPart>kBabCp</localPart>
+        <runAsUser>yt</runAsUser>
+    </emailServicesAddresses>
+    <emailServicesAddresses>
+        <authorizedSenders>jXoIqcYcF</authorizedSenders>
+        <developerName>kq</developerName>
+        <isActive>true</isActive>
+        <localPart>kwmA</localPart>
+        <runAsUser>cBWTBbON</runAsUser>
+    </emailServicesAddresses>
+    <errorRoutingAddress>pPhmbI</errorRoutingAddress>
+    <functionInactiveAction>Requeue</functionInactiveAction>
+    <functionName>bRWr</functionName>
+    <isActive>true</isActive>
+    <isAuthenticationRequired>false</isAuthenticationRequired>
+    <isErrorRoutingEnabled>false</isErrorRoutingEnabled>
+    <isTextAttachmentsAsBinary>true</isTextAttachmentsAsBinary>
+    <isTlsRequired>true</isTlsRequired>
+    <overLimitAction>Discard</overLimitAction>
+</EmailServicesFunction>

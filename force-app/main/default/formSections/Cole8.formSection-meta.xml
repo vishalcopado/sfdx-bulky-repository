@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FormSection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cole</fullName>
+    <formColumns>
+        <formItems>
+            <emptySpace>true</emptySpace>
+            <expression>UWTPHw</expression>
+            <formLayoutableItem>uVED</formLayoutableItem>
+            <helpText>GP</helpText>
+        </formItems>
+    </formColumns>
+    <formColumns>
+        <formItems>
+            <emptySpace>true</emptySpace>
+            <expression>wCP</expression>
+            <formLayoutableItem>gYmGLsjVk</formLayoutableItem>
+            <helpText>BdPzjg</helpText>
+        </formItems>
+    </formColumns>
+    <masterLabel>lgyucg</masterLabel>
+    <tabOrderType>TopToBottom</tabOrderType>
+</FormSection>

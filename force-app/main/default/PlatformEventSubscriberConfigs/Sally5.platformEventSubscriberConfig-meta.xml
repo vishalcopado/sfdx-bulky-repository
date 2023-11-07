@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventSubscriberConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sally</fullName>
+    <batchSize>-1709909225</batchSize>
+    <isProtected>false</isProtected>
+    <masterLabel>V</masterLabel>
+    <platformEventConsumer>Ndr</platformEventConsumer>
+    <user>vYHE</user>
+</PlatformEventSubscriberConfig>

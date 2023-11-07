@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamlSsoConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lindsay</fullName>
+    <attributeName>goBDcU</attributeName>
+    <attributeNameIdFormat>UFXsibh</attributeNameIdFormat>
+    <decryptionCertificate>Zh</decryptionCertificate>
+    <errorUrl>rPWkNwlA</errorUrl>
+    <executionUserId>ARY</executionUserId>
+    <identityLocation>SubjectNameId</identityLocation>
+    <identityMapping>UserId</identityMapping>
+    <issuer>xwROBCWg</issuer>
+    <loginUrl>JoIY</loginUrl>
+    <logoutUrl>VDvxnNPLc</logoutUrl>
+    <name>l</name>
+    <oauthTokenEndpoint>IinHcOiqL</oauthTokenEndpoint>
+    <redirectBinding>false</redirectBinding>
+    <requestSignatureMethod>szcSkxsgM</requestSignatureMethod>
+    <requestSigningCertId>ELV</requestSigningCertId>
+    <salesforceLoginUrl>eDZI</salesforceLoginUrl>
+    <samlEntityId>PMMc</samlEntityId>
+    <samlJitHandlerId>maYvzIl</samlJitHandlerId>
+    <samlVersion>SAML1_1</samlVersion>
+    <singleLogoutBinding>RedirectBinding</singleLogoutBinding>
+    <singleLogoutUrl>DJFS</singleLogoutUrl>
+    <useConfigRequestMethod>true</useConfigRequestMethod>
+    <useSameDigestAlgoForSigning>true</useSameDigestAlgoForSigning>
+    <userProvisioning>true</userProvisioning>
+    <validationCert>vIIXb</validationCert>
+</SamlSsoConfig>

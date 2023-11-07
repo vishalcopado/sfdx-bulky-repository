@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPageWebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Amiee</fullName>
+    <availability>online</availability>
+    <description>sKU</description>
+    <displayType>link</displayType>
+    <encodingKey>x-SJIS_0213</encodingKey>
+    <hasMenubar>true</hasMenubar>
+    <hasScrollbars>false</hasScrollbars>
+    <hasToolbar>true</hasToolbar>
+    <height>-1370419445</height>
+    <isResizable>true</isResizable>
+    <linkType>url</linkType>
+    <masterLabel>wJRTPy</masterLabel>
+    <openType>newWindow</openType>
+    <page>MCChmw</page>
+    <position>fullScreen</position>
+    <protected>false</protected>
+    <requireRowSelection>false</requireRowSelection>
+    <scontrol>DgKMND</scontrol>
+    <showsLocation>false</showsLocation>
+    <showsStatus>false</showsStatus>
+    <url>NHH</url>
+    <width>1227574455</width>
+</CustomPageWebLink>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeSheetTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Randolph</fullName>
+    <active>false</active>
+    <description>WdMygBfQ</description>
+    <frequency>EveryTwoWeeks</frequency>
+    <isProtected>false</isProtected>
+    <masterLabel>OV</masterLabel>
+    <startDate>2017-10-05T03:11:42.399Z</startDate>
+    <timeSheetTemplateAssignments>
+        <assignedTo>Kwpmbnh</assignedTo>
+    </timeSheetTemplateAssignments>
+    <timeSheetTemplateAssignments>
+        <assignedTo>KUsAOeaAL</assignedTo>
+    </timeSheetTemplateAssignments>
+    <workWeekEndDay>Monday</workWeekEndDay>
+    <workWeekStartDay>Tuesday</workWeekStartDay>
+</TimeSheetTemplate>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticSnapshot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mitsue</fullName>
+    <description>wIPd</description>
+    <groupColumn>ZHPwcOLy</groupColumn>
+    <mappings>
+        <aggregateType>Unique</aggregateType>
+        <sourceField>ny</sourceField>
+        <sourceType>snapshot</sourceType>
+        <targetField>n</targetField>
+    </mappings>
+    <mappings>
+        <aggregateType>Unique</aggregateType>
+        <sourceField>WYTxN</sourceField>
+        <sourceType>tabular</sourceType>
+        <targetField>BOgK</targetField>
+    </mappings>
+    <name>EvkdyS</name>
+    <runningUser>AZxNnq</runningUser>
+    <sourceReport>Rinj</sourceReport>
+    <targetObject>lYQq</targetObject>
+</AnalyticSnapshot>

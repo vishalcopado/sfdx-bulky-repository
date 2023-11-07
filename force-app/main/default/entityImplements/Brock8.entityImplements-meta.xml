@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntityImplements xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brock</fullName>
+    <fieldImplements>
+        <field>y</field>
+        <interfaceField>TXwDsDPZq</interfaceField>
+    </fieldImplements>
+    <fieldImplements>
+        <field>f</field>
+        <interfaceField>rvxdNZ</interfaceField>
+    </fieldImplements>
+    <fieldMap>
+        <field>WI</field>
+        <interfaceField>NMFvr</interfaceField>
+    </fieldMap>
+    <fieldMap>
+        <field>bF</field>
+        <interfaceField>cZ</interfaceField>
+    </fieldMap>
+    <isDefault>false</isDefault>
+    <isFullyMapped>false</isFullyMapped>
+</EntityImplements>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIScoringModelDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mae</fullName>
+    <aiModelConfig>fRf</aiModelConfig>
+    <aiScoringModelDefVersions>
+        <fullName>bpwVjU</fullName>
+        <aiScoringModelDefinition>qp</aiScoringModelDefinition>
+        <aiScoringSteps>
+            <aiModelConfigStep>xoVCmX</aiModelConfigStep>
+            <stepDetail>uTjB</stepDetail>
+        </aiScoringSteps>
+        <developerName>xeQdrshau</developerName>
+        <masterLabel>IdMljQB</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <aiScoringModelDefVersions>
+        <fullName>Lyla</fullName>
+        <aiScoringModelDefinition>Lyla</aiScoringModelDefinition>
+        <developerName>Lyla</developerName>
+        <masterLabel>Lyla</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <aiScoringModelDefVersions>
+        <fullName>ce816dc8-b3fe-409b-8c0c-b55ea56ac5bf</fullName>
+        <aiScoringModelDefinition>ce816dc8-b3fe-409b-8c0c-b55ea56ac5bf</aiScoringModelDefinition>
+        <developerName>ce816dc8-b3fe-409b-8c0c-b55ea56ac5bf</developerName>
+        <masterLabel>ce816dc8-b3fe-409b-8c0c-b55ea56ac5bf</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <description>ouFMlf</description>
+    <masterLabel>s</masterLabel>
+</AIScoringModelDefinition>

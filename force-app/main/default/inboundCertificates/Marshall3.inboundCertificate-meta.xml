@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InboundCertificate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Marshall</fullName>
+    <content>KQ==</content>
+    <expirationDate>2022-03-06T06:52:51.365Z</expirationDate>
+    <issuer>X</issuer>
+    <masterLabel>txfew</masterLabel>
+    <serialId>VLZCl</serialId>
+</InboundCertificate>

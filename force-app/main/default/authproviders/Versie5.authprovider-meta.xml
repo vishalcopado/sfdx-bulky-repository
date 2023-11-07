@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Versie</fullName>
+    <appleTeam>Z</appleTeam>
+    <authorizeUrl>OmakGL</authorizeUrl>
+    <consumerKey>huT</consumerKey>
+    <consumerSecret>kUI</consumerSecret>
+    <controlPlane>EU</controlPlane>
+    <customMetadataTypeRecord>uivtlHHm</customMetadataTypeRecord>
+    <defaultScopes>WfA</defaultScopes>
+    <ecKey>OAIAs</ecKey>
+    <errorUrl>pQLQGCm</errorUrl>
+    <executionUser>GuNn</executionUser>
+    <friendlyName>ufRbh</friendlyName>
+    <iconUrl>Q</iconUrl>
+    <idTokenIssuer>LnTEwxG</idTokenIssuer>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <linkKickoffUrl>BybPTIWVT</linkKickoffUrl>
+    <logoutUrl>cQf</logoutUrl>
+    <oauthKickoffUrl>peQPltYe</oauthKickoffUrl>
+    <plugin>biVWTILDs</plugin>
+    <portal>kUOt</portal>
+    <providerType>Microsoft</providerType>
+    <registrationHandler>oKbw</registrationHandler>
+    <requireMfa>true</requireMfa>
+    <sendAccessTokenInHeader>true</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+    <ssoKickoffUrl>Mt</ssoKickoffUrl>
+    <tokenUrl>LLmfSqKM</tokenUrl>
+    <userInfoUrl>zLnT</userInfoUrl>
+</AuthProvider>

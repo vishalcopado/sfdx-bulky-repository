@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EclairGeoData xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mirella</fullName>
+    <content>dlM=</content>
+    <maps>
+        <boundingBoxBottom>0.9704530771218304</boundingBoxBottom>
+        <boundingBoxLeft>0.8999356638107097</boundingBoxLeft>
+        <boundingBoxRight>0.4746605371503977</boundingBoxRight>
+        <boundingBoxTop>0.0703043757988071</boundingBoxTop>
+        <mapLabel>sRrXvc</mapLabel>
+        <mapName>t</mapName>
+        <projection>G</projection>
+    </maps>
+    <masterLabel>stkyyn</masterLabel>
+</EclairGeoData>

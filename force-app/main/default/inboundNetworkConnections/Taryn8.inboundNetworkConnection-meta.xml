@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InboundNetworkConnection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Taryn</fullName>
+    <connectionType>AwsPrivateLink</connectionType>
+    <description>ukN</description>
+    <inboundNetworkConnProperties>
+        <propertyName>SourceIpRanges</propertyName>
+        <propertyValue>j</propertyValue>
+    </inboundNetworkConnProperties>
+    <inboundNetworkConnProperties>
+        <propertyName>Region</propertyName>
+        <propertyValue>DZYqulwn</propertyValue>
+    </inboundNetworkConnProperties>
+    <isActive>false</isActive>
+    <label>S</label>
+    <status>RejectedRemotely</status>
+</InboundNetworkConnection>

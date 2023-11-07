@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserProvisioningConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bonny</fullName>
+    <approvalRequired>MQcrzncGW</approvalRequired>
+    <connectedApp>ezAUy</connectedApp>
+    <enabled>false</enabled>
+    <enabledOperations>ctA</enabledOperations>
+    <flow>c</flow>
+    <masterLabel>f</masterLabel>
+    <namedCredential>pTvWqxv</namedCredential>
+    <notes>OP</notes>
+    <onUpdateAttributes>KaWTSu</onUpdateAttributes>
+    <reconFilter>kh</reconFilter>
+    <userAccountMapping>C</userAccountMapping>
+</UserProvisioningConfig>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuraDefinitionBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lacy</fullName>
+    <SVGContent>ixw=</SVGContent>
+    <apiVersion>0.39688202626389424</apiVersion>
+    <auraDefinitions>
+        <auraDefinition>
+            <defType>cKkL</defType>
+            <source>eg==</source>
+        </auraDefinition>
+        <auraDefinition>
+            <defType>iD</defType>
+            <source>Za0=</source>
+        </auraDefinition>
+    </auraDefinitions>
+    <controllerContent>ghY=</controllerContent>
+    <description>g</description>
+    <designContent>gg==</designContent>
+    <documentationContent>umI=</documentationContent>
+    <helperContent>yuA=</helperContent>
+    <markup>lw==</markup>
+    <modelContent>qn0=</modelContent>
+    <packageVersions>
+        <majorNumber>-1402905770</majorNumber>
+        <minorNumber>-2140493623</minorNumber>
+        <namespace>bqizTKslb</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>-1409615145</majorNumber>
+        <minorNumber>-1410847038</minorNumber>
+        <namespace>DlHThVLEZ</namespace>
+    </packageVersions>
+    <rendererContent>A0M=</rendererContent>
+    <styleContent>GYU=</styleContent>
+    <testsuiteContent>lRg=</testsuiteContent>
+    <type>Event</type>
+</AuraDefinitionBundle>

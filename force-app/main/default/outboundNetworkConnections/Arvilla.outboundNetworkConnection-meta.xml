@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OutboundNetworkConnection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Arvilla</fullName>
+    <connectionType>AwsPrivateLink</connectionType>
+    <description>kWqMqep</description>
+    <isActive>true</isActive>
+    <label>IXHkII</label>
+    <outboundNetworkConnProperties>
+        <propertyName>AwsVpcEndpointServiceName</propertyName>
+        <propertyValue>dMGvBey</propertyValue>
+    </outboundNetworkConnProperties>
+    <outboundNetworkConnProperties>
+        <propertyName>AwsVpcEndpointServiceName</propertyName>
+        <propertyValue>qHTZiXNHQ</propertyValue>
+    </outboundNetworkConnProperties>
+    <status>DeletedRemotely</status>
+</OutboundNetworkConnection>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingFilterCondition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sylvia</fullName>
+    <colName>GuOMQpzH</colName>
+    <fieldName>wWeNv</fieldName>
+    <forecastingFilter>PqiB</forecastingFilter>
+    <forecastingSourceDefinition>FRxMuMnQ</forecastingSourceDefinition>
+    <isProtected>true</isProtected>
+    <masterLabel>ACB</masterLabel>
+    <operation>startsWith</operation>
+    <sortOrder>-647519239</sortOrder>
+    <value>grUTumVD</value>
+</ForecastingFilterCondition>

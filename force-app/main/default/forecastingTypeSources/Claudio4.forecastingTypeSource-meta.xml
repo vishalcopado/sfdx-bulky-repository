@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingTypeSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Claudio</fullName>
+    <forecastingSourceDefinition>fAb</forecastingSourceDefinition>
+    <forecastingType>IVwcpKU</forecastingType>
+    <isProtected>true</isProtected>
+    <masterLabel>Erp</masterLabel>
+    <parentSourceDefinition>AeMmOjBC</parentSourceDefinition>
+    <relationField>M</relationField>
+    <sourceGroup>-812931627</sourceGroup>
+</ForecastingTypeSource>

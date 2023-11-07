@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntitlementTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mathilde</fullName>
+    <businessHours>H</businessHours>
+    <casesPerEntitlement>-609533693</casesPerEntitlement>
+    <entitlementProcess>L</entitlementProcess>
+    <isPerIncident>true</isPerIncident>
+    <term>1499872629</term>
+    <type>tKfvIrB</type>
+</EntitlementTemplate>

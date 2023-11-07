@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamlSsoConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lindsay</fullName>
+    <attributeName>PP</attributeName>
+    <attributeNameIdFormat>obMazQk</attributeNameIdFormat>
+    <decryptionCertificate>yboa</decryptionCertificate>
+    <errorUrl>QFRhniY</errorUrl>
+    <executionUserId>Jp</executionUserId>
+    <identityLocation>SubjectNameId</identityLocation>
+    <identityMapping>Username</identityMapping>
+    <issuer>k</issuer>
+    <loginUrl>zJeD</loginUrl>
+    <logoutUrl>WtlWz</logoutUrl>
+    <name>jLJA</name>
+    <oauthTokenEndpoint>W</oauthTokenEndpoint>
+    <redirectBinding>false</redirectBinding>
+    <requestSignatureMethod>qTiPjVNCc</requestSignatureMethod>
+    <requestSigningCertId>Cz</requestSigningCertId>
+    <salesforceLoginUrl>Fp</salesforceLoginUrl>
+    <samlEntityId>GDIymcP</samlEntityId>
+    <samlJitHandlerId>Lm</samlJitHandlerId>
+    <samlVersion>SAML1_1</samlVersion>
+    <singleLogoutBinding>RedirectBinding</singleLogoutBinding>
+    <singleLogoutUrl>v</singleLogoutUrl>
+    <useConfigRequestMethod>true</useConfigRequestMethod>
+    <useSameDigestAlgoForSigning>true</useSameDigestAlgoForSigning>
+    <userProvisioning>false</userProvisioning>
+    <validationCert>BtNtvtu</validationCert>
+</SamlSsoConfig>

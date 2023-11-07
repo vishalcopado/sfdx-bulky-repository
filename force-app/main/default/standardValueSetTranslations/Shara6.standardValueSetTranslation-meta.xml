@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Shara</fullName>
+    <valueTranslation>
+        <masterLabel>gZ</masterLabel>
+        <translation>AgBIk</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>rh</masterLabel>
+        <translation>eZpCO</translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

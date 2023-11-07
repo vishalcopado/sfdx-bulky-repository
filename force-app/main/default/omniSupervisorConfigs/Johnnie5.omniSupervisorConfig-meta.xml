@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniSupervisorConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Johnnie</fullName>
+    <isTimelineHidden>true</isTimelineHidden>
+    <masterLabel>pq</masterLabel>
+    <omniSupervisorConfigAction>
+        <actionName>ChangeSkills</actionName>
+        <actionTab>AssignedWork</actionTab>
+        <customActionFlow>CJL</customActionFlow>
+        <displayOrder>-1850159924</displayOrder>
+    </omniSupervisorConfigAction>
+    <omniSupervisorConfigGroup>
+        <group>NLNnqy</group>
+    </omniSupervisorConfigGroup>
+    <omniSupervisorConfigGroup>
+        <group>NxWFbC</group>
+    </omniSupervisorConfigGroup>
+    <omniSupervisorConfigProfile>
+        <profile>iOM</profile>
+    </omniSupervisorConfigProfile>
+    <omniSupervisorConfigQueue>
+        <queue>KFyxXx</queue>
+    </omniSupervisorConfigQueue>
+    <omniSupervisorConfigSkill>
+        <skill>BLG</skill>
+    </omniSupervisorConfigSkill>
+    <omniSupervisorConfigSkill>
+        <skill>BQyJ</skill>
+    </omniSupervisorConfigSkill>
+    <skillVisibility>AnySkill</skillVisibility>
+</OmniSupervisorConfig>

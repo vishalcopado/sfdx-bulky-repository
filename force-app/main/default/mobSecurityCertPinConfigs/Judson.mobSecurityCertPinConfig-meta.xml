@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobSecurityCertPinConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Judson</fullName>
+    <certificateHash>wRJ</certificateHash>
+    <domainName>hifs</domainName>
+    <isEnabled>false</isEnabled>
+    <isProtected>true</isProtected>
+    <isSubdomainIncluded>true</isSubdomainIncluded>
+    <masterLabel>tdV</masterLabel>
+    <mobilePlatform>iOS</mobilePlatform>
+    <mobileSecurityAssignment>PNmmBg</mobileSecurityAssignment>
+    <mobileSecurityPolicySet>eExjebH</mobileSecurityPolicySet>
+    <severityLevel>Critical</severityLevel>
+    <type>Resource</type>
+</MobSecurityCertPinConfig>

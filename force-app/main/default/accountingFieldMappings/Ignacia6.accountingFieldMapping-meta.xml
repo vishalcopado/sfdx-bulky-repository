@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountingFieldMapping xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ignacia</fullName>
+    <accountingModelConfig>MwP</accountingModelConfig>
+    <isForAllocationType>false</isForAllocationType>
+    <isForPaymentType>true</isForPaymentType>
+    <isForTransactionType>true</isForTransactionType>
+    <isProtected>false</isProtected>
+    <mappingBehavior>CurrentValue</mappingBehavior>
+    <masterLabel>qMdeDv</masterLabel>
+    <sourceField>qXPoLD</sourceField>
+    <targetField>GnnzY</targetField>
+</AccountingFieldMapping>

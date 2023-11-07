@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssistantRecommendationType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Minta</fullName>
+    <description>HJQ</description>
+    <masterLabel>yLMC</masterLabel>
+    <platformActionlist>
+        <actionListContext>RecordEdit</actionListContext>
+        <platformActionListItems>
+            <actionName>OUqKimSO</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>-701575580</sortOrder>
+            <subtype>zT</subtype>
+        </platformActionListItems>
+        <relatedSourceEntity>WhBP</relatedSourceEntity>
+    </platformActionlist>
+    <sobjectType>yoWEbrA</sobjectType>
+    <title>ryta</title>
+</AssistantRecommendationType>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SynonymDictionary xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lonnie</fullName>
+    <groups>
+        <languages>eu</languages>
+        <languages>es_CL</languages>
+        <terms>LFDI</terms>
+        <terms>IlCE</terms>
+    </groups>
+    <groups>
+        <languages>en_AE</languages>
+        <languages>zh_SG</languages>
+        <terms>yPBtPO</terms>
+    </groups>
+    <isProtected>false</isProtected>
+    <label>XlMRHOMoq</label>
+</SynonymDictionary>

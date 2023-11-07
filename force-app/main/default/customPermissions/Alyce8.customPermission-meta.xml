@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPermission xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Alyce</fullName>
+    <connectedApp>faeMj</connectedApp>
+    <description>ISDxsB</description>
+    <isLicensed>true</isLicensed>
+    <label>D</label>
+    <requiredPermission>
+        <customPermission>k</customPermission>
+        <dependency>false</dependency>
+    </requiredPermission>
+</CustomPermission>

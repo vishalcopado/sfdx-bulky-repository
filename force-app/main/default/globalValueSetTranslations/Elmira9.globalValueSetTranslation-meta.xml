@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Elmira</fullName>
+    <valueTranslation>
+        <masterLabel>ZNUp</masterLabel>
+        <translation>TZbi</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PQciu</masterLabel>
+        <translation>QrWn</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

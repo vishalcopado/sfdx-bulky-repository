@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RegisteredExternalService xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ellamae</fullName>
+    <configUrl>tFqqqMEG</configUrl>
+    <documentationUrl>BKQTAzRTL</documentationUrl>
+    <extensionPointName>Cart_CartSummary_Inventory</extensionPointName>
+    <externalServiceProvider>Ihc</externalServiceProvider>
+    <externalServiceProviderType>Promotions</externalServiceProviderType>
+    <isProtected>false</isProtected>
+    <masterLabel>njiix</masterLabel>
+</RegisteredExternalService>

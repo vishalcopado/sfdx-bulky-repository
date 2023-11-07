@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningBolt xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Leena</fullName>
+    <category>Manufacturing</category>
+    <lightningBoltFeatures>
+        <description>StKkm</description>
+        <order>-1105713287</order>
+        <title>S</title>
+    </lightningBoltFeatures>
+    <lightningBoltImages>
+        <image>CYVv</image>
+        <order>2045588835</order>
+    </lightningBoltImages>
+    <lightningBoltImages>
+        <image>NetetBgO</image>
+        <order>547846493</order>
+    </lightningBoltImages>
+    <lightningBoltItems>
+        <name>y</name>
+        <type>xZtuUrHN</type>
+    </lightningBoltItems>
+    <lightningBoltItems>
+        <name>aKZ</name>
+        <type>gYENIj</type>
+    </lightningBoltItems>
+    <masterLabel>sK</masterLabel>
+    <publisher>fzVjrsF</publisher>
+    <summary>no</summary>
+</LightningBolt>

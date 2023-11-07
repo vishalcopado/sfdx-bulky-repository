@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceLiveAgent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Wilber</fullName>
+    <avatarImg>SWUGSob</avatarImg>
+    <customPrechatComponent>GAjoXDf</customPrechatComponent>
+    <embeddedServiceConfig>Z</embeddedServiceConfig>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>lxK</embeddedServiceLiveAgent>
+        <order>1078198856</order>
+        <quickActionDefinition>WnMod</quickActionDefinition>
+        <quickActionType>Prechat</quickActionType>
+    </embeddedServiceQuickActions>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>RKyjQctLF</embeddedServiceLiveAgent>
+        <order>401153293</order>
+        <quickActionDefinition>ZRcmH</quickActionDefinition>
+        <quickActionType>Prechat</quickActionType>
+    </embeddedServiceQuickActions>
+    <enabled>false</enabled>
+    <fontSize>Large</fontSize>
+    <headerBackgroundImg>JNDUe</headerBackgroundImg>
+    <isOfflineCaseEnabled>true</isOfflineCaseEnabled>
+    <isQueuePositionEnabled>true</isQueuePositionEnabled>
+    <liveAgentChatUrl>XdpN</liveAgentChatUrl>
+    <liveAgentContentUrl>FeVrDCO</liveAgentContentUrl>
+    <liveChatButton>BOKRfXDF</liveChatButton>
+    <liveChatDeployment>hVPSe</liveChatDeployment>
+    <masterLabel>YJAB</masterLabel>
+    <offlineCaseBackgroundImg>AffJH</offlineCaseBackgroundImg>
+    <prechatBackgroundImg>NT</prechatBackgroundImg>
+    <prechatEnabled>true</prechatEnabled>
+    <prechatJson>oDcpgAVJH</prechatJson>
+    <scenario>Basic</scenario>
+    <smallCompanyLogoImg>uZzlw</smallCompanyLogoImg>
+    <waitingStateBackgroundImg>KpwfA</waitingStateBackgroundImg>
+</EmbeddedServiceLiveAgent>

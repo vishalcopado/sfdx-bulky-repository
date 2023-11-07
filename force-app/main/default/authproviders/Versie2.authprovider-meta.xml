@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Versie</fullName>
+    <appleTeam>fYu</appleTeam>
+    <authorizeUrl>JlsixS</authorizeUrl>
+    <consumerKey>SCDqFtnol</consumerKey>
+    <consumerSecret>IGJzPiHhY</consumerSecret>
+    <controlPlane>EU</controlPlane>
+    <customMetadataTypeRecord>j</customMetadataTypeRecord>
+    <defaultScopes>P</defaultScopes>
+    <ecKey>hLm</ecKey>
+    <errorUrl>yGDHl</errorUrl>
+    <executionUser>WZqXoHeYj</executionUser>
+    <friendlyName>MaBIOdzg</friendlyName>
+    <iconUrl>BJVd</iconUrl>
+    <idTokenIssuer>QoFiLPmUQ</idTokenIssuer>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <linkKickoffUrl>khcyjLnD</linkKickoffUrl>
+    <logoutUrl>C</logoutUrl>
+    <oauthKickoffUrl>PlxaRt</oauthKickoffUrl>
+    <plugin>WGiDqWXHn</plugin>
+    <portal>pFKL</portal>
+    <providerType>Twitter</providerType>
+    <registrationHandler>jzEMW</registrationHandler>
+    <requireMfa>false</requireMfa>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>true</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+    <ssoKickoffUrl>ZJ</ssoKickoffUrl>
+    <tokenUrl>g</tokenUrl>
+    <userInfoUrl>JQCgci</userInfoUrl>
+</AuthProvider>

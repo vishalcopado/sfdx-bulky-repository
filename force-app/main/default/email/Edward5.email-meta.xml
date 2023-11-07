@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Edward</fullName>
+    <content>rNU=</content>
+    <apiVersion>0.7619449156350703</apiVersion>
+    <attachedDocuments>x</attachedDocuments>
+    <attachments>
+        <content>N4s=</content>
+        <name>tch</name>
+    </attachments>
+    <available>false</available>
+    <description>dB</description>
+    <encodingKey>GB2312</encodingKey>
+    <letterhead>FjOsaLx</letterhead>
+    <name>HOO</name>
+    <packageVersions>
+        <majorNumber>816162201</majorNumber>
+        <minorNumber>204269380</minorNumber>
+        <namespace>at</namespace>
+    </packageVersions>
+    <pageDevName>ktS</pageDevName>
+    <relatedEntityType>arY</relatedEntityType>
+    <style>promotionLeft</style>
+    <subject>c</subject>
+    <textOnly>EPJUe</textOnly>
+    <type>custom</type>
+    <uiType>SFX_Sample</uiType>
+</EmailTemplate>

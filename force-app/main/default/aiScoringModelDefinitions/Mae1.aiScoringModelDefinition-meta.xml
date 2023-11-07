@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIScoringModelDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mae</fullName>
+    <aiModelConfig>oNX</aiModelConfig>
+    <aiScoringModelDefVersions>
+        <fullName>UgeB</fullName>
+        <aiScoringModelDefinition>HzGnn</aiScoringModelDefinition>
+        <aiScoringSteps>
+            <aiModelConfigStep>Vvo</aiModelConfigStep>
+            <stepDetail>AS</stepDetail>
+        </aiScoringSteps>
+        <developerName>KQRSbVS</developerName>
+        <masterLabel>Tn</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <aiScoringModelDefVersions>
+        <fullName>Lyla</fullName>
+        <aiScoringModelDefinition>Lyla</aiScoringModelDefinition>
+        <developerName>Lyla</developerName>
+        <masterLabel>Lyla</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <aiScoringModelDefVersions>
+        <fullName>25793ede-2a61-4147-b886-c4f8a833f52e</fullName>
+        <aiScoringModelDefinition>25793ede-2a61-4147-b886-c4f8a833f52e</aiScoringModelDefinition>
+        <developerName>25793ede-2a61-4147-b886-c4f8a833f52e</developerName>
+        <masterLabel>25793ede-2a61-4147-b886-c4f8a833f52e</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <description>A</description>
+    <masterLabel>KDy</masterLabel>
+</AIScoringModelDefinition>

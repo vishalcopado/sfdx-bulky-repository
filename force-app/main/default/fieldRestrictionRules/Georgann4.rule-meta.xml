@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldRestrictionRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Georgann</fullName>
+    <active>true</active>
+    <classification>pRfVE</classification>
+    <classification>prXoYf</classification>
+    <classificationType>ComplianceCategory</classificationType>
+    <description>bHZP</description>
+    <enforcementType>D360_Restrict</enforcementType>
+    <masterLabel>k</masterLabel>
+    <recordFilter>Cx</recordFilter>
+    <targetEntity>PuNNcXdE</targetEntity>
+    <userCriteria>JQwTvFQ</userCriteria>
+    <version>-1901271707</version>
+</FieldRestrictionRule>

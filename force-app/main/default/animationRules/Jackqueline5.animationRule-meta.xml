@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnimationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jackqueline</fullName>
+    <animationFrequency>VeTkZTE</animationFrequency>
+    <developerName>gB</developerName>
+    <isActive>true</isActive>
+    <masterLabel>adQdWUB</masterLabel>
+    <recordTypeContext>mWmj</recordTypeContext>
+    <recordTypeName>gfjOQf</recordTypeName>
+    <sobjectType>fn</sobjectType>
+    <targetField>Hw</targetField>
+    <targetFieldChangeToValues>lWkBK</targetFieldChangeToValues>
+</AnimationRule>

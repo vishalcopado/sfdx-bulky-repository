@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OrchestrationContext xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Maricruz</fullName>
+    <datasets>
+        <datasetType>iFKFg</datasetType>
+        <orchestrationDataset>wmVKmb</orchestrationDataset>
+    </datasets>
+    <description>BPkL</description>
+    <events>
+        <eventType>Y</eventType>
+        <orchestrationEvent>ng</orchestrationEvent>
+        <platformEvent>fa</platformEvent>
+        <platformEventPrimaryKey>QdCp</platformEventPrimaryKey>
+    </events>
+    <imageFile>Cr</imageFile>
+    <imageScale>-1539046150</imageScale>
+    <masterLabel>FsCkLBW</masterLabel>
+    <primaryKeyDataType>zjpvpUt</primaryKeyDataType>
+    <runtimeType>dfyFkWJjw</runtimeType>
+    <salesforceObject>By</salesforceObject>
+    <salesforceObjectPrimaryKey>tZt</salesforceObjectPrimaryKey>
+</OrchestrationContext>

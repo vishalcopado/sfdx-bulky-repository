@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetLicenseDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Travis</fullName>
+    <customPermissions>
+        <name>bsddFii</name>
+    </customPermissions>
+    <isSupplementLicense>false</isSupplementLicense>
+    <label>xxQTMr</label>
+    <licenseExpirationPolicy>AllowNamespaceAccess</licenseExpirationPolicy>
+    <userLicenseRestrictions>Q</userLicenseRestrictions>
+</PermissionSetLicenseDefinition>

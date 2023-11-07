@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Role xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rashad</fullName>
+    <caseAccessLevel>w</caseAccessLevel>
+    <contactAccessLevel>SMtum</contactAccessLevel>
+    <description>BXxVSPE</description>
+    <mayForecastManagerShare>true</mayForecastManagerShare>
+    <name>PBSMln</name>
+    <opportunityAccessLevel>dyRY</opportunityAccessLevel>
+    <parentRole>Nz</parentRole>
+</Role>

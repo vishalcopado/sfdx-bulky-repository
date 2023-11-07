@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GatewayProviderPaymentMethodType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lezlie</fullName>
+    <comments>DSZ</comments>
+    <gtwyProviderPaymentMethodType>bJNc</gtwyProviderPaymentMethodType>
+    <masterLabel>fqZf</masterLabel>
+    <paymentGatewayProvider>NCdyrh</paymentGatewayProvider>
+    <paymentMethodType>GBmXpjt</paymentMethodType>
+    <recordType>ykGrLc</recordType>
+</GatewayProviderPaymentMethodType>

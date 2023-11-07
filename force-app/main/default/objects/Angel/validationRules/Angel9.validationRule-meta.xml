@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Angel</fullName>
+    <active>false</active>
+    <description>lMvo</description>
+    <errorConditionFormula>CsUmbKgyJ</errorConditionFormula>
+    <errorDisplayField>QUgYZC</errorDisplayField>
+    <errorMessage>SNe</errorMessage>
+</ValidationRule>

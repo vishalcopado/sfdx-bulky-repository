@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Versie</fullName>
+    <appleTeam>IJeR</appleTeam>
+    <authorizeUrl>KCcj</authorizeUrl>
+    <consumerKey>WgOJNqA</consumerKey>
+    <consumerSecret>gs</consumerSecret>
+    <controlPlane>None</controlPlane>
+    <customMetadataTypeRecord>QThdIH</customMetadataTypeRecord>
+    <defaultScopes>E</defaultScopes>
+    <ecKey>rx</ecKey>
+    <errorUrl>sXnPNA</errorUrl>
+    <executionUser>jTuX</executionUser>
+    <friendlyName>bGJQtDsar</friendlyName>
+    <iconUrl>KGJjpqytB</iconUrl>
+    <idTokenIssuer>WUVwmt</idTokenIssuer>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <linkKickoffUrl>hnlbYryG</linkKickoffUrl>
+    <logoutUrl>FGX</logoutUrl>
+    <oauthKickoffUrl>kNYKBj</oauthKickoffUrl>
+    <plugin>Md</plugin>
+    <portal>ltZ</portal>
+    <providerType>GitHub</providerType>
+    <registrationHandler>IM</registrationHandler>
+    <requireMfa>true</requireMfa>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>false</sendSecretInApis>
+    <ssoKickoffUrl>dRXgvFqG</ssoKickoffUrl>
+    <tokenUrl>fjp</tokenUrl>
+    <userInfoUrl>fo</userInfoUrl>
+</AuthProvider>

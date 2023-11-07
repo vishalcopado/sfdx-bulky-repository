@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PresenceUserConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Windy</fullName>
+    <assignments>
+        <profiles>
+            <profile>DGYnar</profile>
+            <profile>LvRNLYDt</profile>
+        </profiles>
+        <users>
+            <user>dYAGQ</user>
+            <user>SK</user>
+        </users>
+    </assignments>
+    <capacity>273385449</capacity>
+    <declineReasons>I</declineReasons>
+    <declineReasons>ncY</declineReasons>
+    <enableAutoAccept>true</enableAutoAccept>
+    <enableDecline>false</enableDecline>
+    <enableDeclineReason>true</enableDeclineReason>
+    <enableDisconnectSound>false</enableDisconnectSound>
+    <enableRequestSound>true</enableRequestSound>
+    <label>QzYv</label>
+    <presenceStatusOnDecline>pKFJZiBR</presenceStatusOnDecline>
+    <presenceStatusOnPushTimeout>Ym</presenceStatusOnPushTimeout>
+</PresenceUserConfig>

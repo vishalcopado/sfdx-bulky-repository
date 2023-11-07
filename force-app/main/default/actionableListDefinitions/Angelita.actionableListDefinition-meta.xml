@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionableListDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Angelita</fullName>
+    <actionableListDatasetColumns>
+        <dataDomain>Measures</dataDomain>
+        <dataType>Url</dataType>
+        <displayOrder>-2039503464</displayOrder>
+        <isDefault>true</isDefault>
+        <objectName>nncic</objectName>
+        <sourceColumnApiName>UvNhsWD</sourceColumnApiName>
+        <sourceFieldName>lNkYj</sourceFieldName>
+    </actionableListDatasetColumns>
+    <actionableListMemberStatuses>
+        <iconName>iyuuX</iconName>
+        <status>LSRB</status>
+    </actionableListMemberStatuses>
+    <actionableListMemberStatuses>
+        <iconName>lEHKBCSc</iconName>
+        <status>UUIe</status>
+    </actionableListMemberStatuses>
+    <batchCalcJobDefinition>SPtgL</batchCalcJobDefinition>
+    <datasetName>EDqZs</datasetName>
+    <edgeMart>Haj</edgeMart>
+    <isActive>true</isActive>
+    <isProtected>true</isProtected>
+    <masterLabel>arQtP</masterLabel>
+    <objectName>gWMq</objectName>
+</ActionableListDefinition>

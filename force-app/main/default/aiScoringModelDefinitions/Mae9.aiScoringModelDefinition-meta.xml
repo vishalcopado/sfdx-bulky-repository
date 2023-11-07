@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIScoringModelDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mae</fullName>
+    <aiModelConfig>nsfqrtjZ</aiModelConfig>
+    <aiScoringModelDefVersions>
+        <fullName>KrAsbLvi</fullName>
+        <aiScoringModelDefinition>H</aiScoringModelDefinition>
+        <aiScoringSteps>
+            <aiModelConfigStep>kWCPkP</aiModelConfigStep>
+            <stepDetail>ntGVe</stepDetail>
+        </aiScoringSteps>
+        <aiScoringSteps>
+            <aiModelConfigStep>JWev</aiModelConfigStep>
+            <stepDetail>Ervcv</stepDetail>
+        </aiScoringSteps>
+        <developerName>M</developerName>
+        <masterLabel>Pz</masterLabel>
+        <modelMode>TRAIN</modelMode>
+    </aiScoringModelDefVersions>
+    <aiScoringModelDefVersions>
+        <fullName>Lyla</fullName>
+        <aiScoringModelDefinition>Lyla</aiScoringModelDefinition>
+        <developerName>Lyla</developerName>
+        <masterLabel>Lyla</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <aiScoringModelDefVersions>
+        <fullName>87dbadf9-6ca2-453c-a6c0-1cf1a42d00fa</fullName>
+        <aiScoringModelDefinition>87dbadf9-6ca2-453c-a6c0-1cf1a42d00fa</aiScoringModelDefinition>
+        <developerName>87dbadf9-6ca2-453c-a6c0-1cf1a42d00fa</developerName>
+        <masterLabel>87dbadf9-6ca2-453c-a6c0-1cf1a42d00fa</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <description>UitW</description>
+    <masterLabel>fqCXxiJtm</masterLabel>
+</AIScoringModelDefinition>

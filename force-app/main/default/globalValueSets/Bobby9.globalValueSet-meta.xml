@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bobby</fullName>
+    <customValue>
+        <fullName>fSwhexn</fullName>
+        <color>KBDopgLf</color>
+        <default>true</default>
+        <description>rRcCG</description>
+        <isActive>false</isActive>
+        <label>bgNp</label>
+    </customValue>
+    <customValue>
+        <fullName>Gvnjs</fullName>
+        <color>LVgtQQmoq</color>
+        <default>false</default>
+        <description>k</description>
+        <isActive>false</isActive>
+        <label>afqbxm</label>
+    </customValue>
+    <description>dL</description>
+    <masterLabel>FQHkzTEpf</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

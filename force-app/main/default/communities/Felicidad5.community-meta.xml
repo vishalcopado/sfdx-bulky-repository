@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Community xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Felicidad</fullName>
+    <active>true</active>
+    <chatterAnswersFacebookSsoUrl>ivbffnAhM</chatterAnswersFacebookSsoUrl>
+    <communityFeedPage>aSe</communityFeedPage>
+    <dataCategoryName>XaMK</dataCategoryName>
+    <description>pcLugv</description>
+    <emailFooterDocument>jrsqUwE</emailFooterDocument>
+    <emailHeaderDocument>ikggrC</emailHeaderDocument>
+    <emailNotificationUrl>KOkFW</emailNotificationUrl>
+    <enableChatterAnswers>true</enableChatterAnswers>
+    <enablePrivateQuestions>true</enablePrivateQuestions>
+    <expertsGroup>tfcBiwy</expertsGroup>
+    <portal>eGNXb</portal>
+    <reputationLevels>
+        <chatterAnswersReputationLevels>
+            <name>nLXsa</name>
+            <value>826167742</value>
+        </chatterAnswersReputationLevels>
+        <chatterAnswersReputationLevels>
+            <name>k</name>
+            <value>-1886718511</value>
+        </chatterAnswersReputationLevels>
+        <ideaReputationLevels>
+            <name>fkEj</name>
+            <value>-462199250</value>
+        </ideaReputationLevels>
+    </reputationLevels>
+    <showInPortal>false</showInPortal>
+    <site>pSTQLWdGw</site>
+</Community>

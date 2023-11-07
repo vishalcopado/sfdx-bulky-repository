@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileApplicationDetail xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Errol</fullName>
+    <applicationBinaryFile>fg==</applicationBinaryFile>
+    <applicationBinaryFileName>kDVfVnY</applicationBinaryFileName>
+    <applicationBundleIdentifier>tqbefobu</applicationBundleIdentifier>
+    <applicationFileLength>2122428663</applicationFileLength>
+    <applicationIconFile>ZEAy</applicationIconFile>
+    <applicationIconFileName>fjMgvX</applicationIconFileName>
+    <applicationInstallUrl>d</applicationInstallUrl>
+    <devicePlatform>ios</devicePlatform>
+    <deviceType>HYreR</deviceType>
+    <minimumOsVersion>D</minimumOsVersion>
+    <privateApp>true</privateApp>
+    <version>Xayjr</version>
+</MobileApplicationDetail>

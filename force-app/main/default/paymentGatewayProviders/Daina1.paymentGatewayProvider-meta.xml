@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PaymentGatewayProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Daina</fullName>
+    <apexAdapter>K</apexAdapter>
+    <comments>pxG</comments>
+    <idempotencySupported>No</idempotencySupported>
+    <isProtected>false</isProtected>
+    <masterLabel>IyHhCZ</masterLabel>
+</PaymentGatewayProvider>

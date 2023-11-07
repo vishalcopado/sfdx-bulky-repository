@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexTrigger xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Marcus</fullName>
+    <content>9Q==</content>
+    <apiVersion>0.10818257435101386</apiVersion>
+    <packageVersions>
+        <majorNumber>-2119689731</majorNumber>
+        <minorNumber>1722200084</minorNumber>
+        <namespace>Exk</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1582129460</majorNumber>
+        <minorNumber>1558004852</minorNumber>
+        <namespace>GgJkPiQKG</namespace>
+    </packageVersions>
+    <status>Deleted</status>
+</ApexTrigger>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LeadConvertSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Quiana</fullName>
+    <allowOwnerChange>false</allowOwnerChange>
+    <objectMapping>
+        <inputObject>KuCC</inputObject>
+        <mappingFields>
+            <inputField>ogzspJvmM</inputField>
+            <outputField>sJga</outputField>
+        </mappingFields>
+        <outputObject>M</outputObject>
+    </objectMapping>
+    <opportunityCreationOptions>NotVisible</opportunityCreationOptions>
+</LeadConvertSettings>

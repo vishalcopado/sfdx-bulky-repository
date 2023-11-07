@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SvcCatalogCategory xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tiffaney</fullName>
+    <image>aqwA</image>
+    <isActive>true</isActive>
+    <isProtected>true</isProtected>
+    <masterLabel>pxriEBF</masterLabel>
+    <parentCategory>un</parentCategory>
+    <sortOrder>555412402</sortOrder>
+</SvcCatalogCategory>

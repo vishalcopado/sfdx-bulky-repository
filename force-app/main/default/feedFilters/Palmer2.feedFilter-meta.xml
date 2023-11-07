@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFeedFilter xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Palmer</fullName>
+    <criteria>
+        <feedItemType>TextPost</feedItemType>
+        <feedItemVisibility>AllUsers</feedItemVisibility>
+        <relatedSObjectType>vLF</relatedSObjectType>
+    </criteria>
+    <criteria>
+        <feedItemType>CanvasPost</feedItemType>
+        <feedItemVisibility>InternalUsers</feedItemVisibility>
+        <relatedSObjectType>tFQlH</relatedSObjectType>
+    </criteria>
+    <description>jwfLgMElU</description>
+    <isProtected>false</isProtected>
+    <label>UFpRXL</label>
+</CustomFeedFilter>

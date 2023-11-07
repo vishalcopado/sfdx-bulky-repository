@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIApplicationConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Chester</fullName>
+    <aiApplicationDeveloperName>Nc</aiApplicationDeveloperName>
+    <applicationId>PW</applicationId>
+    <developerName>yuz</developerName>
+    <insightReasonEnabled>false</insightReasonEnabled>
+    <masterLabel>Wn</masterLabel>
+    <rank>439372400</rank>
+    <scoringMode>OnDemand</scoringMode>
+</AIApplicationConfig>

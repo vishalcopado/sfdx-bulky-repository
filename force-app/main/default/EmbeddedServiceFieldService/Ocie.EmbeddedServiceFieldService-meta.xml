@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceFieldService xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ocie</fullName>
+    <appointmentBookingFlowName>OnSaOJq</appointmentBookingFlowName>
+    <cancelApptBookingFlowName>zI</cancelApptBookingFlowName>
+    <embeddedServiceConfig>f</embeddedServiceConfig>
+    <enabled>true</enabled>
+    <fieldServiceConfirmCardImg>UEx</fieldServiceConfirmCardImg>
+    <fieldServiceHomeImg>EcJTq</fieldServiceHomeImg>
+    <fieldServiceLogoImg>OzVpqaxTp</fieldServiceLogoImg>
+    <masterLabel>z</masterLabel>
+    <modifyApptBookingFlowName>MymnMC</modifyApptBookingFlowName>
+    <shouldShowExistingAppointment>true</shouldShowExistingAppointment>
+    <shouldShowNewAppointment>true</shouldShowNewAppointment>
+</EmbeddedServiceFieldService>

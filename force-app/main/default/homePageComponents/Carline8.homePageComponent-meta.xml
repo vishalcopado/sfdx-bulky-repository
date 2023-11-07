@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HomePageComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Carline</fullName>
+    <body>G</body>
+    <height>-1404226474</height>
+    <links>JpAK</links>
+    <links>u</links>
+    <page>YpUUX</page>
+    <pageComponentType>visualforcePage</pageComponentType>
+    <showLabel>false</showLabel>
+    <showScrollbars>false</showScrollbars>
+    <width>wide</width>
+</HomePageComponent>

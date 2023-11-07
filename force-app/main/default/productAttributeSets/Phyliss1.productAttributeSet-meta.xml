@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductAttributeSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Phyliss</fullName>
+    <description>V</description>
+    <developerName>JYhESep</developerName>
+    <masterLabel>RoxFIfW</masterLabel>
+    <productAttributeSetItems>
+        <field>Nm</field>
+        <sequence>1786119057</sequence>
+    </productAttributeSetItems>
+</ProductAttributeSet>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionableListDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Angelita</fullName>
+    <actionableListDatasetColumns>
+        <dataDomain>Dimensions</dataDomain>
+        <dataType>Boolean</dataType>
+        <displayOrder>-2124588122</displayOrder>
+        <isDefault>true</isDefault>
+        <objectName>DLWunRJP</objectName>
+        <sourceColumnApiName>MB</sourceColumnApiName>
+        <sourceFieldName>Nai</sourceFieldName>
+    </actionableListDatasetColumns>
+    <actionableListMemberStatuses>
+        <iconName>mOZHiE</iconName>
+        <status>MGVWc</status>
+    </actionableListMemberStatuses>
+    <batchCalcJobDefinition>BvfQ</batchCalcJobDefinition>
+    <datasetName>cBWKgY</datasetName>
+    <edgeMart>kSWfT</edgeMart>
+    <isActive>true</isActive>
+    <isProtected>false</isProtected>
+    <masterLabel>iSDwv</masterLabel>
+    <objectName>hOlrxlNC</objectName>
+</ActionableListDefinition>

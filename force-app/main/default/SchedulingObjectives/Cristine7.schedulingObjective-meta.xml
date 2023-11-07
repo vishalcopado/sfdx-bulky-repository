@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchedulingObjective xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cristine</fullName>
+    <isProtected>true</isProtected>
+    <masterLabel>Tro</masterLabel>
+    <schedulingCategory>B</schedulingCategory>
+    <schedulingObjectiveParameters>
+        <parameterKey>DaysAhead</parameterKey>
+        <value>oV</value>
+    </schedulingObjectiveParameters>
+    <schedulingObjectiveParameters>
+        <parameterKey>DaysAhead</parameterKey>
+        <value>clseQcu</value>
+    </schedulingObjectiveParameters>
+    <schedulingObjectiveType>BalanceShifts</schedulingObjectiveType>
+</SchedulingObjective>

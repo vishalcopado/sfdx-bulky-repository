@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RestrictionRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jacquline</fullName>
+    <active>false</active>
+    <dataspaceScope>E</dataspaceScope>
+    <description>RxJPDrkr</description>
+    <enforcementType>Restrict</enforcementType>
+    <masterLabel>Z</masterLabel>
+    <recordFilter>oavS</recordFilter>
+    <targetEntity>n</targetEntity>
+    <userCriteria>dWD</userCriteria>
+    <version>-451301200</version>
+</RestrictionRule>

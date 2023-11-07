@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MatchingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tiffani</fullName>
+    <matchingRules>
+        <fullName>dESkm</fullName>
+        <booleanFilter>EbX</booleanFilter>
+        <description>T</description>
+        <label>MoaMVjML</label>
+        <matchingRuleItems>
+            <blankValueBehavior>NullNotAllowed</blankValueBehavior>
+            <fieldName>PsIxnq</fieldName>
+            <matchingMethod>Exact</matchingMethod>
+        </matchingRuleItems>
+        <ruleStatus>ActivationFailed</ruleStatus>
+    </matchingRules>
+    <matchingRules>
+        <fullName>Ezequiel</fullName>
+        <booleanFilter>Ezequiel</booleanFilter>
+        <description>Ezequiel</description>
+        <label>Ezequiel</label>
+        <ruleStatus>Activating</ruleStatus>
+    </matchingRules>
+    <matchingRules>
+        <fullName>3f496dfa-75d6-4e28-b052-5fbda9c02627</fullName>
+        <booleanFilter>3f496dfa-75d6-4e28-b052-5fbda9c02627</booleanFilter>
+        <description>3f496dfa-75d6-4e28-b052-5fbda9c02627</description>
+        <label>3f496dfa-75d6-4e28-b052-5fbda9c02627</label>
+        <ruleStatus>Activating</ruleStatus>
+    </matchingRules>
+</MatchingRules>

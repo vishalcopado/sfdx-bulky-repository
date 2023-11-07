@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessProcessGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ethel</fullName>
+    <businessProcessDefinitions>
+        <businessProcessFeedbacks>
+            <actionName>KAceJrqzI</actionName>
+            <actionParam>sAleatEeg</actionParam>
+            <actionType>PHONE_CALL</actionType>
+        </businessProcessFeedbacks>
+        <businessProcessFeedbacks>
+            <actionName>GidQQyz</actionName>
+            <actionParam>gkREHW</actionParam>
+            <actionType>PHONE_CALL</actionType>
+        </businessProcessFeedbacks>
+        <description>yWHqf</description>
+        <developerName>EZubjTd</developerName>
+        <masterLabel>m</masterLabel>
+        <sequenceNumber>-790342372</sequenceNumber>
+    </businessProcessDefinitions>
+    <customerSatisfactionMetric>MultiChoice</customerSatisfactionMetric>
+    <description>Hht</description>
+    <masterLabel>MlEIwXC</masterLabel>
+</BusinessProcessGroup>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFeedFilter xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Palmer</fullName>
+    <criteria>
+        <feedItemType>QuestionPost</feedItemType>
+        <feedItemVisibility>AllUsers</feedItemVisibility>
+        <relatedSObjectType>wk</relatedSObjectType>
+    </criteria>
+    <criteria>
+        <feedItemType>LinkPost</feedItemType>
+        <feedItemVisibility>InternalUsers</feedItemVisibility>
+        <relatedSObjectType>wjv</relatedSObjectType>
+    </criteria>
+    <description>YujaAvXZD</description>
+    <isProtected>false</isProtected>
+    <label>lClkI</label>
+</CustomFeedFilter>

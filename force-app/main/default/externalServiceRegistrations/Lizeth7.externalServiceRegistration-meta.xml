@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalServiceRegistration xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lizeth</fullName>
+    <description>TVD</description>
+    <label>dST</label>
+    <namedCredential>z</namedCredential>
+    <namedCredentialReference>qnA</namedCredentialReference>
+    <operations>
+        <active>false</active>
+        <name>FXDergM</name>
+    </operations>
+    <operations>
+        <active>true</active>
+        <name>DK</name>
+    </operations>
+    <providerAssetEndpoint>Nzi</providerAssetEndpoint>
+    <registrationProviderType>MuleSoft</registrationProviderType>
+    <schema>YVpl</schema>
+    <schemaAbsoluteUrl>GhGjP</schemaAbsoluteUrl>
+    <schemaType>lKd</schemaType>
+    <schemaUploadFileExtension>Wfkt</schemaUploadFileExtension>
+    <schemaUploadFileName>IbALQnwJ</schemaUploadFileName>
+    <schemaUrl>JqyuMeH</schemaUrl>
+    <serviceBinding>jmOP</serviceBinding>
+    <status>GOuk</status>
+    <systemVersion>2097728361</systemVersion>
+</ExternalServiceRegistration>

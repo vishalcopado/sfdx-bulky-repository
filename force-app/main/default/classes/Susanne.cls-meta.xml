@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Susanne</fullName>
+    <content>7R0=</content>
+    <apiVersion>0.680630005640039</apiVersion>
+    <packageVersions>
+        <majorNumber>-1194659781</majorNumber>
+        <minorNumber>376802296</minorNumber>
+        <namespace>MoSfbdOC</namespace>
+    </packageVersions>
+    <status>Deleted</status>
+</ApexClass>

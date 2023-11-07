@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Garland</fullName>
+    <contactEmail>UlntSCiOa</contactEmail>
+    <description>WSYhWVPhd</description>
+    <iconUrl>lIlKHbIR</iconUrl>
+    <infoUrl>brfcuhQK</infoUrl>
+    <isDistributed>false</isDistributed>
+    <isProtected>true</isProtected>
+    <logoUrl>JTIvX</logoUrl>
+    <masterLabel>TQXL</masterLabel>
+    <oauthDev>
+        <callbackUrl>VHrngK</callbackUrl>
+        <certificate>DbjzLyYxG</certificate>
+        <consumerKey>gSFsqYbu</consumerKey>
+        <consumerSecret>QU</consumerSecret>
+        <idTokenConfig>
+            <idTokenAudience>BYBRR</idTokenAudience>
+            <idTokenIncludeAttributes>false</idTokenIncludeAttributes>
+            <idTokenIncludeCustomPerms>false</idTokenIncludeCustomPerms>
+            <idTokenIncludeStandardClaims>true</idTokenIncludeStandardClaims>
+            <idTokenValidity>731105913</idTokenValidity>
+        </idTokenConfig>
+        <isClientCredentialEnabled>true</isClientCredentialEnabled>
+        <isConsumerSecretOptional>true</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+        <selectedScopes>
+            <scope>Chatbot</scope>
+        </selectedScopes>
+        <singleLogoutUrl>GoC</singleLogoutUrl>
+    </oauthDev>
+    <orgScopedExternalApp>U</orgScopedExternalApp>
+</ExternalClientApplication>

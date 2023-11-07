@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EventSubscription xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Odilia</fullName>
+    <active>false</active>
+    <eventParameters>
+        <parameterName>rDr</parameterName>
+        <parameterValue>kHKl</parameterValue>
+    </eventParameters>
+    <eventParameters>
+        <parameterName>NIWb</parameterName>
+        <parameterValue>rLuoPiYv</parameterValue>
+    </eventParameters>
+    <eventType>HeKY</eventType>
+    <referenceData>CgSHNdi</referenceData>
+</EventSubscription>

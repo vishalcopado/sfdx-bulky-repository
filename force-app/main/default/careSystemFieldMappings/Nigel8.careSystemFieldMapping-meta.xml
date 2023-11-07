@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CareSystemFieldMapping xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Nigel</fullName>
+    <externalIdField>UcjuX</externalIdField>
+    <isActive>true</isActive>
+    <isProtected>true</isProtected>
+    <masterLabel>sY</masterLabel>
+    <role>NotApplicable</role>
+    <sourceSystem>xeFzqgA</sourceSystem>
+    <targetObject>IXMJtIeq</targetObject>
+</CareSystemFieldMapping>

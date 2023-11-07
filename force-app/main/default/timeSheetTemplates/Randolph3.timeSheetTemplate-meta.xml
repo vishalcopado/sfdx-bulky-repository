@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeSheetTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Randolph</fullName>
+    <active>true</active>
+    <description>ZfLIkVCy</description>
+    <frequency>Monthly</frequency>
+    <isProtected>false</isProtected>
+    <masterLabel>wYr</masterLabel>
+    <startDate>2023-11-17T07:44:22.893Z</startDate>
+    <timeSheetTemplateAssignments>
+        <assignedTo>hWogsWF</assignedTo>
+    </timeSheetTemplateAssignments>
+    <timeSheetTemplateAssignments>
+        <assignedTo>fEjvI</assignedTo>
+    </timeSheetTemplateAssignments>
+    <workWeekEndDay>Wednesday</workWeekEndDay>
+    <workWeekStartDay>Monday</workWeekStartDay>
+</TimeSheetTemplate>

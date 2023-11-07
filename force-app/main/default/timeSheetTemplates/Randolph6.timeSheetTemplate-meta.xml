@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeSheetTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Randolph</fullName>
+    <active>true</active>
+    <description>V</description>
+    <frequency>Monthly</frequency>
+    <isProtected>false</isProtected>
+    <masterLabel>s</masterLabel>
+    <startDate>2021-06-30T05:07:38.522Z</startDate>
+    <timeSheetTemplateAssignments>
+        <assignedTo>gProDGsEg</assignedTo>
+    </timeSheetTemplateAssignments>
+    <workWeekEndDay>Friday</workWeekEndDay>
+    <workWeekStartDay>Friday</workWeekStartDay>
+</TimeSheetTemplate>

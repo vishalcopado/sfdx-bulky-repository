@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommunityThemeDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Janae</fullName>
+    <bundlesInfo>
+        <description>R</description>
+        <image>P</image>
+        <order>-221205119</order>
+        <title>x</title>
+        <type>PreviewImage</type>
+    </bundlesInfo>
+    <customThemeLayoutType>
+        <description>FbfZE</description>
+        <label>q</label>
+    </customThemeLayoutType>
+    <defaultBrandingSet>ogbhLn</defaultBrandingSet>
+    <description>JI</description>
+    <enableExtendedCleanUpOnDelete>false</enableExtendedCleanUpOnDelete>
+    <masterLabel>JbduRtWr</masterLabel>
+    <publisher>czXfUDCS</publisher>
+    <themeRouteOverride>
+        <customThemeLayoutType>QhgyjGM</customThemeLayoutType>
+        <pageAttributes>bz</pageAttributes>
+        <pageType>Fo</pageType>
+        <themeLayoutType>Inner</themeLayoutType>
+    </themeRouteOverride>
+    <themeSetting>
+        <customThemeLayoutType>y</customThemeLayoutType>
+        <themeLayout>N</themeLayout>
+        <themeLayoutType>ServiceNotAvailable</themeLayoutType>
+    </themeSetting>
+    <themeSetting>
+        <customThemeLayoutType>BXdLduz</customThemeLayoutType>
+        <themeLayout>yXeA</themeLayout>
+        <themeLayoutType>Login</themeLayoutType>
+    </themeSetting>
+</CommunityThemeDefinition>

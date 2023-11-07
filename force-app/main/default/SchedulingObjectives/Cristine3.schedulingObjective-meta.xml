@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchedulingObjective xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cristine</fullName>
+    <isProtected>true</isProtected>
+    <masterLabel>BBOqUF</masterLabel>
+    <schedulingCategory>B</schedulingCategory>
+    <schedulingObjectiveParameters>
+        <parameterKey>DaysBack</parameterKey>
+        <value>iw</value>
+    </schedulingObjectiveParameters>
+    <schedulingObjectiveParameters>
+        <parameterKey>DaysBack</parameterKey>
+        <value>dfDGV</value>
+    </schedulingObjectiveParameters>
+    <schedulingObjectiveType>BalanceNonStandardShifts</schedulingObjectiveType>
+</SchedulingObjective>

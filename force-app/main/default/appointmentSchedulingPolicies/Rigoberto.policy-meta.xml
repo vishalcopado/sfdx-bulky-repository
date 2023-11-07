@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppointmentSchedulingPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rigoberto</fullName>
+    <appointmentAssignmentPolicy>mW</appointmentAssignmentPolicy>
+    <appointmentStartTimeInterval>JgU</appointmentStartTimeInterval>
+    <extCalEventHandler>ING</extCalEventHandler>
+    <isSvcTerrOpHoursWithShiftsUsed>false</isSvcTerrOpHoursWithShiftsUsed>
+    <isSvcTerritoryMemberShiftUsed>false</isSvcTerritoryMemberShiftUsed>
+    <masterLabel>x</masterLabel>
+    <shouldCheckExternalCalendar>true</shouldCheckExternalCalendar>
+    <shouldConsiderCalendarEvents>true</shouldConsiderCalendarEvents>
+    <shouldEnforceExcludedResource>false</shouldEnforceExcludedResource>
+    <shouldEnforceRequiredResource>true</shouldEnforceRequiredResource>
+    <shouldMatchSkill>false</shouldMatchSkill>
+    <shouldMatchSkillLevel>true</shouldMatchSkillLevel>
+    <shouldRespectVisitingHours>false</shouldRespectVisitingHours>
+    <shouldUsePrimaryMembers>true</shouldUsePrimaryMembers>
+    <shouldUseSecondaryMembers>true</shouldUseSecondaryMembers>
+</AppointmentSchedulingPolicy>

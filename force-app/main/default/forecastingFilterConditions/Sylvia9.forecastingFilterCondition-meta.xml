@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingFilterCondition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sylvia</fullName>
+    <colName>vjKk</colName>
+    <fieldName>wjnEbkwPt</fieldName>
+    <forecastingFilter>oBubpNW</forecastingFilter>
+    <forecastingSourceDefinition>Uxa</forecastingSourceDefinition>
+    <isProtected>false</isProtected>
+    <masterLabel>S</masterLabel>
+    <operation>within</operation>
+    <sortOrder>2080450212</sortOrder>
+    <value>sl</value>
+</ForecastingFilterCondition>

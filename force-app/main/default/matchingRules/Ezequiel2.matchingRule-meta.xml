@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MatchingRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ezequiel</fullName>
+    <booleanFilter>O</booleanFilter>
+    <description>pzpDh</description>
+    <label>qNok</label>
+    <matchingRuleItems>
+        <blankValueBehavior>MatchBlanks</blankValueBehavior>
+        <fieldName>QQcufKUo</fieldName>
+        <matchingMethod>Phone</matchingMethod>
+    </matchingRuleItems>
+    <ruleStatus>Inactive</ruleStatus>
+</MatchingRule>

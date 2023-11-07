@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkflowOutboundMessage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bruna</fullName>
+    <apiVersion>0.5663729493068583</apiVersion>
+    <description>yUiJc</description>
+    <endpointUrl>LXUAnWwOX</endpointUrl>
+    <fields>w</fields>
+    <includeSessionId>false</includeSessionId>
+    <integrationUser>RsGeqms</integrationUser>
+    <name>obWZ</name>
+    <protected>false</protected>
+    <useDeadLetterQueue>false</useDeadLetterQueue>
+</WorkflowOutboundMessage>

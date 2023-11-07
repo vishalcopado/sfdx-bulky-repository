@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceAISetupDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Zackary</fullName>
+    <appSourceType>REPLY_RECOMMENDATION</appSourceType>
+    <name>gsBzf</name>
+    <setupStatus>RETIRED</setupStatus>
+    <supportedLanguages>lvYXXN</supportedLanguages>
+</ServiceAISetupDefinition>

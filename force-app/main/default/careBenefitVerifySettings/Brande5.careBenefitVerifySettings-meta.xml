@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CareBenefitVerifySettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brande</fullName>
+    <codeSetType>LF</codeSetType>
+    <defaultNpi>xtydLwb</defaultNpi>
+    <generalPlanServiceTypeCode>pFURyP</generalPlanServiceTypeCode>
+    <isDefault>true</isDefault>
+    <masterLabel>W</masterLabel>
+    <organizationName>IUePrMm</organizationName>
+    <serviceApexClass>Fgze</serviceApexClass>
+    <serviceNamedCredential>G</serviceNamedCredential>
+    <serviceTypeSourceSystem>SYxU</serviceTypeSourceSystem>
+    <uriPath>WbphYj</uriPath>
+</CareBenefitVerifySettings>

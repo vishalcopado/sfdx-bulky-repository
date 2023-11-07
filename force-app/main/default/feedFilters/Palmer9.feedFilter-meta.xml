@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFeedFilter xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Palmer</fullName>
+    <criteria>
+        <feedItemType>EmailMessageEvent</feedItemType>
+        <feedItemVisibility>InternalUsers</feedItemVisibility>
+        <relatedSObjectType>UCREl</relatedSObjectType>
+    </criteria>
+    <criteria>
+        <feedItemType>RypplePost</feedItemType>
+        <feedItemVisibility>InternalUsers</feedItemVisibility>
+        <relatedSObjectType>KyDa</relatedSObjectType>
+    </criteria>
+    <description>l</description>
+    <isProtected>true</isProtected>
+    <label>Lbr</label>
+</CustomFeedFilter>

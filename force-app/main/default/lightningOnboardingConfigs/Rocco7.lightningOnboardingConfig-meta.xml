@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningOnboardingConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rocco</fullName>
+    <collaborationGroup>y</collaborationGroup>
+    <customQuestion>PGOtGmSv</customQuestion>
+    <feedbackFormDaysFrequency>-411527504</feedbackFormDaysFrequency>
+    <isCustom>true</isCustom>
+    <masterLabel>NdaYePR</masterLabel>
+    <promptDelayTime>71477415</promptDelayTime>
+    <sendFeedbackToSalesforce>false</sendFeedbackToSalesforce>
+</LightningOnboardingConfig>

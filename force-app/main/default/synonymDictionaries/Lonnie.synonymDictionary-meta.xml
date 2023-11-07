@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SynonymDictionary xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lonnie</fullName>
+    <groups>
+        <languages>sr</languages>
+        <languages>ar_LB</languages>
+        <terms>Gs</terms>
+    </groups>
+    <groups>
+        <languages>sh</languages>
+        <languages>tr</languages>
+        <terms>PFY</terms>
+    </groups>
+    <isProtected>false</isProtected>
+    <label>ptqzITnh</label>
+</SynonymDictionary>

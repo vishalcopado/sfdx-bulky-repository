@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Felicita</fullName>
+    <apiVersion>0.3790346209491776</apiVersion>
+    <capabilities>
+        <capability>e</capability>
+    </capabilities>
+    <description>t</description>
+    <isExplicitImport>true</isExplicitImport>
+    <isExposed>false</isExposed>
+    <lwcResources>
+        <lwcResource>
+            <filePath>PUhgR</filePath>
+            <source>qA==</source>
+        </lwcResource>
+    </lwcResources>
+    <masterLabel>p</masterLabel>
+    <runtimeNamespace>DehTtw</runtimeNamespace>
+    <tagConfigs>S/M=</tagConfigs>
+    <tags>
+        <tag>swqo</tag>
+    </tags>
+    <targetConfigs>qQ==</targetConfigs>
+    <targets>
+        <target>LYwg</target>
+        <target>MrzcEyn</target>
+    </targets>
+</LightningComponentBundle>

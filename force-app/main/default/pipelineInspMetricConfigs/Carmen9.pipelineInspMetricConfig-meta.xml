@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PipelineInspMetricConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Carmen</fullName>
+    <isCumulative>false</isCumulative>
+    <isProtected>true</isProtected>
+    <masterLabel>nWS</masterLabel>
+    <metric>ClosedLost</metric>
+</PipelineInspMetricConfig>

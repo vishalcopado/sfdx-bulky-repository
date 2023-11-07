@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformCachePartition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Dwain</fullName>
+    <description>taMYeRT</description>
+    <isDefaultPartition>true</isDefaultPartition>
+    <masterLabel>YR</masterLabel>
+    <platformCachePartitionTypes>
+        <allocatedCapacity>1162630548</allocatedCapacity>
+        <allocatedPartnerCapacity>-593070619</allocatedPartnerCapacity>
+        <allocatedPurchasedCapacity>1130675298</allocatedPurchasedCapacity>
+        <allocatedTrialCapacity>-517292577</allocatedTrialCapacity>
+        <cacheType>Organization</cacheType>
+    </platformCachePartitionTypes>
+    <platformCachePartitionTypes>
+        <allocatedCapacity>-177484564</allocatedCapacity>
+        <allocatedPartnerCapacity>-1132518453</allocatedPartnerCapacity>
+        <allocatedPurchasedCapacity>-2053285126</allocatedPurchasedCapacity>
+        <allocatedTrialCapacity>336276311</allocatedTrialCapacity>
+        <cacheType>Organization</cacheType>
+    </platformCachePartitionTypes>
+</PlatformCachePartition>

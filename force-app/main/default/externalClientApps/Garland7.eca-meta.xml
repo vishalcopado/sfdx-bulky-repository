@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Garland</fullName>
+    <contactEmail>bu</contactEmail>
+    <description>CcHWyadu</description>
+    <iconUrl>RMe</iconUrl>
+    <infoUrl>Yr</infoUrl>
+    <isDistributed>false</isDistributed>
+    <isProtected>true</isProtected>
+    <logoUrl>vJ</logoUrl>
+    <masterLabel>DYwwU</masterLabel>
+    <oauthDev>
+        <callbackUrl>JtCJ</callbackUrl>
+        <certificate>qcRhmVYj</certificate>
+        <consumerKey>TcmjpdNdu</consumerKey>
+        <consumerSecret>m</consumerSecret>
+        <idTokenConfig>
+            <idTokenAudience>OhqP</idTokenAudience>
+            <idTokenIncludeAttributes>false</idTokenIncludeAttributes>
+            <idTokenIncludeCustomPerms>true</idTokenIncludeCustomPerms>
+            <idTokenIncludeStandardClaims>false</idTokenIncludeStandardClaims>
+            <idTokenValidity>-256000353</idTokenValidity>
+        </idTokenConfig>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>true</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <selectedScopes>
+            <scope>OfflineAccess</scope>
+            <scope>Profile</scope>
+        </selectedScopes>
+        <singleLogoutUrl>PhXszG</singleLogoutUrl>
+    </oauthDev>
+    <orgScopedExternalApp>PATlYCBH</orgScopedExternalApp>
+</ExternalClientApplication>

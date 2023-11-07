@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkflowTask xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Freeman</fullName>
+    <assignedTo>xqkZjNR</assignedTo>
+    <assignedToType>accountCreator</assignedToType>
+    <description>pFvwFdsc</description>
+    <dueDateOffset>1239983250</dueDateOffset>
+    <notifyAssignee>true</notifyAssignee>
+    <offsetFromField>bxBfZIaN</offsetFromField>
+    <priority>S</priority>
+    <protected>true</protected>
+    <status>LMor</status>
+    <subject>x</subject>
+</WorkflowTask>

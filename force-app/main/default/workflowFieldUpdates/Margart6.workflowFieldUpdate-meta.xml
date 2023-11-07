@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkflowFieldUpdate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Margart</fullName>
+    <description>xuRU</description>
+    <field>JuAXkxlB</field>
+    <formula>WqoAWucb</formula>
+    <literalValue>g</literalValue>
+    <lookupValue>AuxLWQcm</lookupValue>
+    <lookupValueType>User</lookupValueType>
+    <name>XvFkTvTVP</name>
+    <notifyAssignee>false</notifyAssignee>
+    <operation>Formula</operation>
+    <protected>true</protected>
+    <reevaluateOnChange>false</reevaluateOnChange>
+    <targetObject>YhBqbUmnT</targetObject>
+</WorkflowFieldUpdate>

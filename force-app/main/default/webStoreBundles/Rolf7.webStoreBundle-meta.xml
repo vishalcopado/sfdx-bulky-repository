@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebStoreBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rolf</fullName>
+    <autoFacetingEnabled>false</autoFacetingEnabled>
+    <cartToOrderAutoCustomFieldMapping>true</cartToOrderAutoCustomFieldMapping>
+    <commerceEinsteinActivitiesTracked>false</commerceEinsteinActivitiesTracked>
+    <commerceEinsteinDeployed>false</commerceEinsteinDeployed>
+    <country>ER</country>
+    <defaultCurrency>xrm</defaultCurrency>
+    <defaultLanguage>NjMojswe</defaultLanguage>
+    <defaultTaxLocaleType>Net</defaultTaxLocaleType>
+    <description>RyGpHtJQ</description>
+    <guestBrowsingEnabled>false</guestBrowsingEnabled>
+    <guestCartTimeToLive>-601357697</guestCartTimeToLive>
+    <label>adhCo</label>
+    <orderLifeCycleType>MANAGED</orderLifeCycleType>
+    <pricingStrategy>LowestPrice</pricingStrategy>
+    <productGrouping>NoGrouping</productGrouping>
+    <skipAdditionalEntitlementCheckForSearch>true</skipAdditionalEntitlementCheckForSearch>
+    <storeName>P</storeName>
+    <supportedCurrencies>GgMjeES</supportedCurrencies>
+    <supportedLanguages>uSak</supportedLanguages>
+    <supportedShipToCountries>RKgSwq</supportedShipToCountries>
+    <type>B2C</type>
+</WebStoreBundle>

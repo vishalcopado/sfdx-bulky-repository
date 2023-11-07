@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IntegrationHubSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lulu</fullName>
+    <canonicalName>vLWJ</canonicalName>
+    <canonicalNameBindingChar>HtZ</canonicalNameBindingChar>
+    <description>U</description>
+    <isEnabled>false</isEnabled>
+    <isProtected>true</isProtected>
+    <masterLabel>wkeSHuqCP</masterLabel>
+    <setupData>zPchCZ</setupData>
+    <setupDefinition>gN</setupDefinition>
+    <setupNamespace>dZsCDH</setupNamespace>
+    <setupSimpleName>cvruWZfI</setupSimpleName>
+    <uUID>GxfgB</uUID>
+    <version>CcnlQ</version>
+    <versionBuild>647451772</versionBuild>
+    <versionMajor>203862885</versionMajor>
+    <versionMinor>138379444</versionMinor>
+    <versionSetUuid>qJUYa</versionSetUuid>
+</IntegrationHubSettings>

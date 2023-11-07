@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Magdalen</fullName>
+    <description>P</description>
+    <label>bJGvlPl</label>
+    <protected>false</protected>
+    <values>
+        <field>xCSGItzZ</field>
+        <value>java.lang.Object@6b6757f</value>
+    </values>
+    <values>
+        <field>OWI</field>
+        <value>java.lang.Object@1ccfbb81</value>
+    </values>
+</CustomMetadata>

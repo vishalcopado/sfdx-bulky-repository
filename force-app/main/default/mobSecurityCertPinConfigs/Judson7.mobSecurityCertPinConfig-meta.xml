@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobSecurityCertPinConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Judson</fullName>
+    <certificateHash>IPXIBkwB</certificateHash>
+    <domainName>bmZrNIRF</domainName>
+    <isEnabled>false</isEnabled>
+    <isProtected>false</isProtected>
+    <isSubdomainIncluded>false</isSubdomainIncluded>
+    <masterLabel>suw</masterLabel>
+    <mobilePlatform>Android</mobilePlatform>
+    <mobileSecurityAssignment>xlxXShhM</mobileSecurityAssignment>
+    <mobileSecurityPolicySet>fffXtrOL</mobileSecurityPolicySet>
+    <severityLevel>Error</severityLevel>
+    <type>AuthServer</type>
+</MobSecurityCertPinConfig>

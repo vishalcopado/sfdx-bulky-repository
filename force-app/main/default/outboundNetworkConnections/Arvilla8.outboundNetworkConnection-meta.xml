@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OutboundNetworkConnection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Arvilla</fullName>
+    <connectionType>AwsPrivateLink</connectionType>
+    <description>CGCsMxbzR</description>
+    <isActive>true</isActive>
+    <label>pvDlxwNw</label>
+    <outboundNetworkConnProperties>
+        <propertyName>AwsVpcEndpointServiceName</propertyName>
+        <propertyValue>UnWrpe</propertyValue>
+    </outboundNetworkConnProperties>
+    <status>TeardownInProgress</status>
+</OutboundNetworkConnection>

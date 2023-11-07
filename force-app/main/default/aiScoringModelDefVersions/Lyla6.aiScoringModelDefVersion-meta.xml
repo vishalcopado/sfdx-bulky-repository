@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIScoringModelDefVersion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lyla</fullName>
+    <aiScoringModelDefinition>iDJEwxg</aiScoringModelDefinition>
+    <aiScoringSteps>
+        <aiModelConfigStep>zAhCjW</aiModelConfigStep>
+        <stepDetail>v</stepDetail>
+    </aiScoringSteps>
+    <aiScoringSteps>
+        <aiModelConfigStep>zxraRgvlj</aiModelConfigStep>
+        <stepDetail>IMk</stepDetail>
+    </aiScoringSteps>
+    <developerName>wrvKUc</developerName>
+    <masterLabel>j</masterLabel>
+    <modelMode>TRAIN</modelMode>
+</AIScoringModelDefVersion>

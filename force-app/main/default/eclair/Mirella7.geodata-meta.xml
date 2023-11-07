@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EclairGeoData xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mirella</fullName>
+    <content>NQ==</content>
+    <maps>
+        <boundingBoxBottom>0.10076009822693666</boundingBoxBottom>
+        <boundingBoxLeft>0.9672716410437294</boundingBoxLeft>
+        <boundingBoxRight>0.8420998332628817</boundingBoxRight>
+        <boundingBoxTop>0.49761198017719677</boundingBoxTop>
+        <mapLabel>MyDil</mapLabel>
+        <mapName>cXATWRmrR</mapName>
+        <projection>eBKWZDB</projection>
+    </maps>
+    <maps>
+        <boundingBoxBottom>0.7822498662881311</boundingBoxBottom>
+        <boundingBoxLeft>0.42534662377375954</boundingBoxLeft>
+        <boundingBoxRight>0.3567300846425342</boundingBoxRight>
+        <boundingBoxTop>0.5919763601269102</boundingBoxTop>
+        <mapLabel>fVZDQ</mapLabel>
+        <mapName>H</mapName>
+        <projection>ayUB</projection>
+    </maps>
+    <masterLabel>secKa</masterLabel>
+</EclairGeoData>

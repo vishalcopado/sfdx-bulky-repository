@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChatterExtension xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Dwayne</fullName>
+    <compositionComponent>g</compositionComponent>
+    <description>QOsa</description>
+    <extensionName>wnS</extensionName>
+    <headerText>uCrMB</headerText>
+    <hoverText>ZkSh</hoverText>
+    <icon>AJlUdp</icon>
+    <isProtected>false</isProtected>
+    <masterLabel>g</masterLabel>
+    <renderComponent>rFYaOGcD</renderComponent>
+    <type>Lightning</type>
+</ChatterExtension>

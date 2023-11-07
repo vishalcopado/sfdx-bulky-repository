@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveChatSensitiveDataRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lorna</fullName>
+    <actionType>Replace</actionType>
+    <description>dApCtvb</description>
+    <enforceOn>-1619599692</enforceOn>
+    <isEnabled>false</isEnabled>
+    <pattern>FZf</pattern>
+    <priority>1617675328</priority>
+    <replacement>jMAKqcWmO</replacement>
+</LiveChatSensitiveDataRule>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniSupervisorConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Johnnie</fullName>
+    <isTimelineHidden>true</isTimelineHidden>
+    <masterLabel>zInMlUKw</masterLabel>
+    <omniSupervisorConfigAction>
+        <actionName>AssignLearning</actionName>
+        <actionTab>SkillDetails</actionTab>
+        <customActionFlow>IBJlFXC</customActionFlow>
+        <displayOrder>577733383</displayOrder>
+    </omniSupervisorConfigAction>
+    <omniSupervisorConfigAction>
+        <actionName>CustomAction</actionName>
+        <actionTab>QueuesBacklog</actionTab>
+        <customActionFlow>bV</customActionFlow>
+        <displayOrder>641883673</displayOrder>
+    </omniSupervisorConfigAction>
+    <omniSupervisorConfigGroup>
+        <group>Qm</group>
+    </omniSupervisorConfigGroup>
+    <omniSupervisorConfigProfile>
+        <profile>QbJsqLzrp</profile>
+    </omniSupervisorConfigProfile>
+    <omniSupervisorConfigQueue>
+        <queue>vupp</queue>
+    </omniSupervisorConfigQueue>
+    <omniSupervisorConfigSkill>
+        <skill>Cde</skill>
+    </omniSupervisorConfigSkill>
+    <omniSupervisorConfigSkill>
+        <skill>kFTL</skill>
+    </omniSupervisorConfigSkill>
+    <skillVisibility>AllSkills</skillVisibility>
+</OmniSupervisorConfig>

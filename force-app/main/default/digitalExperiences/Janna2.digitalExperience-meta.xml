@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DigitalExperienceBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Janna</fullName>
+    <description>qRGB</description>
+    <label>Fnvj</label>
+    <spaceResources>
+        <fullName>dworYg</fullName>
+        <content>2RA=</content>
+        <fileName>JeGfj</fileName>
+        <filePath>xWwqDQK</filePath>
+        <format>YNgetCu</format>
+    </spaceResources>
+    <spaceResources>
+        <fullName>Nickolas</fullName>
+        <content>3ZXRqhY=</content>
+        <fileName>Nickolas</fileName>
+        <filePath>Nickolas</filePath>
+        <format>Nickolas</format>
+    </spaceResources>
+    <spaceResources>
+        <fullName>ba3d31b8-3f4c-4d7f-9500-c5cebc9aecc4</fullName>
+        <content>3ZXRqhY=</content>
+        <fileName>ba3d31b8-3f4c-4d7f-9500-c5cebc9aecc4</fileName>
+        <filePath>ba3d31b8-3f4c-4d7f-9500-c5cebc9aecc4</filePath>
+        <format>ba3d31b8-3f4c-4d7f-9500-c5cebc9aecc4</format>
+    </spaceResources>
+</DigitalExperienceBundle>

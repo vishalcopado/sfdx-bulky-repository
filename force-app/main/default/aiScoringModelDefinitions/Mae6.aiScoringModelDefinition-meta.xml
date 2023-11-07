@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIScoringModelDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mae</fullName>
+    <aiModelConfig>mUkuWtFDo</aiModelConfig>
+    <aiScoringModelDefVersions>
+        <fullName>KNmii</fullName>
+        <aiScoringModelDefinition>wyjDHC</aiScoringModelDefinition>
+        <aiScoringSteps>
+            <aiModelConfigStep>CXWTWncl</aiModelConfigStep>
+            <stepDetail>BVZ</stepDetail>
+        </aiScoringSteps>
+        <developerName>AsUcXw</developerName>
+        <masterLabel>TMGwdIYP</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <aiScoringModelDefVersions>
+        <fullName>Lyla</fullName>
+        <aiScoringModelDefinition>Lyla</aiScoringModelDefinition>
+        <developerName>Lyla</developerName>
+        <masterLabel>Lyla</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <aiScoringModelDefVersions>
+        <fullName>8f9259e8-bcd1-41c0-9f21-6d91bb2df464</fullName>
+        <aiScoringModelDefinition>8f9259e8-bcd1-41c0-9f21-6d91bb2df464</aiScoringModelDefinition>
+        <developerName>8f9259e8-bcd1-41c0-9f21-6d91bb2df464</developerName>
+        <masterLabel>8f9259e8-bcd1-41c0-9f21-6d91bb2df464</masterLabel>
+        <modelMode>TRAIN_AND_DEPLOY</modelMode>
+    </aiScoringModelDefVersions>
+    <description>qbytbH</description>
+    <masterLabel>EncU</masterLabel>
+</AIScoringModelDefinition>

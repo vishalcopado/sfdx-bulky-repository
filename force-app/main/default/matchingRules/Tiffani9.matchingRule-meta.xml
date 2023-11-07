@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MatchingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tiffani</fullName>
+    <matchingRules>
+        <fullName>lfN</fullName>
+        <booleanFilter>v</booleanFilter>
+        <description>uZfkNeiHi</description>
+        <label>jx</label>
+        <matchingRuleItems>
+            <blankValueBehavior>MatchBlanks</blankValueBehavior>
+            <fieldName>BuGkC</fieldName>
+            <matchingMethod>Exact</matchingMethod>
+        </matchingRuleItems>
+        <matchingRuleItems>
+            <blankValueBehavior>MatchBlanks</blankValueBehavior>
+            <fieldName>HfnNNZcGl</fieldName>
+            <matchingMethod>LastName</matchingMethod>
+        </matchingRuleItems>
+        <ruleStatus>Deactivating</ruleStatus>
+    </matchingRules>
+    <matchingRules>
+        <fullName>Ezequiel</fullName>
+        <booleanFilter>Ezequiel</booleanFilter>
+        <description>Ezequiel</description>
+        <label>Ezequiel</label>
+        <ruleStatus>Activating</ruleStatus>
+    </matchingRules>
+    <matchingRules>
+        <fullName>36d19358-f4dc-4476-8ab3-ee80b1d20439</fullName>
+        <booleanFilter>36d19358-f4dc-4476-8ab3-ee80b1d20439</booleanFilter>
+        <description>36d19358-f4dc-4476-8ab3-ee80b1d20439</description>
+        <label>36d19358-f4dc-4476-8ab3-ee80b1d20439</label>
+        <ruleStatus>Activating</ruleStatus>
+    </matchingRules>
+</MatchingRules>

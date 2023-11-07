@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EventDelivery xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rocio</fullName>
+    <eventParameters>
+        <parameterName>e</parameterName>
+        <parameterValue>w</parameterValue>
+    </eventParameters>
+    <eventParameters>
+        <parameterName>e</parameterName>
+        <parameterValue>tgpgOaBa</parameterValue>
+    </eventParameters>
+    <eventSubscription>ncRC</eventSubscription>
+    <referenceData>rMbc</referenceData>
+    <type>ResumeFlow</type>
+</EventDelivery>

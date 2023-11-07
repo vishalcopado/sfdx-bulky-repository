@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Index xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Vita</fullName>
+    <fields>
+        <name>fVn</name>
+        <sortDirection>CexudO</sortDirection>
+    </fields>
+    <fields>
+        <name>nLT</name>
+        <sortDirection>EPCi</sortDirection>
+    </fields>
+    <label>Xc</label>
+</Index>

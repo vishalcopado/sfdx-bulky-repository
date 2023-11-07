@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveChatDeployment xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Joellen</fullName>
+    <brandingImage>PblPTsLKp</brandingImage>
+    <connectionTimeoutDuration>-2013952130</connectionTimeoutDuration>
+    <connectionWarningDuration>-2014661228</connectionWarningDuration>
+    <displayQueuePosition>true</displayQueuePosition>
+    <domainWhiteList>
+        <domain>zJy</domain>
+        <domain>XhuOkfDm</domain>
+    </domainWhiteList>
+    <enablePrechatApi>true</enablePrechatApi>
+    <enableTranscriptSave>true</enableTranscriptSave>
+    <label>hBUMnCxl</label>
+    <mobileBrandingImage>H</mobileBrandingImage>
+    <site>DZ</site>
+    <windowTitle>xQPvhcYu</windowTitle>
+</LiveChatDeployment>

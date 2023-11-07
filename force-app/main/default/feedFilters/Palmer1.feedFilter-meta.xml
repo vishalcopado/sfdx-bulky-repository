@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFeedFilter xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Palmer</fullName>
+    <criteria>
+        <feedItemType>ChatTranscriptPost</feedItemType>
+        <feedItemVisibility>InternalUsers</feedItemVisibility>
+        <relatedSObjectType>N</relatedSObjectType>
+    </criteria>
+    <criteria>
+        <feedItemType>CallLogPost</feedItemType>
+        <feedItemVisibility>AllUsers</feedItemVisibility>
+        <relatedSObjectType>WxvZjXKt</relatedSObjectType>
+    </criteria>
+    <description>bSPiklXsL</description>
+    <isProtected>false</isProtected>
+    <label>PFOTWacHf</label>
+</CustomFeedFilter>

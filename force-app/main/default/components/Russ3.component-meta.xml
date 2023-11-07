@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Russ</fullName>
+    <content>YQ==</content>
+    <apiVersion>0.2163922472890658</apiVersion>
+    <description>zmRXN</description>
+    <label>ynnj</label>
+    <packageVersions>
+        <majorNumber>-767245353</majorNumber>
+        <minorNumber>-272781909</minorNumber>
+        <namespace>j</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1741804311</majorNumber>
+        <minorNumber>-2058800699</minorNumber>
+        <namespace>NiTKeO</namespace>
+    </packageVersions>
+</ApexComponent>

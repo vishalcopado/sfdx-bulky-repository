@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Versie</fullName>
+    <appleTeam>KJK</appleTeam>
+    <authorizeUrl>z</authorizeUrl>
+    <consumerKey>DQyLrdR</consumerKey>
+    <consumerSecret>GpB</consumerSecret>
+    <controlPlane>EU</controlPlane>
+    <customMetadataTypeRecord>j</customMetadataTypeRecord>
+    <defaultScopes>xqTHlF</defaultScopes>
+    <ecKey>lgoLuzwMP</ecKey>
+    <errorUrl>Vk</errorUrl>
+    <executionUser>szdAdpEES</executionUser>
+    <friendlyName>oUch</friendlyName>
+    <iconUrl>jbXnW</iconUrl>
+    <idTokenIssuer>d</idTokenIssuer>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <linkKickoffUrl>iMiQFORZ</linkKickoffUrl>
+    <logoutUrl>ZSPLZt</logoutUrl>
+    <oauthKickoffUrl>JaDefq</oauthKickoffUrl>
+    <plugin>NuBy</plugin>
+    <portal>R</portal>
+    <providerType>GitHub</providerType>
+    <registrationHandler>aqYfhSB</registrationHandler>
+    <requireMfa>true</requireMfa>
+    <sendAccessTokenInHeader>true</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+    <ssoKickoffUrl>nNROYb</ssoKickoffUrl>
+    <tokenUrl>ZzIDi</tokenUrl>
+    <userInfoUrl>lRGef</userInfoUrl>
+</AuthProvider>

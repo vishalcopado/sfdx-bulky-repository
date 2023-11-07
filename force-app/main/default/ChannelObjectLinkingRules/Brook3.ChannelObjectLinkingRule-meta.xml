@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChannelObjectLinkingRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brook</fullName>
+    <actionForNoRecordFound>CreateNewRecordAndLink</actionForNoRecordFound>
+    <actionForSingleRecordFound>AutoLink</actionForSingleRecordFound>
+    <channelType>Phone</channelType>
+    <description>nVgtnNbO</description>
+    <isLinkedRecordOpenedAsSubTab>true</isLinkedRecordOpenedAsSubTab>
+    <isRuleActive>true</isRuleActive>
+    <masterLabel>eSaIZ</masterLabel>
+    <objectToLink>Contact</objectToLink>
+    <ruleName>L</ruleName>
+</ChannelObjectLinkingRule>

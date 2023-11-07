@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExperienceBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Shondra</fullName>
+    <experienceResources>
+        <experienceResource>
+            <fileName>OccB</fileName>
+            <format>rl</format>
+            <source>Xn4=</source>
+            <type>CzU</type>
+        </experienceResource>
+        <experienceResource>
+            <fileName>ZVe</fileName>
+            <format>uiJHzHjW</format>
+            <source>iIA=</source>
+            <type>XLoSSQdl</type>
+        </experienceResource>
+    </experienceResources>
+    <label>JTUi</label>
+    <type>Siteforce</type>
+    <urlPathPrefix>jfbW</urlPathPrefix>
+</ExperienceBundle>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skill xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Troy</fullName>
+    <assignments>
+        <profiles>
+            <profile>xaWiCa</profile>
+        </profiles>
+        <users>
+            <user>rkXNFJA</user>
+            <user>zy</user>
+        </users>
+    </assignments>
+    <description>jBtbYVW</description>
+    <label>B</label>
+    <skillType>edl</skillType>
+</Skill>

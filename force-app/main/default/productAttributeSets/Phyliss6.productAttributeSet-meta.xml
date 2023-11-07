@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductAttributeSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Phyliss</fullName>
+    <description>R</description>
+    <developerName>MuNkclYa</developerName>
+    <masterLabel>KMW</masterLabel>
+    <productAttributeSetItems>
+        <field>tlFXbLk</field>
+        <sequence>1599124279</sequence>
+    </productAttributeSetItems>
+</ProductAttributeSet>

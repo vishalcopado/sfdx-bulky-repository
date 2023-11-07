@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedContentType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Gilbert</fullName>
+    <description>p</description>
+    <developerName>sGsf</developerName>
+    <managedContentNodeTypes>
+        <helpText>LAEW</helpText>
+        <isLocalizable>false</isLocalizable>
+        <isRequired>true</isRequired>
+        <nodeLabel>S</nodeLabel>
+        <nodeName>UyEwPyUnp</nodeName>
+        <nodeType>IMG</nodeType>
+        <placeholderText>TS</placeholderText>
+    </managedContentNodeTypes>
+    <managedContentNodeTypes>
+        <helpText>UB</helpText>
+        <isLocalizable>false</isLocalizable>
+        <isRequired>true</isRequired>
+        <nodeLabel>FRQOuCEKU</nodeLabel>
+        <nodeName>lvgK</nodeName>
+        <nodeType>NAMEFIELD</nodeType>
+        <placeholderText>KlRKmEF</placeholderText>
+    </managedContentNodeTypes>
+    <masterLabel>ts</masterLabel>
+</ManagedContentType>

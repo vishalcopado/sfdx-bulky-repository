@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFeedFilter xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Palmer</fullName>
+    <criteria>
+        <feedItemType>RypplePost</feedItemType>
+        <feedItemVisibility>InternalUsers</feedItemVisibility>
+        <relatedSObjectType>LwB</relatedSObjectType>
+    </criteria>
+    <description>BTTzwps</description>
+    <isProtected>true</isProtected>
+    <label>BsbE</label>
+</CustomFeedFilter>

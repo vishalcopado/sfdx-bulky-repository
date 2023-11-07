@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Portal xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Milford</fullName>
+    <active>false</active>
+    <admin>PkzZYwm</admin>
+    <defaultLanguage>FE</defaultLanguage>
+    <description>flqkh</description>
+    <emailSenderAddress>Mjoav</emailSenderAddress>
+    <emailSenderName>QAsoVUQgx</emailSenderName>
+    <enableSelfCloseCase>false</enableSelfCloseCase>
+    <footerDocument>VWylHp</footerDocument>
+    <forgotPassTemplate>N</forgotPassTemplate>
+    <headerDocument>VULJUbkW</headerDocument>
+    <isSelfRegistrationActivated>true</isSelfRegistrationActivated>
+    <loginHeaderDocument>HBRpLN</loginHeaderDocument>
+    <logoDocument>x</logoDocument>
+    <logoutUrl>owiE</logoutUrl>
+    <newCommentTemplate>V</newCommentTemplate>
+    <newPassTemplate>fYKPgrLx</newPassTemplate>
+    <newUserTemplate>N</newUserTemplate>
+    <ownerNotifyTemplate>fN</ownerNotifyTemplate>
+    <selfRegNewUserUrl>bmhdqVL</selfRegNewUserUrl>
+    <selfRegUserDefaultProfile>oYEVJKfEM</selfRegUserDefaultProfile>
+    <selfRegUserDefaultRole>Manager</selfRegUserDefaultRole>
+    <selfRegUserTemplate>sAwNjJ</selfRegUserTemplate>
+    <showActionConfirmation>true</showActionConfirmation>
+    <stylesheetDocument>xetEKbJq</stylesheetDocument>
+    <type>Partner</type>
+</Portal>

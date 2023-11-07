@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformCachePartition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Dwain</fullName>
+    <description>ttBrwW</description>
+    <isDefaultPartition>false</isDefaultPartition>
+    <masterLabel>ccHw</masterLabel>
+    <platformCachePartitionTypes>
+        <allocatedCapacity>-781807474</allocatedCapacity>
+        <allocatedPartnerCapacity>1791047905</allocatedPartnerCapacity>
+        <allocatedPurchasedCapacity>-1871931335</allocatedPurchasedCapacity>
+        <allocatedTrialCapacity>1876553826</allocatedTrialCapacity>
+        <cacheType>Organization</cacheType>
+    </platformCachePartitionTypes>
+    <platformCachePartitionTypes>
+        <allocatedCapacity>-1117037623</allocatedCapacity>
+        <allocatedPartnerCapacity>834977208</allocatedPartnerCapacity>
+        <allocatedPurchasedCapacity>-1284417557</allocatedPurchasedCapacity>
+        <allocatedTrialCapacity>186797270</allocatedTrialCapacity>
+        <cacheType>Session</cacheType>
+    </platformCachePartitionTypes>
+</PlatformCachePartition>

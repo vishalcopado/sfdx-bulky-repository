@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceBranding xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Gail</fullName>
+    <contrastInvertedColor>GM</contrastInvertedColor>
+    <contrastPrimaryColor>b</contrastPrimaryColor>
+    <embeddedServiceConfig>AvGhZ</embeddedServiceConfig>
+    <font>PGQ</font>
+    <height>163947481</height>
+    <masterLabel>EGmVklNvv</masterLabel>
+    <navBarColor>J</navBarColor>
+    <navBarTextColor>w</navBarTextColor>
+    <primaryColor>kncR</primaryColor>
+    <secondaryColor>q</secondaryColor>
+    <secondaryNavBarColor>irkWcp</secondaryNavBarColor>
+    <width>-1236459593</width>
+</EmbeddedServiceBranding>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathAssistant xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bernadette</fullName>
+    <active>true</active>
+    <entityName>RXvVoBmyy</entityName>
+    <fieldName>WHzhtrNjp</fieldName>
+    <masterLabel>jDYYCzvLx</masterLabel>
+    <pathAssistantSteps>
+        <fieldNames>pVcrMl</fieldNames>
+        <fieldNames>MkGk</fieldNames>
+        <info>BL</info>
+        <picklistValueName>VFfAMKi</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <fieldNames>YYWsT</fieldNames>
+        <info>wxf</info>
+        <picklistValueName>EUGO</picklistValueName>
+    </pathAssistantSteps>
+    <recordTypeName>uM</recordTypeName>
+</PathAssistant>

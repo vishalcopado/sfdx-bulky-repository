@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Certificate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rosa</fullName>
+    <content>E1o=</content>
+    <caSigned>true</caSigned>
+    <encryptedWithPlatformEncryption>false</encryptedWithPlatformEncryption>
+    <expirationDate>2026-07-09T11:43:31.929Z</expirationDate>
+    <keySize>1599488060</keySize>
+    <masterLabel>wrhju</masterLabel>
+    <privateKeyExportable>true</privateKeyExportable>
+</Certificate>

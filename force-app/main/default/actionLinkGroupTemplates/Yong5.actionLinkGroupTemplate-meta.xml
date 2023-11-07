@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionLinkGroupTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Yong</fullName>
+    <actionLinkTemplates>
+        <actionUrl>hmse</actionUrl>
+        <headers>zVIaNtR</headers>
+        <isConfirmationRequired>false</isConfirmationRequired>
+        <isGroupDefault>true</isGroupDefault>
+        <label>WgL</label>
+        <labelKey>dgXggVLV</labelKey>
+        <linkType>Download</linkType>
+        <method>HttpDelete</method>
+        <position>-494756750</position>
+        <requestBody>ZIwh</requestBody>
+        <userAlias>WdZHvj</userAlias>
+        <userVisibility>Creator</userVisibility>
+    </actionLinkTemplates>
+    <actionLinkTemplates>
+        <actionUrl>Y</actionUrl>
+        <headers>JxeZIk</headers>
+        <isConfirmationRequired>true</isConfirmationRequired>
+        <isGroupDefault>true</isGroupDefault>
+        <label>OfuwkSmoq</label>
+        <labelKey>zzNl</labelKey>
+        <linkType>APIAsync</linkType>
+        <method>HttpHead</method>
+        <position>-1758832486</position>
+        <requestBody>l</requestBody>
+        <userAlias>a</userAlias>
+        <userVisibility>Everyone</userVisibility>
+    </actionLinkTemplates>
+    <category>Overflow</category>
+    <executionsAllowed>Unlimited</executionsAllowed>
+    <hoursUntilExpiration>19328828</hoursUntilExpiration>
+    <isPublished>true</isPublished>
+    <name>OSk</name>
+</ActionLinkGroupTemplate>

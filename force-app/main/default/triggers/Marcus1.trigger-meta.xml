@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexTrigger xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Marcus</fullName>
+    <content>/A==</content>
+    <apiVersion>0.4779046396451341</apiVersion>
+    <packageVersions>
+        <majorNumber>585006716</majorNumber>
+        <minorNumber>-850128408</minorNumber>
+        <namespace>xlkkj</namespace>
+    </packageVersions>
+    <status>Inactive</status>
+</ApexTrigger>

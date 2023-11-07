@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplicationComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mohammed</fullName>
+    <buttonIconUrl>hdyy</buttonIconUrl>
+    <buttonStyle>QXTTRts</buttonStyle>
+    <buttonText>q</buttonText>
+    <buttonWidth>1694412003</buttonWidth>
+    <height>-492974861</height>
+    <isHeightFixed>true</isHeightFixed>
+    <isHidden>true</isHidden>
+    <isWidthFixed>true</isWidthFixed>
+    <visualforcePage>ShpCRjy</visualforcePage>
+    <width>-1676350044</width>
+</CustomApplicationComponent>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntityImplements xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brock</fullName>
+    <fieldImplements>
+        <field>N</field>
+        <interfaceField>FQNSMom</interfaceField>
+    </fieldImplements>
+    <fieldMap>
+        <field>s</field>
+        <interfaceField>eT</interfaceField>
+    </fieldMap>
+    <fieldMap>
+        <field>LbsZEBA</field>
+        <interfaceField>iL</interfaceField>
+    </fieldMap>
+    <interface>d</interface>
+    <isDefault>true</isDefault>
+    <isFullyMapped>false</isFullyMapped>
+</EntityImplements>

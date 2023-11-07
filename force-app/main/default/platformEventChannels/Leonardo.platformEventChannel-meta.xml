@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformEventChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Leonardo</fullName>
+    <channelMembers>
+        <selectedEntity>LwKj</selectedEntity>
+    </channelMembers>
+    <channelMembers>
+        <selectedEntity>iC</selectedEntity>
+    </channelMembers>
+    <channelType>data</channelType>
+    <label>LBJyRY</label>
+    <selectedEntity>jd</selectedEntity>
+</PlatformEventChannel>

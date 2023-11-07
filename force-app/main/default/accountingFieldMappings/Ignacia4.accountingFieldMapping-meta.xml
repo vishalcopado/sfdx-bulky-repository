@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountingFieldMapping xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ignacia</fullName>
+    <accountingModelConfig>L</accountingModelConfig>
+    <isForAllocationType>true</isForAllocationType>
+    <isForPaymentType>true</isForPaymentType>
+    <isForTransactionType>false</isForTransactionType>
+    <isProtected>false</isProtected>
+    <mappingBehavior>PointInTime</mappingBehavior>
+    <masterLabel>uV</masterLabel>
+    <sourceField>uHHG</sourceField>
+    <targetField>hE</targetField>
+</AccountingFieldMapping>

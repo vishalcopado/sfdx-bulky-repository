@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CampaignInfluenceModel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jim</fullName>
+    <isActive>true</isActive>
+    <isDefaultModel>true</isDefaultModel>
+    <isModelLocked>false</isModelLocked>
+    <modelDescription>MsY</modelDescription>
+    <name>PBeAw</name>
+    <recordPreference>SDFO</recordPreference>
+</CampaignInfluenceModel>

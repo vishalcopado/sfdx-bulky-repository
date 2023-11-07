@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChannelObjectLinkingRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brook</fullName>
+    <actionForNoRecordFound>PromptAgent</actionForNoRecordFound>
+    <actionForSingleRecordFound>PromptAgent</actionForSingleRecordFound>
+    <channelType>WhatsApp</channelType>
+    <description>dZWwguCxh</description>
+    <isLinkedRecordOpenedAsSubTab>false</isLinkedRecordOpenedAsSubTab>
+    <isRuleActive>false</isRuleActive>
+    <masterLabel>vaqbugS</masterLabel>
+    <objectToLink>Contact</objectToLink>
+    <ruleName>Jyj</ruleName>
+</ChannelObjectLinkingRule>

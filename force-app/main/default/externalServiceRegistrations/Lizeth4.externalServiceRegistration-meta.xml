@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalServiceRegistration xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lizeth</fullName>
+    <description>KTjtu</description>
+    <label>GmsVUN</label>
+    <namedCredential>i</namedCredential>
+    <namedCredentialReference>pIxeuB</namedCredentialReference>
+    <operations>
+        <active>false</active>
+        <name>CFruab</name>
+    </operations>
+    <operations>
+        <active>true</active>
+        <name>V</name>
+    </operations>
+    <providerAssetEndpoint>Fi</providerAssetEndpoint>
+    <registrationProviderType>Custom</registrationProviderType>
+    <schema>v</schema>
+    <schemaAbsoluteUrl>w</schemaAbsoluteUrl>
+    <schemaType>u</schemaType>
+    <schemaUploadFileExtension>pgi</schemaUploadFileExtension>
+    <schemaUploadFileName>z</schemaUploadFileName>
+    <schemaUrl>QLzJwBA</schemaUrl>
+    <serviceBinding>iBM</serviceBinding>
+    <status>pMXv</status>
+    <systemVersion>-1694988239</systemVersion>
+</ExternalServiceRegistration>

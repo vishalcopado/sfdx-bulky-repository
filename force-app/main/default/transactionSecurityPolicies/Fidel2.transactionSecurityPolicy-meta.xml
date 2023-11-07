@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransactionSecurityPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Fidel</fullName>
+    <action>
+        <block>false</block>
+        <endSession>true</endSession>
+        <freezeUser>false</freezeUser>
+        <notifications>
+            <inApp>true</inApp>
+            <sendEmail>true</sendEmail>
+            <user>NMJkL</user>
+        </notifications>
+        <notifications>
+            <inApp>true</inApp>
+            <sendEmail>true</sendEmail>
+            <user>KCqK</user>
+        </notifications>
+        <twoFactorAuthentication>true</twoFactorAuthentication>
+    </action>
+    <active>true</active>
+    <apexClass>J</apexClass>
+    <blockMessage>O</blockMessage>
+    <customEmailContent>aMS</customEmailContent>
+    <description>XTYNQX</description>
+    <developerName>TIavpM</developerName>
+    <eventName>PermissionSetEventStore</eventName>
+    <eventType>Login</eventType>
+    <executionUser>hqqzc</executionUser>
+    <flow>iOqlbOZSW</flow>
+    <masterLabel>Cuf</masterLabel>
+    <resourceName>S</resourceName>
+    <type>CustomConditionBuilderPolicy</type>
+</TransactionSecurityPolicy>

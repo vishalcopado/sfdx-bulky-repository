@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileSecurityAssignment xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Dewey</fullName>
+    <connectedApplication>sqxOYTSSD</connectedApplication>
+    <isProtected>true</isProtected>
+    <masterLabel>JbcW</masterLabel>
+    <mobileSecurityPolicySet>tekBkfWAv</mobileSecurityPolicySet>
+    <profile>uTdTW</profile>
+</MobileSecurityAssignment>

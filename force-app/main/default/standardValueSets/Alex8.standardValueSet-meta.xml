@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Alex</fullName>
+    <groupingStringEnum>qgjzOfl</groupingStringEnum>
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>hQ</fullName>
+        <color>ihGOaX</color>
+        <default>true</default>
+        <description>MLEG</description>
+        <isActive>false</isActive>
+        <label>zzULIjgiP</label>
+        <allowEmail>true</allowEmail>
+        <closed>true</closed>
+        <converted>false</converted>
+        <cssExposed>false</cssExposed>
+        <forecastCategory>MostLikely</forecastCategory>
+        <groupingString>DcM</groupingString>
+        <highPriority>false</highPriority>
+        <probability>1391536638</probability>
+        <reverseRole>Pk</reverseRole>
+        <reviewed>true</reviewed>
+        <won>false</won>
+    </standardValue>
+</StandardValueSet>

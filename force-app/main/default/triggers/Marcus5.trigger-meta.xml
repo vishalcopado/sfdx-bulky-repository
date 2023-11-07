@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexTrigger xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Marcus</fullName>
+    <content>9w==</content>
+    <apiVersion>0.19446563843600795</apiVersion>
+    <packageVersions>
+        <majorNumber>-1128621103</majorNumber>
+        <minorNumber>434913906</minorNumber>
+        <namespace>gMAdrpSYc</namespace>
+    </packageVersions>
+    <status>Inactive</status>
+</ApexTrigger>

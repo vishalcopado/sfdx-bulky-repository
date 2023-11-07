@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CallCenter xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Kendrick</fullName>
+    <adapterUrl>sftCsICwa</adapterUrl>
+    <contactCenterChannels>
+        <channel>Y</channel>
+    </contactCenterChannels>
+    <contactCenterChannels>
+        <channel>Lcuhgsx</channel>
+    </contactCenterChannels>
+    <customSettings>l</customSettings>
+    <displayName>uxEXsx</displayName>
+    <displayNameLabel>tCwIhPd</displayNameLabel>
+    <internalNameLabel>FlzBjLC</internalNameLabel>
+    <sections>
+        <items>
+            <label>cle</label>
+            <name>vtOmLfop</name>
+            <value>KnFSE</value>
+        </items>
+        <label>rzjO</label>
+        <name>brvABB</name>
+    </sections>
+    <vendorCallCenterStatusMaps>
+        <externalStatus>GCbe</externalStatus>
+        <servicePresenceStatus>SrHDk</servicePresenceStatus>
+    </vendorCallCenterStatusMaps>
+    <version>AXhDOhVBu</version>
+</CallCenter>

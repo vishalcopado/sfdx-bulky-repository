@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIObjectRelationConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ruben</fullName>
+    <UIObjectRelationFieldConfigs>
+        <displayLabel>rMkq</displayLabel>
+        <queryText>pZvGtGMJ</queryText>
+        <rowOrder>251237194</rowOrder>
+    </UIObjectRelationFieldConfigs>
+    <UIObjectRelationFieldConfigs>
+        <displayLabel>xWsuBkK</displayLabel>
+        <queryText>LuuZENQ</queryText>
+        <rowOrder>-1284150387</rowOrder>
+    </UIObjectRelationFieldConfigs>
+    <contextObject>Rcm</contextObject>
+    <contextObjectRecordType>wNOH</contextObjectRecordType>
+    <directRelationshipField>Nt</directRelationshipField>
+    <indirectObjectContextField>crUZKElIJ</indirectObjectContextField>
+    <indirectObjectRelatedField>yamRAs</indirectObjectRelatedField>
+    <indirectRelationshipObject>ofhreMghz</indirectRelationshipObject>
+    <isActive>false</isActive>
+    <masterLabel>DpXGU</masterLabel>
+    <relatedObject>ZplUmPmt</relatedObject>
+    <relatedObjectRecordType>zs</relatedObjectRecordType>
+    <relationshipType>Indirect</relationshipType>
+</UIObjectRelationConfig>

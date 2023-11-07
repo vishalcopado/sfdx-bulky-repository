@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomNotificationType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Dwain</fullName>
+    <customNotifTypeName>CAszMoAy</customNotifTypeName>
+    <description>LuZtps</description>
+    <desktop>true</desktop>
+    <email>true</email>
+    <masterLabel>hPNIoDdZ</masterLabel>
+    <mobile>false</mobile>
+    <slack>false</slack>
+</CustomNotificationType>

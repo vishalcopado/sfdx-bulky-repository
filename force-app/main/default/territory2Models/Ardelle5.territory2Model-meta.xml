@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2Model xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ardelle</fullName>
+    <customFields>
+        <name>K</name>
+        <value>java.lang.Object@438d9b1a</value>
+    </customFields>
+    <customFields>
+        <name>tffHnRev</name>
+        <value>java.lang.Object@2eedf17f</value>
+    </customFields>
+    <description>MQliSRCHp</description>
+    <name>IzV</name>
+</Territory2Model>

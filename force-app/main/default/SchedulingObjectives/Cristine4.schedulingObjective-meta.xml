@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchedulingObjective xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cristine</fullName>
+    <isProtected>false</isProtected>
+    <masterLabel>yW</masterLabel>
+    <schedulingCategory>B</schedulingCategory>
+    <schedulingObjectiveParameters>
+        <parameterKey>DaysAhead</parameterKey>
+        <value>QbDSePCf</value>
+    </schedulingObjectiveParameters>
+    <schedulingObjectiveParameters>
+        <parameterKey>DaysAhead</parameterKey>
+        <value>z</value>
+    </schedulingObjectiveParameters>
+    <schedulingObjectiveType>AgentPreference</schedulingObjectiveType>
+</SchedulingObjective>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetLicenseDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Travis</fullName>
+    <customPermissions>
+        <name>NAISDeJJ</name>
+    </customPermissions>
+    <isSupplementLicense>true</isSupplementLicense>
+    <label>Apf</label>
+    <licenseExpirationPolicy>BlockNamespaceAccess</licenseExpirationPolicy>
+    <userLicenseRestrictions>IMI</userLicenseRestrictions>
+</PermissionSetLicenseDefinition>

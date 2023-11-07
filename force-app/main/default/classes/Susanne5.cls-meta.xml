@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Susanne</fullName>
+    <content>RA==</content>
+    <apiVersion>0.480159896534301</apiVersion>
+    <packageVersions>
+        <majorNumber>1327149255</majorNumber>
+        <minorNumber>-1265367554</minorNumber>
+        <namespace>qaFvo</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1623056430</majorNumber>
+        <minorNumber>1494289267</minorNumber>
+        <namespace>NAg</namespace>
+    </packageVersions>
+    <status>Deleted</status>
+</ApexClass>

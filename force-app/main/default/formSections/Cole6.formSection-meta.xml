@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FormSection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cole</fullName>
+    <formColumns>
+        <formItems>
+            <emptySpace>true</emptySpace>
+            <expression>waVhS</expression>
+            <formLayoutableItem>g</formLayoutableItem>
+            <helpText>iFxik</helpText>
+        </formItems>
+    </formColumns>
+    <masterLabel>GhBbp</masterLabel>
+    <tabOrderType>TopToBottom</tabOrderType>
+</FormSection>

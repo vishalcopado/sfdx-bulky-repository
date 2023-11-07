@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkflowAlert xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ima</fullName>
+    <ccEmails>ofEMA</ccEmails>
+    <ccEmails>xhj</ccEmails>
+    <description>cYPfjjtzC</description>
+    <protected>true</protected>
+    <recipients>
+        <field>Ex</field>
+        <recipient>JyAqLhabD</recipient>
+        <type>userLookup</type>
+    </recipients>
+    <senderAddress>SKc</senderAddress>
+    <senderType>CurrentUser</senderType>
+    <template>wZXfrIYY</template>
+</WorkflowAlert>

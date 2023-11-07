@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ManagedTopics xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Nellie</fullName>
+    <managedTopic>
+        <fullName>QsibxzYH</fullName>
+        <managedTopicType>tV</managedTopicType>
+        <name>fW</name>
+        <parentName>Y</parentName>
+        <position>161550655</position>
+        <topicDescription>PNIUsMOZY</topicDescription>
+    </managedTopic>
+    <managedTopic>
+        <fullName>AC</fullName>
+        <managedTopicType>rqfkKuvmn</managedTopicType>
+        <name>bn</name>
+        <parentName>AZgfmac</parentName>
+        <position>562078279</position>
+        <topicDescription>KAHM</topicDescription>
+    </managedTopic>
+    <managedTopic>
+        <fullName>Gerard</fullName>
+        <managedTopicType>Gerard</managedTopicType>
+        <name>Gerard</name>
+        <parentName>Gerard</parentName>
+        <position>-1188957731</position>
+        <topicDescription>Gerard</topicDescription>
+    </managedTopic>
+    <managedTopic>
+        <fullName>e28d8008-1cc6-4790-9e6e-b03559a9c8c0</fullName>
+        <managedTopicType>e28d8008-1cc6-4790-9e6e-b03559a9c8c0</managedTopicType>
+        <name>e28d8008-1cc6-4790-9e6e-b03559a9c8c0</name>
+        <parentName>e28d8008-1cc6-4790-9e6e-b03559a9c8c0</parentName>
+        <position>-1188957731</position>
+        <topicDescription>e28d8008-1cc6-4790-9e6e-b03559a9c8c0</topicDescription>
+    </managedTopic>
+</ManagedTopics>

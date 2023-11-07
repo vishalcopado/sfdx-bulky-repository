@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EventRelayConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jenni</fullName>
+    <destinationResourceName>sAtGo</destinationResourceName>
+    <eventChannel>GB</eventChannel>
+    <isProtected>true</isProtected>
+    <label>xJIxo</label>
+    <masterLabel>EtsbntHAX</masterLabel>
+    <relayOption>xWNR</relayOption>
+    <state>PAUSE</state>
+</EventRelayConfig>

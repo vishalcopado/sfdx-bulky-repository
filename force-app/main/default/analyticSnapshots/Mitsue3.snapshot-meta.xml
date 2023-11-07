@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticSnapshot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mitsue</fullName>
+    <description>TICDyuPD</description>
+    <groupColumn>TgSrS</groupColumn>
+    <mappings>
+        <aggregateType>None</aggregateType>
+        <sourceField>oG</sourceField>
+        <sourceType>tabular</sourceType>
+        <targetField>lMKSPiaf</targetField>
+    </mappings>
+    <mappings>
+        <aggregateType>Median</aggregateType>
+        <sourceField>JnXzZadTl</sourceField>
+        <sourceType>summary</sourceType>
+        <targetField>et</targetField>
+    </mappings>
+    <name>Bpo</name>
+    <runningUser>pyQBP</runningUser>
+    <sourceReport>OdJ</sourceReport>
+    <targetObject>hdfN</targetObject>
+</AnalyticSnapshot>

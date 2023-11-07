@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConversationVendorInfo xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Golden</fullName>
+    <agentSSOSupported>false</agentSSOSupported>
+    <awsAccountKey>wYQ</awsAccountKey>
+    <awsRootEmail>DgJdh</awsRootEmail>
+    <awsTenantVersion>0.6576764828190633</awsTenantVersion>
+    <bridgeComponent>JxBUYC</bridgeComponent>
+    <clientAuthMode>Custom</clientAuthMode>
+    <connectorUrl>fa</connectorUrl>
+    <customConfig>EXF</customConfig>
+    <customLoginUrl>JpOYzZ</customLoginUrl>
+    <developerName>vlVwt</developerName>
+    <einsteinConversationInsightsSupported>true</einsteinConversationInsightsSupported>
+    <integrationClass>bHXgEfgm</integrationClass>
+    <integrationClassName>NZgSh</integrationClassName>
+    <isTaxCompliant>true</isTaxCompliant>
+    <keyProvisioningSupported>true</keyProvisioningSupported>
+    <masterLabel>nVXmJlRkm</masterLabel>
+    <namedCredential>snY</namedCredential>
+    <namedCredentialSupported>false</namedCredentialSupported>
+    <partnerContactCenterListSupported>false</partnerContactCenterListSupported>
+    <partnerPhoneNumbersSupported>true</partnerPhoneNumbersSupported>
+    <partnerTransferDestinationsSupported>false</partnerTransferDestinationsSupported>
+    <queueManagementSupported>true</queueManagementSupported>
+    <serverAuthMode>OAuth</serverAuthMode>
+    <telephonySettingsComponent>rWdZIM</telephonySettingsComponent>
+    <universalCallRecordingAccessSupported>false</universalCallRecordingAccessSupported>
+    <userSyncingSupported>false</userSyncingSupported>
+    <vendorType>BringYourOwnChannelPartner</vendorType>
+</ConversationVendorInfo>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QueueRoutingConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rosina</fullName>
+    <capacityPercentage>0.9968475047260047</capacityPercentage>
+    <capacityWeight>0.11376782673445818</capacityWeight>
+    <dropAdditionalSkillsTimeout>-1259377417</dropAdditionalSkillsTimeout>
+    <isAttributeBased>false</isAttributeBased>
+    <label>J</label>
+    <pushTimeout>-1244881256</pushTimeout>
+    <queueOverflowAssignee>TDYFKfIn</queueOverflowAssignee>
+    <routingModel>MOST_AVAILABLE</routingModel>
+    <routingPriority>465088340</routingPriority>
+    <skills>
+        <skill>ghS</skill>
+    </skills>
+    <skills>
+        <skill>uGZCuY</skill>
+    </skills>
+    <userOverflowAssignee>fn</userOverflowAssignee>
+</QueueRoutingConfig>

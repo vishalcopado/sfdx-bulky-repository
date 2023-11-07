@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIObjectRelationConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ruben</fullName>
+    <UIObjectRelationFieldConfigs>
+        <displayLabel>GH</displayLabel>
+        <queryText>atirZOzq</queryText>
+        <rowOrder>-87686510</rowOrder>
+    </UIObjectRelationFieldConfigs>
+    <contextObject>MbVkKrA</contextObject>
+    <contextObjectRecordType>N</contextObjectRecordType>
+    <directRelationshipField>asrbX</directRelationshipField>
+    <indirectObjectContextField>Uxks</indirectObjectContextField>
+    <indirectObjectRelatedField>n</indirectObjectRelatedField>
+    <indirectRelationshipObject>VlHQbtEV</indirectRelationshipObject>
+    <isActive>true</isActive>
+    <masterLabel>qLrKXsb</masterLabel>
+    <relatedObject>poJruHco</relatedObject>
+    <relatedObjectRecordType>yKJ</relatedObjectRecordType>
+    <relationshipType>InverseDirect</relationshipType>
+</UIObjectRelationConfig>

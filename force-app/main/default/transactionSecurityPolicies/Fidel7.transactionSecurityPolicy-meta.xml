@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransactionSecurityPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Fidel</fullName>
+    <action>
+        <block>true</block>
+        <endSession>false</endSession>
+        <freezeUser>true</freezeUser>
+        <notifications>
+            <inApp>false</inApp>
+            <sendEmail>true</sendEmail>
+            <user>UlekYV</user>
+        </notifications>
+        <notifications>
+            <inApp>false</inApp>
+            <sendEmail>false</sendEmail>
+            <user>IaudZK</user>
+        </notifications>
+        <twoFactorAuthentication>false</twoFactorAuthentication>
+    </action>
+    <active>false</active>
+    <apexClass>Rbqjc</apexClass>
+    <blockMessage>OibI</blockMessage>
+    <customEmailContent>Yc</customEmailContent>
+    <description>KxgOtOsaH</description>
+    <developerName>JzMna</developerName>
+    <eventName>ApiAnomalyEventStore</eventName>
+    <eventType>Entity</eventType>
+    <executionUser>TbRUPHa</executionUser>
+    <flow>prg</flow>
+    <masterLabel>UiwE</masterLabel>
+    <resourceName>TjG</resourceName>
+    <type>CustomApexPolicy</type>
+</TransactionSecurityPolicy>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConversationVendorInfo xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Golden</fullName>
+    <agentSSOSupported>false</agentSSOSupported>
+    <awsAccountKey>yc</awsAccountKey>
+    <awsRootEmail>v</awsRootEmail>
+    <awsTenantVersion>0.8291566428790142</awsTenantVersion>
+    <bridgeComponent>yxUVHp</bridgeComponent>
+    <clientAuthMode>Mixed</clientAuthMode>
+    <connectorUrl>u</connectorUrl>
+    <customConfig>IPgWUrhV</customConfig>
+    <customLoginUrl>Vj</customLoginUrl>
+    <developerName>nc</developerName>
+    <einsteinConversationInsightsSupported>false</einsteinConversationInsightsSupported>
+    <integrationClass>JEyCwNFI</integrationClass>
+    <integrationClassName>ENmHfMdK</integrationClassName>
+    <isTaxCompliant>false</isTaxCompliant>
+    <keyProvisioningSupported>false</keyProvisioningSupported>
+    <masterLabel>pMQzMOgRp</masterLabel>
+    <namedCredential>GcsUwyt</namedCredential>
+    <namedCredentialSupported>true</namedCredentialSupported>
+    <partnerContactCenterListSupported>true</partnerContactCenterListSupported>
+    <partnerPhoneNumbersSupported>false</partnerPhoneNumbersSupported>
+    <partnerTransferDestinationsSupported>false</partnerTransferDestinationsSupported>
+    <queueManagementSupported>false</queueManagementSupported>
+    <serverAuthMode>None</serverAuthMode>
+    <telephonySettingsComponent>BNsVHO</telephonySettingsComponent>
+    <universalCallRecordingAccessSupported>true</universalCallRecordingAccessSupported>
+    <userSyncingSupported>true</userSyncingSupported>
+    <vendorType>ServiceCloudVoicePartner</vendorType>
+</ConversationVendorInfo>

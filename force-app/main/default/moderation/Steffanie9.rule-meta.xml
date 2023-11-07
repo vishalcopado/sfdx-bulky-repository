@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModerationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Steffanie</fullName>
+    <action>Replace</action>
+    <actionLimit>106595264</actionLimit>
+    <active>true</active>
+    <description>Y</description>
+    <entitiesAndFields>
+        <entityName>umrhylZK</entityName>
+        <fieldName>kXH</fieldName>
+        <keywordList>GyWB</keywordList>
+    </entitiesAndFields>
+    <entitiesAndFields>
+        <entityName>FR</entityName>
+        <fieldName>NJLCoDRxK</fieldName>
+        <keywordList>SlpFE</keywordList>
+    </entitiesAndFields>
+    <masterLabel>aKUDdQnSd</masterLabel>
+    <notifyLimit>1096462159</notifyLimit>
+    <timePeriod>Medium</timePeriod>
+    <type>Rate</type>
+    <userCriteria>c</userCriteria>
+    <userCriteria>nldvSK</userCriteria>
+    <userMessage>xlv</userMessage>
+</ModerationRule>

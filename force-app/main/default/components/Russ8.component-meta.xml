@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Russ</fullName>
+    <content>MQ==</content>
+    <apiVersion>0.3288168871775323</apiVersion>
+    <description>dhzny</description>
+    <label>qhFuh</label>
+    <packageVersions>
+        <majorNumber>1930343313</majorNumber>
+        <minorNumber>940777558</minorNumber>
+        <namespace>eQcG</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>2048989620</majorNumber>
+        <minorNumber>-551732535</minorNumber>
+        <namespace>kwUNkWD</namespace>
+    </packageVersions>
+</ApexComponent>

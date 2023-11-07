@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexTrigger xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Marcus</fullName>
+    <content>OCk=</content>
+    <apiVersion>0.3735431698074988</apiVersion>
+    <packageVersions>
+        <majorNumber>-1254709515</majorNumber>
+        <minorNumber>-841966217</minorNumber>
+        <namespace>iEbPDT</namespace>
+    </packageVersions>
+    <status>Deleted</status>
+</ApexTrigger>

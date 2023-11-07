@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InboundCertificate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Marshall</fullName>
+    <content>Kw==</content>
+    <expirationDate>2015-01-25T07:20:50.169Z</expirationDate>
+    <issuer>AGvX</issuer>
+    <masterLabel>XiMlB</masterLabel>
+    <serialId>FMUYqz</serialId>
+</InboundCertificate>

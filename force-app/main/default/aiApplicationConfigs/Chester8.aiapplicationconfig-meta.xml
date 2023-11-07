@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIApplicationConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Chester</fullName>
+    <aiApplicationDeveloperName>u</aiApplicationDeveloperName>
+    <applicationId>CwRNrK</applicationId>
+    <developerName>iPG</developerName>
+    <insightReasonEnabled>false</insightReasonEnabled>
+    <masterLabel>RGh</masterLabel>
+    <rank>345316076</rank>
+    <scoringMode>Streaming</scoringMode>
+</AIApplicationConfig>

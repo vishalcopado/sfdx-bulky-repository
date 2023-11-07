@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionLinkGroupTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Yong</fullName>
+    <actionLinkTemplates>
+        <actionUrl>JqcvNzR</actionUrl>
+        <headers>Jj</headers>
+        <isConfirmationRequired>false</isConfirmationRequired>
+        <isGroupDefault>true</isGroupDefault>
+        <label>KtXRHG</label>
+        <labelKey>jC</labelKey>
+        <linkType>Download</linkType>
+        <method>HttpGet</method>
+        <position>1894219855</position>
+        <requestBody>iSmuuG</requestBody>
+        <userAlias>ZNpW</userAlias>
+        <userVisibility>EveryoneButCreator</userVisibility>
+    </actionLinkTemplates>
+    <category>Overflow</category>
+    <executionsAllowed>Unlimited</executionsAllowed>
+    <hoursUntilExpiration>1407545188</hoursUntilExpiration>
+    <isPublished>false</isPublished>
+    <name>TWYwGEhrR</name>
+</ActionLinkGroupTemplate>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Kirby</fullName>
+    <description>NnGKaDk</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <isCalculatingChanges>false</isCalculatingChanges>
+    <label>TbexCfm</label>
+    <mutingPermissionSets>AWEg</mutingPermissionSets>
+    <permissionSets>HI</permissionSets>
+    <permissionSets>cSzdIUXl</permissionSets>
+    <status>ogc</status>
+</PermissionSetGroup>

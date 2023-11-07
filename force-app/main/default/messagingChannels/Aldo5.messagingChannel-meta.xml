@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MessagingChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Aldo</fullName>
+    <automatedResponses>
+        <response>WKvtYa</response>
+        <type>InitialResponse</type>
+    </automatedResponses>
+    <customParameters>
+        <actionParameterMappings>
+            <actionParameterName>eNPO</actionParameterName>
+        </actionParameterMappings>
+        <actionParameterMappings>
+            <actionParameterName>AvxNptmLk</actionParameterName>
+        </actionParameterMappings>
+        <externalParameterName>dqgJK</externalParameterName>
+        <masterLabel>vHtqsIYrG</masterLabel>
+        <maxLength>2053792342</maxLength>
+        <name>Wk</name>
+        <parameterDataType>Date</parameterDataType>
+    </customParameters>
+    <description>fIvoFeHZ</description>
+    <masterLabel>dUDI</masterLabel>
+    <messagingChannelType>Voice</messagingChannelType>
+    <sessionHandlerFlow>nUh</sessionHandlerFlow>
+    <sessionHandlerQueue>PhywqfVhv</sessionHandlerQueue>
+    <sessionHandlerType>Flow</sessionHandlerType>
+    <standardParameters>
+        <actionParameterMappings>
+            <actionParameterName>viejIrJey</actionParameterName>
+        </actionParameterMappings>
+        <parameterType>Email</parameterType>
+    </standardParameters>
+</MessagingChannel>

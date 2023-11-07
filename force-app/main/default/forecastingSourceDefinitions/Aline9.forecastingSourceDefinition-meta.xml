@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingSourceDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Aline</fullName>
+    <categoryField>Ts</categoryField>
+    <dateField>zncjd</dateField>
+    <familyField>vBxvE</familyField>
+    <isProtected>false</isProtected>
+    <masterLabel>c</masterLabel>
+    <measureField>qhPhTmrq</measureField>
+    <sourceObject>EtgdNEAK</sourceObject>
+    <territory2Field>kXsWxA</territory2Field>
+    <userField>ZcEAbMw</userField>
+</ForecastingSourceDefinition>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DynamicTrigger xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rhiannon</fullName>
+    <apexClass>TBPWI</apexClass>
+    <customFieldDefinition>oG</customFieldDefinition>
+    <firesOnTriggerEventsAfterInsert>false</firesOnTriggerEventsAfterInsert>
+    <firesOnTriggerEventsAfterUpdate>true</firesOnTriggerEventsAfterUpdate>
+    <firesOnTriggerEventsBeforeInsert>true</firesOnTriggerEventsBeforeInsert>
+    <firesOnTriggerEventsBeforeUpdate>true</firesOnTriggerEventsBeforeUpdate>
+    <isActive>false</isActive>
+    <isProtected>false</isProtected>
+    <masterLabel>dgXykOOI</masterLabel>
+</DynamicTrigger>

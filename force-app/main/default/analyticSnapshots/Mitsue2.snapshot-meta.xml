@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticSnapshot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mitsue</fullName>
+    <description>oApIrxPt</description>
+    <groupColumn>pHNYzHMkv</groupColumn>
+    <mappings>
+        <aggregateType>Average</aggregateType>
+        <sourceField>Lt</sourceField>
+        <sourceType>tabular</sourceType>
+        <targetField>uH</targetField>
+    </mappings>
+    <mappings>
+        <aggregateType>Maximum</aggregateType>
+        <sourceField>b</sourceField>
+        <sourceType>snapshot</sourceType>
+        <targetField>hPiXOresk</targetField>
+    </mappings>
+    <name>ylkr</name>
+    <runningUser>kRWufNUfx</runningUser>
+    <sourceReport>b</sourceReport>
+    <targetObject>pKx</targetObject>
+</AnalyticSnapshot>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingFilterCondition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sylvia</fullName>
+    <colName>Q</colName>
+    <fieldName>y</fieldName>
+    <forecastingFilter>Rq</forecastingFilter>
+    <forecastingSourceDefinition>itb</forecastingSourceDefinition>
+    <isProtected>true</isProtected>
+    <masterLabel>cDOBPDQ</masterLabel>
+    <operation>includes</operation>
+    <sortOrder>1044618922</sortOrder>
+    <value>igSZWBM</value>
+</ForecastingFilterCondition>

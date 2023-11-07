@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceAISetupDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Zackary</fullName>
+    <appSourceType>UTTERANCE_RECOMMENDATION</appSourceType>
+    <name>vPDIyqUj</name>
+    <setupStatus>READY_FOR_REVIEW</setupStatus>
+    <supportedLanguages>vMNzhx</supportedLanguages>
+</ServiceAISetupDefinition>

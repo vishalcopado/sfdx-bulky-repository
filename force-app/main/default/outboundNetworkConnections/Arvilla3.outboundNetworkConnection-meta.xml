@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OutboundNetworkConnection xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Arvilla</fullName>
+    <connectionType>AwsPrivateLink</connectionType>
+    <description>ZVdx</description>
+    <isActive>false</isActive>
+    <label>PoPW</label>
+    <outboundNetworkConnProperties>
+        <propertyName>Region</propertyName>
+        <propertyValue>DfLSDWPB</propertyValue>
+    </outboundNetworkConnProperties>
+    <status>PendingAcceptance</status>
+</OutboundNetworkConnection>

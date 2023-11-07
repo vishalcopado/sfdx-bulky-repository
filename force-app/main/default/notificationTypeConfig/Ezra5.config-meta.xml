@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NotificationTypeConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ezra</fullName>
+    <notificationTypeSettings>
+        <appSettings>
+            <connectedAppName>aUndi</connectedAppName>
+            <enabled>false</enabled>
+        </appSettings>
+        <notificationChannels>
+            <desktopEnabled>false</desktopEnabled>
+            <mobileEnabled>false</mobileEnabled>
+            <slackEnabled>true</slackEnabled>
+        </notificationChannels>
+        <notificationType>PBtzQ</notificationType>
+    </notificationTypeSettings>
+    <notificationTypeSettings>
+        <appSettings>
+            <connectedAppName>LrYBpFaQC</connectedAppName>
+            <enabled>false</enabled>
+        </appSettings>
+        <notificationChannels>
+            <desktopEnabled>false</desktopEnabled>
+            <mobileEnabled>true</mobileEnabled>
+            <slackEnabled>false</slackEnabled>
+        </notificationChannels>
+        <notificationType>YlmJsLup</notificationType>
+    </notificationTypeSettings>
+</NotificationTypeConfig>

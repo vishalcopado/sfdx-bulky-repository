@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIScoringModelDefVersion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lyla</fullName>
+    <aiScoringModelDefinition>fYSCXBD</aiScoringModelDefinition>
+    <aiScoringSteps>
+        <aiModelConfigStep>Uc</aiModelConfigStep>
+        <stepDetail>vVhgNUj</stepDetail>
+    </aiScoringSteps>
+    <aiScoringSteps>
+        <aiModelConfigStep>txBf</aiModelConfigStep>
+        <stepDetail>STwP</stepDetail>
+    </aiScoringSteps>
+    <developerName>CnFNP</developerName>
+    <masterLabel>EoNVq</masterLabel>
+    <modelMode>TRAIN_AND_DEPLOY</modelMode>
+</AIScoringModelDefVersion>

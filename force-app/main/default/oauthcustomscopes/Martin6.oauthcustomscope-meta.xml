@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OauthCustomScope xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Martin</fullName>
+    <assignedTo>
+        <connectedApp>agyglT</connectedApp>
+    </assignedTo>
+    <assignedTo>
+        <connectedApp>QuSeuq</connectedApp>
+    </assignedTo>
+    <description>tKkNa</description>
+    <developerName>xykTp</developerName>
+    <isProtected>false</isProtected>
+    <isPublic>true</isPublic>
+    <masterLabel>i</masterLabel>
+</OauthCustomScope>

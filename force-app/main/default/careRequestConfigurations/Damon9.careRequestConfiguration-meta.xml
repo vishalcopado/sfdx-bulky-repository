@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CareRequestConfiguration xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Damon</fullName>
+    <careRequestRecordType>jxWM</careRequestRecordType>
+    <careRequestRecords>
+        <careRequestRecord>XE</careRequestRecord>
+    </careRequestRecords>
+    <careRequestRecords>
+        <careRequestRecord>GBq</careRequestRecord>
+    </careRequestRecords>
+    <careRequestType>q</careRequestType>
+    <isActive>true</isActive>
+    <isDefaultRecordType>false</isDefaultRecordType>
+    <masterLabel>thJjCHPtF</masterLabel>
+</CareRequestConfiguration>

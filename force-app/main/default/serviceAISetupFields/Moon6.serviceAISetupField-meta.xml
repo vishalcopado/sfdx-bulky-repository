@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceAISetupField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Moon</fullName>
+    <entity>BombFvE</entity>
+    <field>lMUTe</field>
+    <fieldMappingType>ARTICLE_SUMMARY</fieldMappingType>
+    <fieldPosition>1263575351</fieldPosition>
+    <name>dnrtsVfn</name>
+    <setupDefinition>uDl</setupDefinition>
+</ServiceAISetupField>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IntegrationHubSettingsType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Terrell</fullName>
+    <canonicalName>m</canonicalName>
+    <canonicalNameBindingChar>cSOf</canonicalNameBindingChar>
+    <description>l</description>
+    <isEnabled>true</isEnabled>
+    <isProtected>false</isProtected>
+    <masterLabel>lc</masterLabel>
+    <setupNamespace>Hw</setupNamespace>
+    <setupSimpleName>ETJquqQfr</setupSimpleName>
+    <uUID>nucJfh</uUID>
+    <version>shCXJMG</version>
+    <versionBuild>-1023038141</versionBuild>
+    <versionMajor>-2092364022</versionMajor>
+    <versionMinor>522204115</versionMinor>
+    <versionSetUuid>CCJmAc</versionSetUuid>
+</IntegrationHubSettingsType>

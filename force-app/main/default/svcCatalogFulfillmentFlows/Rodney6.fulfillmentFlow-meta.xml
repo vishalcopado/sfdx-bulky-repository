@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SvcCatalogFulfillmentFlow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rodney</fullName>
+    <description>XcC</description>
+    <flow>RQn</flow>
+    <icon>d</icon>
+    <isProtected>false</isProtected>
+    <items>
+        <catalogInputVariable>ZnwSjiZV</catalogInputVariable>
+        <displayType>Lookup</displayType>
+        <fieldDefinition>a</fieldDefinition>
+        <fieldLookupDomain>riZJUrRBw</fieldLookupDomain>
+        <isAdditionalQuestionsInputVariable>true</isAdditionalQuestionsInputVariable>
+        <isRequired>false</isRequired>
+        <lookupDomainFieldType>oEWyt</lookupDomainFieldType>
+        <masterLabel>qb</masterLabel>
+        <objectLookupDomain>WcQDRTZA</objectLookupDomain>
+    </items>
+    <masterLabel>aldBEw</masterLabel>
+</SvcCatalogFulfillmentFlow>

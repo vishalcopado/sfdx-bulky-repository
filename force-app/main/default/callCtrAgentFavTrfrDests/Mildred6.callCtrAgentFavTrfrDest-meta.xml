@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CallCtrAgentFavTrfrDest xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mildred</fullName>
+    <agent>opZQ</agent>
+    <callCenter>GCNdoq</callCenter>
+    <name>NIASY</name>
+    <transferDestination>LG</transferDestination>
+</CallCtrAgentFavTrfrDest>

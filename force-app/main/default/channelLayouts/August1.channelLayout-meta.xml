@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChannelLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>August</fullName>
+    <doesExcludeFieldLabels>false</doesExcludeFieldLabels>
+    <doesExcludeFiles>true</doesExcludeFiles>
+    <enabledChannels>fcAVZyObK</enabledChannels>
+    <label>kmTrul</label>
+    <layoutItems>
+        <field>zrQgclwhP</field>
+    </layoutItems>
+    <layoutItems>
+        <field>ostIALaPE</field>
+    </layoutItems>
+    <recordType>crG</recordType>
+</ChannelLayout>

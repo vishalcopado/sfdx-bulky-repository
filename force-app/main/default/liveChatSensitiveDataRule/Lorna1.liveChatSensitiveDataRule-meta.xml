@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveChatSensitiveDataRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lorna</fullName>
+    <actionType>Remove</actionType>
+    <description>GgSgTGDdO</description>
+    <enforceOn>-872472026</enforceOn>
+    <isEnabled>true</isEnabled>
+    <pattern>mjdWipD</pattern>
+    <priority>-177280000</priority>
+    <replacement>nX</replacement>
+</LiveChatSensitiveDataRule>

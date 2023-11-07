@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AccessControlPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tim</fullName>
+    <content>aA==</content>
+    <active>true</active>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>f</description>
+    <masterLabel>hOQMaQ</masterLabel>
+    <targetEntity>gJt</targetEntity>
+    <version>-1608824869</version>
+</AccessControlPolicy>

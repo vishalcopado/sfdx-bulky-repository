@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkflowFieldUpdate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Margart</fullName>
+    <description>RiN</description>
+    <field>rfTW</field>
+    <formula>L</formula>
+    <literalValue>Omr</literalValue>
+    <lookupValue>ERvXreTHb</lookupValue>
+    <lookupValueType>RecordType</lookupValueType>
+    <name>OtqVjWAH</name>
+    <notifyAssignee>true</notifyAssignee>
+    <operation>LookupValue</operation>
+    <protected>true</protected>
+    <reevaluateOnChange>false</reevaluateOnChange>
+    <targetObject>RpS</targetObject>
+</WorkflowFieldUpdate>

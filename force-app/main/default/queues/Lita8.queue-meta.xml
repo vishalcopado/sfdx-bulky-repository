@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lita</fullName>
+    <doesSendEmailToMembers>true</doesSendEmailToMembers>
+    <email>zMjZ</email>
+    <name>iBCKcjbi</name>
+    <queueMembers>
+        <publicGroups>
+            <publicGroup>ektW</publicGroup>
+            <publicGroup>txzzCAdS</publicGroup>
+        </publicGroups>
+        <roleAndSubordinates>
+            <roleAndSubordinate>yMehArYnw</roleAndSubordinate>
+            <roleAndSubordinate>RvIDLh</roleAndSubordinate>
+        </roleAndSubordinates>
+        <roleAndSubordinatesInternal>
+            <roleAndSubordinateInternal>uW</roleAndSubordinateInternal>
+            <roleAndSubordinateInternal>mPi</roleAndSubordinateInternal>
+        </roleAndSubordinatesInternal>
+        <roles>
+            <role>hl</role>
+            <role>fe</role>
+        </roles>
+        <users>
+            <user>KCHKnp</user>
+            <user>P</user>
+        </users>
+    </queueMembers>
+    <queueRoutingConfig>yvoQeOjP</queueRoutingConfig>
+    <queueSobject>
+        <sobjectType>IPjgZ</sobjectType>
+    </queueSobject>
+</Queue>

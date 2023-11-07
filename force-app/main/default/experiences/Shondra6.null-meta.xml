@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExperienceBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Shondra</fullName>
+    <experienceResources>
+        <experienceResource>
+            <fileName>hYFVb</fileName>
+            <format>rU</format>
+            <source>Rg==</source>
+            <type>TI</type>
+        </experienceResource>
+        <experienceResource>
+            <fileName>xHK</fileName>
+            <format>C</format>
+            <source>AQ==</source>
+            <type>vWobtO</type>
+        </experienceResource>
+    </experienceResources>
+    <label>AFZzjn</label>
+    <type>User</type>
+    <urlPathPrefix>EQoXL</urlPathPrefix>
+</ExperienceBundle>

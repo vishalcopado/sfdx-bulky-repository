@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Dusty</fullName>
+    <active>true</active>
+    <amount>false</amount>
+    <dateType>BfWlllMjy</dateType>
+    <developerName>kORUG</developerName>
+    <hasProductFamily>false</hasProductFamily>
+    <masterLabel>XjXGX</masterLabel>
+    <opportunitySplitType>CXXcS</opportunitySplitType>
+    <opptyLineItemSplitType>kLIyjw</opptyLineItemSplitType>
+    <quantity>false</quantity>
+    <roleType>rPg</roleType>
+    <territory2Model>QBYkP</territory2Model>
+</ForecastingType>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Russ</fullName>
+    <content>aOk=</content>
+    <apiVersion>0.3887967180367812</apiVersion>
+    <description>zerrUZDA</description>
+    <label>mGJL</label>
+    <packageVersions>
+        <majorNumber>1027888891</majorNumber>
+        <minorNumber>2003435548</minorNumber>
+        <namespace>KxUT</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1226293290</majorNumber>
+        <minorNumber>166473298</minorNumber>
+        <namespace>sOqMxQz</namespace>
+    </packageVersions>
+</ApexComponent>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionableListDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Angelita</fullName>
+    <actionableListDatasetColumns>
+        <dataDomain>Measures</dataDomain>
+        <dataType>Text</dataType>
+        <displayOrder>-1420803239</displayOrder>
+        <isDefault>false</isDefault>
+        <objectName>VMog</objectName>
+        <sourceColumnApiName>BSMJPBVLY</sourceColumnApiName>
+        <sourceFieldName>YOPLeBr</sourceFieldName>
+    </actionableListDatasetColumns>
+    <actionableListMemberStatuses>
+        <iconName>pxxO</iconName>
+        <status>ElZnUfzER</status>
+    </actionableListMemberStatuses>
+    <batchCalcJobDefinition>wkGoewUyG</batchCalcJobDefinition>
+    <datasetName>ZnAU</datasetName>
+    <edgeMart>CiPvHKLDk</edgeMart>
+    <isActive>true</isActive>
+    <isProtected>true</isProtected>
+    <masterLabel>s</masterLabel>
+    <objectName>OdqXjw</objectName>
+</ActionableListDefinition>

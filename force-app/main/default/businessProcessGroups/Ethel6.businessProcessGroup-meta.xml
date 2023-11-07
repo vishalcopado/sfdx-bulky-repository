@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessProcessGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ethel</fullName>
+    <businessProcessDefinitions>
+        <businessProcessFeedbacks>
+            <actionName>aK</actionName>
+            <actionParam>s</actionParam>
+            <actionType>PHONE_CALL</actionType>
+        </businessProcessFeedbacks>
+        <description>RF</description>
+        <developerName>si</developerName>
+        <masterLabel>gDxCZtGs</masterLabel>
+        <sequenceNumber>1434594982</sequenceNumber>
+    </businessProcessDefinitions>
+    <customerSatisfactionMetric>RadioButton</customerSatisfactionMetric>
+    <description>dk</description>
+    <masterLabel>WOJ</masterLabel>
+</BusinessProcessGroup>

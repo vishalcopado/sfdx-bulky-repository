@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SvcCatalogFulfillmentFlow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rodney</fullName>
+    <description>ekvt</description>
+    <flow>QE</flow>
+    <icon>nMxS</icon>
+    <isProtected>true</isProtected>
+    <items>
+        <catalogInputVariable>tk</catalogInputVariable>
+        <displayType>Number</displayType>
+        <fieldDefinition>CpyuEo</fieldDefinition>
+        <fieldLookupDomain>nbPdnCt</fieldLookupDomain>
+        <isAdditionalQuestionsInputVariable>true</isAdditionalQuestionsInputVariable>
+        <isRequired>false</isRequired>
+        <lookupDomainFieldType>QDWsqDqzh</lookupDomainFieldType>
+        <masterLabel>eA</masterLabel>
+        <objectLookupDomain>ll</objectLookupDomain>
+    </items>
+    <items>
+        <catalogInputVariable>EEwddN</catalogInputVariable>
+        <displayType>Number</displayType>
+        <fieldDefinition>UCgVysvYE</fieldDefinition>
+        <fieldLookupDomain>YQPCAvpWx</fieldLookupDomain>
+        <isAdditionalQuestionsInputVariable>false</isAdditionalQuestionsInputVariable>
+        <isRequired>false</isRequired>
+        <lookupDomainFieldType>zT</lookupDomainFieldType>
+        <masterLabel>FTYcV</masterLabel>
+        <objectLookupDomain>kHWUhqo</objectLookupDomain>
+    </items>
+    <masterLabel>hyKleVl</masterLabel>
+</SvcCatalogFulfillmentFlow>

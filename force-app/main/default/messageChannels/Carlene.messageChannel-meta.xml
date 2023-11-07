@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Carlene</fullName>
+    <description>f</description>
+    <isExposed>true</isExposed>
+    <lightningMessageFields>
+        <description>tJkLpKFJ</description>
+        <fieldName>kME</fieldName>
+    </lightningMessageFields>
+    <masterLabel>fzvb</masterLabel>
+</LightningMessageChannel>

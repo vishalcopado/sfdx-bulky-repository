@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkflowSend xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mignon</fullName>
+    <action>Send</action>
+    <description>RZDkM</description>
+    <label>FRUU</label>
+    <language>P</language>
+    <protected>true</protected>
+</WorkflowSend>

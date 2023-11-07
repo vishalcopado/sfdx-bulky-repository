@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailServicesFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Malena</fullName>
+    <apexClass>gtdDBNbbM</apexClass>
+    <attachmentOption>BinaryOnly</attachmentOption>
+    <authenticationFailureAction>Discard</authenticationFailureAction>
+    <authorizationFailureAction>UseSystemDefault</authorizationFailureAction>
+    <authorizedSenders>MPDRe</authorizedSenders>
+    <emailServicesAddresses>
+        <authorizedSenders>OyrtN</authorizedSenders>
+        <developerName>q</developerName>
+        <isActive>true</isActive>
+        <localPart>fmJewJ</localPart>
+        <runAsUser>Urosl</runAsUser>
+    </emailServicesAddresses>
+    <errorRoutingAddress>Ow</errorRoutingAddress>
+    <functionInactiveAction>Requeue</functionInactiveAction>
+    <functionName>pfDHq</functionName>
+    <isActive>false</isActive>
+    <isAuthenticationRequired>false</isAuthenticationRequired>
+    <isErrorRoutingEnabled>false</isErrorRoutingEnabled>
+    <isTextAttachmentsAsBinary>true</isTextAttachmentsAsBinary>
+    <isTlsRequired>false</isTlsRequired>
+    <overLimitAction>Bounce</overLimitAction>
+</EmailServicesFunction>

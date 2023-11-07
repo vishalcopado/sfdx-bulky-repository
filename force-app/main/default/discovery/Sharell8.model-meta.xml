@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiscoveryAIModel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sharell</fullName>
+    <content>xxg=</content>
+    <algorithmType>Best</algorithmType>
+    <classificationThreshold>0.8074246238351496</classificationThreshold>
+    <description>zbgIqevUp</description>
+    <label>PdVvH</label>
+    <modelFields>
+        <isDisparateImpact>true</isDisparateImpact>
+        <isSensitive>true</isSensitive>
+        <label>YS</label>
+        <name>x</name>
+        <transformationConfig>yiPyR</transformationConfig>
+        <transformationType>QjJpv</transformationType>
+        <type>Text</type>
+        <values>kcKSqBQz</values>
+    </modelFields>
+    <modelRuntimeType>H2O</modelRuntimeType>
+    <predictedField>Dj</predictedField>
+    <predictionType>Unknown</predictionType>
+    <sourceType>UserUpload</sourceType>
+    <status>Enabled</status>
+    <trainingMetrics>shessvygc</trainingMetrics>
+    <transformations>
+        <config>rh</config>
+        <sourceFieldNames>mpWQMEUzh</sourceFieldNames>
+        <sourceFieldNames>HYQjPI</sourceFieldNames>
+        <targetFieldNames>ZjcijEHVI</targetFieldNames>
+        <type>B</type>
+    </transformations>
+</DiscoveryAIModel>

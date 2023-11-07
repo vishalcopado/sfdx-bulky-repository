@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalServiceRegistration xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lizeth</fullName>
+    <description>eJQM</description>
+    <label>KwRdOL</label>
+    <namedCredential>DGqeMN</namedCredential>
+    <namedCredentialReference>DFz</namedCredentialReference>
+    <operations>
+        <active>true</active>
+        <name>I</name>
+    </operations>
+    <operations>
+        <active>false</active>
+        <name>nVKolQOcS</name>
+    </operations>
+    <providerAssetEndpoint>exWt</providerAssetEndpoint>
+    <registrationProviderType>SchemaInferred</registrationProviderType>
+    <schema>VYhFPJkD</schema>
+    <schemaAbsoluteUrl>R</schemaAbsoluteUrl>
+    <schemaType>yZvUNcpSF</schemaType>
+    <schemaUploadFileExtension>yHHolrao</schemaUploadFileExtension>
+    <schemaUploadFileName>hZEFgn</schemaUploadFileName>
+    <schemaUrl>l</schemaUrl>
+    <serviceBinding>Q</serviceBinding>
+    <status>d</status>
+    <systemVersion>-1094438910</systemVersion>
+</ExternalServiceRegistration>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CareRequestConfiguration xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Damon</fullName>
+    <careRequestRecordType>xQyUd</careRequestRecordType>
+    <careRequestRecords>
+        <careRequestRecord>wBDaOmVtW</careRequestRecord>
+    </careRequestRecords>
+    <careRequestRecords>
+        <careRequestRecord>yZQS</careRequestRecord>
+    </careRequestRecords>
+    <careRequestType>yzeVHH</careRequestType>
+    <isActive>false</isActive>
+    <isDefaultRecordType>false</isDefaultRecordType>
+    <masterLabel>Z</masterLabel>
+</CareRequestConfiguration>

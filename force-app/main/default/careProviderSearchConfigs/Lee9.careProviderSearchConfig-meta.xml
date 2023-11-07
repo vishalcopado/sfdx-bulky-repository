@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CareProviderSearchConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lee</fullName>
+    <isActive>false</isActive>
+    <isProtected>false</isProtected>
+    <mappedObject>HealthcarePractitionerFacility</mappedObject>
+    <masterLabel>yzdMG</masterLabel>
+    <sourceField>dWb</sourceField>
+    <targetField>S</targetField>
+</CareProviderSearchConfig>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingSourceDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Aline</fullName>
+    <categoryField>d</categoryField>
+    <dateField>JdCcS</dateField>
+    <familyField>FUxgV</familyField>
+    <isProtected>false</isProtected>
+    <masterLabel>UUDnAg</masterLabel>
+    <measureField>f</measureField>
+    <sourceObject>LVATKTY</sourceObject>
+    <territory2Field>URAG</territory2Field>
+    <userField>cJyxm</userField>
+</ForecastingSourceDefinition>

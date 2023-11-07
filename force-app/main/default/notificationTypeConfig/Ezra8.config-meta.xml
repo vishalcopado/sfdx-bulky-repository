@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NotificationTypeConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Ezra</fullName>
+    <notificationTypeSettings>
+        <appSettings>
+            <connectedAppName>lPd</connectedAppName>
+            <enabled>false</enabled>
+        </appSettings>
+        <appSettings>
+            <connectedAppName>A</connectedAppName>
+            <enabled>false</enabled>
+        </appSettings>
+        <notificationChannels>
+            <desktopEnabled>true</desktopEnabled>
+            <mobileEnabled>false</mobileEnabled>
+            <slackEnabled>false</slackEnabled>
+        </notificationChannels>
+        <notificationType>dS</notificationType>
+    </notificationTypeSettings>
+    <notificationTypeSettings>
+        <appSettings>
+            <connectedAppName>Ok</connectedAppName>
+            <enabled>true</enabled>
+        </appSettings>
+        <appSettings>
+            <connectedAppName>yG</connectedAppName>
+            <enabled>true</enabled>
+        </appSettings>
+        <notificationChannels>
+            <desktopEnabled>true</desktopEnabled>
+            <mobileEnabled>true</mobileEnabled>
+            <slackEnabled>false</slackEnabled>
+        </notificationChannels>
+        <notificationType>sAmJ</notificationType>
+    </notificationTypeSettings>
+</NotificationTypeConfig>

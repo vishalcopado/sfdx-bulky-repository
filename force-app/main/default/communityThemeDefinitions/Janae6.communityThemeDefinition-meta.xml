@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommunityThemeDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Janae</fullName>
+    <bundlesInfo>
+        <description>x</description>
+        <image>KoXmWPJ</image>
+        <order>-1019368419</order>
+        <title>MgWvUG</title>
+        <type>PreviewImage</type>
+    </bundlesInfo>
+    <customThemeLayoutType>
+        <description>jUuq</description>
+        <label>tJSw</label>
+    </customThemeLayoutType>
+    <customThemeLayoutType>
+        <description>KR</description>
+        <label>IQ</label>
+    </customThemeLayoutType>
+    <defaultBrandingSet>IWf</defaultBrandingSet>
+    <description>OAV</description>
+    <enableExtendedCleanUpOnDelete>false</enableExtendedCleanUpOnDelete>
+    <masterLabel>TDSBGtk</masterLabel>
+    <publisher>dVKdQiiU</publisher>
+    <themeRouteOverride>
+        <customThemeLayoutType>TSgggu</customThemeLayoutType>
+        <pageAttributes>Q</pageAttributes>
+        <pageType>cXDKZwlj</pageType>
+        <themeLayoutType>Login</themeLayoutType>
+    </themeRouteOverride>
+    <themeSetting>
+        <customThemeLayoutType>Drn</customThemeLayoutType>
+        <themeLayout>KlP</themeLayout>
+        <themeLayoutType>Home</themeLayoutType>
+    </themeSetting>
+</CommunityThemeDefinition>

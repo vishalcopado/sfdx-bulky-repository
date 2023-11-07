@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileSecurityPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bernita</fullName>
+    <effectiveDate>2013-09-13T01:34:02.198Z</effectiveDate>
+    <isEnabled>true</isEnabled>
+    <isProtected>true</isProtected>
+    <masterLabel>QAci</masterLabel>
+    <mobilePlatform>iOS</mobilePlatform>
+    <mobileSecurityAssignment>NEdcqB</mobileSecurityAssignment>
+    <mobileSecurityPolicySet>BgKpvUp</mobileSecurityPolicySet>
+    <ruleValue>ulZF</ruleValue>
+    <ruleValueType>TextList</ruleValueType>
+    <severityLevel>Critical</severityLevel>
+    <type>Block3dTouch</type>
+</MobileSecurityPolicy>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuraDefinitionBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lacy</fullName>
+    <SVGContent>Ng==</SVGContent>
+    <apiVersion>0.833789958521458</apiVersion>
+    <auraDefinitions>
+        <auraDefinition>
+            <defType>JEEIfRav</defType>
+            <source>kA==</source>
+        </auraDefinition>
+        <auraDefinition>
+            <defType>W</defType>
+            <source>dg==</source>
+        </auraDefinition>
+    </auraDefinitions>
+    <controllerContent>UIM=</controllerContent>
+    <description>MrOPZ</description>
+    <designContent>xxc=</designContent>
+    <documentationContent>yvM=</documentationContent>
+    <helperContent>MA==</helperContent>
+    <markup>CA4=</markup>
+    <modelContent>mFM=</modelContent>
+    <packageVersions>
+        <majorNumber>-689829142</majorNumber>
+        <minorNumber>-377784893</minorNumber>
+        <namespace>lMvnQI</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>585665990</majorNumber>
+        <minorNumber>-167641010</minorNumber>
+        <namespace>ufSYS</namespace>
+    </packageVersions>
+    <rendererContent>zg==</rendererContent>
+    <styleContent>jg==</styleContent>
+    <testsuiteContent>oA==</testsuiteContent>
+    <type>Application</type>
+</AuraDefinitionBundle>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniSupervisorConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Johnnie</fullName>
+    <isTimelineHidden>true</isTimelineHidden>
+    <masterLabel>EzPJWF</masterLabel>
+    <omniSupervisorConfigAction>
+        <actionName>CustomAction</actionName>
+        <actionTab>SkillDetails</actionTab>
+        <customActionFlow>rEqCW</customActionFlow>
+        <displayOrder>-409501007</displayOrder>
+    </omniSupervisorConfigAction>
+    <omniSupervisorConfigGroup>
+        <group>eRAaDyLT</group>
+    </omniSupervisorConfigGroup>
+    <omniSupervisorConfigProfile>
+        <profile>wJqPpWPQC</profile>
+    </omniSupervisorConfigProfile>
+    <omniSupervisorConfigProfile>
+        <profile>tiJ</profile>
+    </omniSupervisorConfigProfile>
+    <omniSupervisorConfigQueue>
+        <queue>hFKFdyvGy</queue>
+    </omniSupervisorConfigQueue>
+    <omniSupervisorConfigSkill>
+        <skill>LVhhVfr</skill>
+    </omniSupervisorConfigSkill>
+    <skillVisibility>AnySkill</skillVisibility>
+</OmniSupervisorConfig>

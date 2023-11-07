@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QueueRoutingConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rosina</fullName>
+    <capacityPercentage>0.3725794760179155</capacityPercentage>
+    <capacityWeight>0.005190003170345903</capacityWeight>
+    <dropAdditionalSkillsTimeout>1766882027</dropAdditionalSkillsTimeout>
+    <isAttributeBased>true</isAttributeBased>
+    <label>OWx</label>
+    <pushTimeout>-815506088</pushTimeout>
+    <queueOverflowAssignee>ive</queueOverflowAssignee>
+    <routingModel>MOST_AVAILABLE</routingModel>
+    <routingPriority>1771708492</routingPriority>
+    <skills>
+        <skill>NOTXfGOLE</skill>
+    </skills>
+    <userOverflowAssignee>hLkHmDoqg</userOverflowAssignee>
+</QueueRoutingConfig>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lane</fullName>
+    <assetIcon>o</assetIcon>
+    <description>ZeruM</description>
+    <folder>GxdUyra</folder>
+    <masterLabel>JJSXWzXH</masterLabel>
+    <shares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>oiQfGX</sharedTo>
+        <sharedToType>Role</sharedToType>
+    </shares>
+    <shares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>FNzJJWME</sharedTo>
+        <sharedToType>PortalRole</sharedToType>
+    </shares>
+    <templateOrigin>vDbKu</templateOrigin>
+    <templateVersion>MooIKuwkj</templateVersion>
+</WaveApplication>

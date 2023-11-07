@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModerationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Steffanie</fullName>
+    <action>Block</action>
+    <actionLimit>-324321878</actionLimit>
+    <active>true</active>
+    <description>KS</description>
+    <entitiesAndFields>
+        <entityName>JnUP</entityName>
+        <fieldName>yAbLQI</fieldName>
+        <keywordList>h</keywordList>
+    </entitiesAndFields>
+    <masterLabel>kisB</masterLabel>
+    <notifyLimit>-1676820510</notifyLimit>
+    <timePeriod>Medium</timePeriod>
+    <type>Rate</type>
+    <userCriteria>zSUsaig</userCriteria>
+    <userCriteria>P</userCriteria>
+    <userMessage>J</userMessage>
+</ModerationRule>

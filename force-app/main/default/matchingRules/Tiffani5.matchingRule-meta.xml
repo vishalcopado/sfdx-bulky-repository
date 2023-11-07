@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MatchingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tiffani</fullName>
+    <matchingRules>
+        <fullName>uRZUWytbM</fullName>
+        <booleanFilter>FpDFRWWey</booleanFilter>
+        <description>FwUyqLpEc</description>
+        <label>iLFU</label>
+        <matchingRuleItems>
+            <blankValueBehavior>NullNotAllowed</blankValueBehavior>
+            <fieldName>qFNpvB</fieldName>
+            <matchingMethod>LastName</matchingMethod>
+        </matchingRuleItems>
+        <ruleStatus>ActivationFailed</ruleStatus>
+    </matchingRules>
+    <matchingRules>
+        <fullName>Ezequiel</fullName>
+        <booleanFilter>Ezequiel</booleanFilter>
+        <description>Ezequiel</description>
+        <label>Ezequiel</label>
+        <ruleStatus>Activating</ruleStatus>
+    </matchingRules>
+    <matchingRules>
+        <fullName>ec5a352f-d417-4e6d-a222-cca6ffd2fcbd</fullName>
+        <booleanFilter>ec5a352f-d417-4e6d-a222-cca6ffd2fcbd</booleanFilter>
+        <description>ec5a352f-d417-4e6d-a222-cca6ffd2fcbd</description>
+        <label>ec5a352f-d417-4e6d-a222-cca6ffd2fcbd</label>
+        <ruleStatus>Activating</ruleStatus>
+    </matchingRules>
+</MatchingRules>

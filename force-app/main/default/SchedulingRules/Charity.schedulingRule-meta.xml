@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchedulingRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Charity</fullName>
+    <isProtected>true</isProtected>
+    <masterLabel>ElqIIYW</masterLabel>
+    <schedulingCategory>A</schedulingCategory>
+    <schedulingRuleParameters>
+        <schedulingParameterKey>C</schedulingParameterKey>
+        <value>B</value>
+    </schedulingRuleParameters>
+    <schedulingRuleType>W</schedulingRuleType>
+</SchedulingRule>

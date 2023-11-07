@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailServicesFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Malena</fullName>
+    <apexClass>lUIsyIv</apexClass>
+    <attachmentOption>BinaryOnly</attachmentOption>
+    <authenticationFailureAction>UseSystemDefault</authenticationFailureAction>
+    <authorizationFailureAction>UseSystemDefault</authorizationFailureAction>
+    <authorizedSenders>durwxI</authorizedSenders>
+    <emailServicesAddresses>
+        <authorizedSenders>j</authorizedSenders>
+        <developerName>uNiLcR</developerName>
+        <isActive>true</isActive>
+        <localPart>mYUqdQQ</localPart>
+        <runAsUser>n</runAsUser>
+    </emailServicesAddresses>
+    <errorRoutingAddress>Tw</errorRoutingAddress>
+    <functionInactiveAction>UseSystemDefault</functionInactiveAction>
+    <functionName>cAns</functionName>
+    <isActive>false</isActive>
+    <isAuthenticationRequired>true</isAuthenticationRequired>
+    <isErrorRoutingEnabled>true</isErrorRoutingEnabled>
+    <isTextAttachmentsAsBinary>true</isTextAttachmentsAsBinary>
+    <isTlsRequired>true</isTlsRequired>
+    <overLimitAction>Bounce</overLimitAction>
+</EmailServicesFunction>

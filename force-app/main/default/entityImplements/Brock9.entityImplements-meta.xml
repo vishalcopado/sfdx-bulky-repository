@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntityImplements xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brock</fullName>
+    <fieldImplements>
+        <field>rlTRqct</field>
+        <interfaceField>BIEA</interfaceField>
+    </fieldImplements>
+    <fieldImplements>
+        <field>mZzhBwIZy</field>
+        <interfaceField>JehMygUbl</interfaceField>
+    </fieldImplements>
+    <fieldMap>
+        <field>aUgIvu</field>
+        <interfaceField>cGzd</interfaceField>
+    </fieldMap>
+    <interface>VjvyGyc</interface>
+    <isDefault>false</isDefault>
+    <isFullyMapped>true</isFullyMapped>
+</EntityImplements>

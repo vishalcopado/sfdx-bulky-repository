@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailServicesFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Malena</fullName>
+    <apexClass>UIxaPBn</apexClass>
+    <attachmentOption>None</attachmentOption>
+    <authenticationFailureAction>Bounce</authenticationFailureAction>
+    <authorizationFailureAction>Requeue</authorizationFailureAction>
+    <authorizedSenders>gt</authorizedSenders>
+    <emailServicesAddresses>
+        <authorizedSenders>clgmB</authorizedSenders>
+        <developerName>sEdpuRcng</developerName>
+        <isActive>true</isActive>
+        <localPart>xKJKrXdAj</localPart>
+        <runAsUser>XAW</runAsUser>
+    </emailServicesAddresses>
+    <errorRoutingAddress>ddErc</errorRoutingAddress>
+    <functionInactiveAction>Requeue</functionInactiveAction>
+    <functionName>CIuEe</functionName>
+    <isActive>true</isActive>
+    <isAuthenticationRequired>false</isAuthenticationRequired>
+    <isErrorRoutingEnabled>true</isErrorRoutingEnabled>
+    <isTextAttachmentsAsBinary>false</isTextAttachmentsAsBinary>
+    <isTlsRequired>true</isTlsRequired>
+    <overLimitAction>Discard</overLimitAction>
+</EmailServicesFunction>

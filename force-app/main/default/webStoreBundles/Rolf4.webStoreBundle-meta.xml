@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebStoreBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rolf</fullName>
+    <autoFacetingEnabled>false</autoFacetingEnabled>
+    <cartToOrderAutoCustomFieldMapping>true</cartToOrderAutoCustomFieldMapping>
+    <commerceEinsteinActivitiesTracked>true</commerceEinsteinActivitiesTracked>
+    <commerceEinsteinDeployed>false</commerceEinsteinDeployed>
+    <country>NG</country>
+    <defaultCurrency>b</defaultCurrency>
+    <defaultLanguage>umlijBfu</defaultLanguage>
+    <defaultTaxLocaleType>Net</defaultTaxLocaleType>
+    <description>ZGaxsOJnM</description>
+    <guestBrowsingEnabled>false</guestBrowsingEnabled>
+    <guestCartTimeToLive>-224041340</guestCartTimeToLive>
+    <label>VdPjfysG</label>
+    <orderLifeCycleType>MANAGED</orderLifeCycleType>
+    <pricingStrategy>LowestPrice</pricingStrategy>
+    <productGrouping>NoGrouping</productGrouping>
+    <skipAdditionalEntitlementCheckForSearch>true</skipAdditionalEntitlementCheckForSearch>
+    <storeName>vdt</storeName>
+    <supportedCurrencies>WwlPFIu</supportedCurrencies>
+    <supportedLanguages>ZgfgMi</supportedLanguages>
+    <supportedShipToCountries>YCImXHZ</supportedShipToCountries>
+    <type>B2B</type>
+</WebStoreBundle>

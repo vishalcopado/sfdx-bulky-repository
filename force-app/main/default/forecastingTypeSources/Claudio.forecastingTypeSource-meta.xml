@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForecastingTypeSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Claudio</fullName>
+    <forecastingSourceDefinition>XuNov</forecastingSourceDefinition>
+    <forecastingType>DCapiBhYq</forecastingType>
+    <isProtected>true</isProtected>
+    <masterLabel>DA</masterLabel>
+    <parentSourceDefinition>xNIRQ</parentSourceDefinition>
+    <relationField>vkRniMzjr</relationField>
+    <sourceGroup>-1442424926</sourceGroup>
+</ForecastingTypeSource>

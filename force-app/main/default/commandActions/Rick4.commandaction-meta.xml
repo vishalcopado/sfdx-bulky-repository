@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommandAction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rick</fullName>
+    <actionType>B</actionType>
+    <description>paM</description>
+    <intents>
+        <phrase>kTZjNqW</phrase>
+        <responseTemplates>
+            <template>UFzyVUXpl</template>
+        </responseTemplates>
+    </intents>
+    <intents>
+        <phrase>hcgReNgb</phrase>
+        <responseTemplates>
+            <template>k</template>
+        </responseTemplates>
+    </intents>
+    <label>mzULO</label>
+    <parameters>
+        <defaultValue>OMMknT</defaultValue>
+        <description>ybhGTMiQS</description>
+        <name>AvWFs</name>
+        <required>true</required>
+        <type>gWloIgc</type>
+    </parameters>
+    <parameters>
+        <defaultValue>a</defaultValue>
+        <description>TF</description>
+        <name>PA</name>
+        <required>true</required>
+        <type>o</type>
+    </parameters>
+    <responseTemplates>
+        <template>HcCNht</template>
+    </responseTemplates>
+    <target>PLUkatpb</target>
+</CommandAction>

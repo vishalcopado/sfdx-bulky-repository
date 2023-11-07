@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Garland</fullName>
+    <contactEmail>ezWRn</contactEmail>
+    <description>cmCDVGi</description>
+    <iconUrl>yzPvmwF</iconUrl>
+    <infoUrl>kRIi</infoUrl>
+    <isDistributed>true</isDistributed>
+    <isProtected>true</isProtected>
+    <logoUrl>JDQQBSU</logoUrl>
+    <masterLabel>I</masterLabel>
+    <oauthDev>
+        <callbackUrl>yg</callbackUrl>
+        <certificate>s</certificate>
+        <consumerKey>UCeoYnC</consumerKey>
+        <consumerSecret>kdIplC</consumerSecret>
+        <idTokenConfig>
+            <idTokenAudience>UQypVcwbL</idTokenAudience>
+            <idTokenIncludeAttributes>true</idTokenIncludeAttributes>
+            <idTokenIncludeCustomPerms>false</idTokenIncludeCustomPerms>
+            <idTokenIncludeStandardClaims>false</idTokenIncludeStandardClaims>
+            <idTokenValidity>-1285055980</idTokenValidity>
+        </idTokenConfig>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isConsumerSecretOptional>true</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+        <selectedScopes>
+            <scope>Pardot</scope>
+            <scope>CDP</scope>
+        </selectedScopes>
+        <singleLogoutUrl>XoIQCEjPN</singleLogoutUrl>
+    </oauthDev>
+    <orgScopedExternalApp>TDfPcjXE</orgScopedExternalApp>
+</ExternalClientApplication>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniSupervisorConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Johnnie</fullName>
+    <isTimelineHidden>false</isTimelineHidden>
+    <masterLabel>CXWGNQ</masterLabel>
+    <omniSupervisorConfigAction>
+        <actionName>CustomAction</actionName>
+        <actionTab>SkillsBacklog</actionTab>
+        <customActionFlow>iylh</customActionFlow>
+        <displayOrder>-1911237014</displayOrder>
+    </omniSupervisorConfigAction>
+    <omniSupervisorConfigGroup>
+        <group>Al</group>
+    </omniSupervisorConfigGroup>
+    <omniSupervisorConfigGroup>
+        <group>ontsJ</group>
+    </omniSupervisorConfigGroup>
+    <omniSupervisorConfigProfile>
+        <profile>O</profile>
+    </omniSupervisorConfigProfile>
+    <omniSupervisorConfigQueue>
+        <queue>Su</queue>
+    </omniSupervisorConfigQueue>
+    <omniSupervisorConfigQueue>
+        <queue>ztI</queue>
+    </omniSupervisorConfigQueue>
+    <omniSupervisorConfigSkill>
+        <skill>Lo</skill>
+    </omniSupervisorConfigSkill>
+    <omniSupervisorConfigSkill>
+        <skill>FMuUIX</skill>
+    </omniSupervisorConfigSkill>
+    <skillVisibility>AllSkills</skillVisibility>
+</OmniSupervisorConfig>

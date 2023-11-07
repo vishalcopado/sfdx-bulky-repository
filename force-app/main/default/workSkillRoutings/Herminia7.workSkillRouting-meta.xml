@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkSkillRouting xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Herminia</fullName>
+    <isActive>false</isActive>
+    <masterLabel>Asn</masterLabel>
+    <relatedEntity>XHBdzBHk</relatedEntity>
+    <workSkillRoutingAttributes>
+        <field>jtIcEyD</field>
+        <isAdditionalSkill>false</isAdditionalSkill>
+        <skill>ZzWvYCSW</skill>
+        <skillLevel>-95896985</skillLevel>
+        <value>vcddaHha</value>
+    </workSkillRoutingAttributes>
+    <workSkillRoutingAttributes>
+        <field>vy</field>
+        <isAdditionalSkill>false</isAdditionalSkill>
+        <skill>EuNAvFoxO</skill>
+        <skillLevel>-2054362013</skillLevel>
+        <value>NpKn</value>
+    </workSkillRoutingAttributes>
+    <workSkillRoutingAttributes>
+        <field>May</field>
+        <isAdditionalSkill>true</isAdditionalSkill>
+        <skill>May</skill>
+        <skillLevel>-1188957731</skillLevel>
+        <value>May</value>
+    </workSkillRoutingAttributes>
+    <workSkillRoutingAttributes>
+        <field>f6b90c80-2770-45b2-8548-beb16011c8d5</field>
+        <isAdditionalSkill>true</isAdditionalSkill>
+        <skill>f6b90c80-2770-45b2-8548-beb16011c8d5</skill>
+        <skillLevel>-1188957731</skillLevel>
+        <value>f6b90c80-2770-45b2-8548-beb16011c8d5</value>
+    </workSkillRoutingAttributes>
+</WorkSkillRouting>

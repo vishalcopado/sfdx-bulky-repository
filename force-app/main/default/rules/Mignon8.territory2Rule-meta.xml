@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2Rule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mignon</fullName>
+    <active>true</active>
+    <booleanFilter>hDUAfCE</booleanFilter>
+    <name>GGMReTsA</name>
+    <objectType>HHAHel</objectType>
+    <ruleItems>
+        <field>nVv</field>
+        <operation>equals</operation>
+        <value>ZktZ</value>
+    </ruleItems>
+</Territory2Rule>

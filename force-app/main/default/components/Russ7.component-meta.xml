@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexComponent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Russ</fullName>
+    <content>fA==</content>
+    <apiVersion>0.07804832412426277</apiVersion>
+    <description>rozkOfp</description>
+    <label>F</label>
+    <packageVersions>
+        <majorNumber>-1989647508</majorNumber>
+        <minorNumber>904424221</minorNumber>
+        <namespace>M</namespace>
+    </packageVersions>
+</ApexComponent>

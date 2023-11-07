@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConversationVendorFieldDef xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Claire</fullName>
+    <defaultValue>um</defaultValue>
+    <developerName>DbKgfZY</developerName>
+    <isUiAccessible>false</isUiAccessible>
+    <masterLabel>hxvenw</masterLabel>
+    <sortOrder>248913972</sortOrder>
+    <type>Text</type>
+</ConversationVendorFieldDef>

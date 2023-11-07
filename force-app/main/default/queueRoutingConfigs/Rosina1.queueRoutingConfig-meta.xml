@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QueueRoutingConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rosina</fullName>
+    <capacityPercentage>0.8014660434794648</capacityPercentage>
+    <capacityWeight>0.7034818593749527</capacityWeight>
+    <dropAdditionalSkillsTimeout>1974628478</dropAdditionalSkillsTimeout>
+    <isAttributeBased>true</isAttributeBased>
+    <label>mK</label>
+    <pushTimeout>1021230795</pushTimeout>
+    <queueOverflowAssignee>vDpE</queueOverflowAssignee>
+    <routingModel>EXTERNAL_ROUTING</routingModel>
+    <routingPriority>-916541616</routingPriority>
+    <skills>
+        <skill>l</skill>
+    </skills>
+    <skills>
+        <skill>GlfKTpj</skill>
+    </skills>
+    <userOverflowAssignee>vohhfgza</userOverflowAssignee>
+</QueueRoutingConfig>

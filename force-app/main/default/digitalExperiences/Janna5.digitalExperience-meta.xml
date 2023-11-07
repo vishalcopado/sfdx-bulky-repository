@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DigitalExperienceBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Janna</fullName>
+    <description>VMx</description>
+    <label>jTd</label>
+    <spaceResources>
+        <fullName>eEj</fullName>
+        <content>uw==</content>
+        <fileName>UZ</fileName>
+        <filePath>X</filePath>
+        <format>wcCnLk</format>
+    </spaceResources>
+    <spaceResources>
+        <fullName>ogKZcFJvR</fullName>
+        <content>YBg=</content>
+        <fileName>sUUjrwK</fileName>
+        <filePath>fKRLOcLX</filePath>
+        <format>KA</format>
+    </spaceResources>
+    <spaceResources>
+        <fullName>Nickolas</fullName>
+        <content>3ZXRqhY=</content>
+        <fileName>Nickolas</fileName>
+        <filePath>Nickolas</filePath>
+        <format>Nickolas</format>
+    </spaceResources>
+    <spaceResources>
+        <fullName>3654a757-c41a-4f3b-8a64-22d88df2bee2</fullName>
+        <content>3ZXRqhY=</content>
+        <fileName>3654a757-c41a-4f3b-8a64-22d88df2bee2</fileName>
+        <filePath>3654a757-c41a-4f3b-8a64-22d88df2bee2</filePath>
+        <format>3654a757-c41a-4f3b-8a64-22d88df2bee2</format>
+    </spaceResources>
+</DigitalExperienceBundle>

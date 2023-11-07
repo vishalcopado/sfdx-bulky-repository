@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LicenseDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Loralee</fullName>
+    <aggregationGroup>KY</aggregationGroup>
+    <description>LQKEjE</description>
+    <isPublished>false</isPublished>
+    <label>sZHrjszT</label>
+    <licensedCustomPermissions>
+        <customPermission>jEC</customPermission>
+        <licenseDefinition>PUJaG</licenseDefinition>
+    </licensedCustomPermissions>
+    <licensedCustomPermissions>
+        <customPermission>xjDyffBN</customPermission>
+        <licenseDefinition>AfVPp</licenseDefinition>
+    </licensedCustomPermissions>
+    <licensingAuthority>cjkwy</licensingAuthority>
+    <licensingAuthorityProvider>B</licensingAuthorityProvider>
+    <minPlatformVersion>-2066152280</minPlatformVersion>
+    <origin>a</origin>
+    <revision>-1291819542</revision>
+    <trialLicenseDuration>-1232159298</trialLicenseDuration>
+    <trialLicenseQuantity>537976542</trialLicenseQuantity>
+</LicenseDefinition>

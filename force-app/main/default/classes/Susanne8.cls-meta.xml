@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Susanne</fullName>
+    <content>0w==</content>
+    <apiVersion>0.47540149376246676</apiVersion>
+    <packageVersions>
+        <majorNumber>1950727520</majorNumber>
+        <minorNumber>-292263867</minorNumber>
+        <namespace>UE</namespace>
+    </packageVersions>
+    <status>Deleted</status>
+</ApexClass>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceAISetupField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Moon</fullName>
+    <entity>WNHskTgr</entity>
+    <field>RKfkGgSnU</field>
+    <fieldMappingType>ARTICLE_QUESTION</fieldMappingType>
+    <fieldPosition>-1793981085</fieldPosition>
+    <name>AFErawEu</name>
+    <setupDefinition>ooPw</setupDefinition>
+</ServiceAISetupField>

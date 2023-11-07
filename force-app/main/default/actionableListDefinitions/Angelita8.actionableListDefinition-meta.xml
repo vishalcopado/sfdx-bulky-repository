@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionableListDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Angelita</fullName>
+    <actionableListDatasetColumns>
+        <dataDomain>Measures</dataDomain>
+        <dataType>Phone</dataType>
+        <displayOrder>-956078339</displayOrder>
+        <isDefault>true</isDefault>
+        <objectName>sWnxvw</objectName>
+        <sourceColumnApiName>n</sourceColumnApiName>
+        <sourceFieldName>lTEaoMM</sourceFieldName>
+    </actionableListDatasetColumns>
+    <actionableListDatasetColumns>
+        <dataDomain>Dates</dataDomain>
+        <dataType>Url</dataType>
+        <displayOrder>-1104396924</displayOrder>
+        <isDefault>false</isDefault>
+        <objectName>wS</objectName>
+        <sourceColumnApiName>gzbgoEhX</sourceColumnApiName>
+        <sourceFieldName>XHSA</sourceFieldName>
+    </actionableListDatasetColumns>
+    <actionableListMemberStatuses>
+        <iconName>swOkxXq</iconName>
+        <status>Lg</status>
+    </actionableListMemberStatuses>
+    <batchCalcJobDefinition>pE</batchCalcJobDefinition>
+    <datasetName>ACxXzl</datasetName>
+    <edgeMart>kv</edgeMart>
+    <isActive>false</isActive>
+    <isProtected>true</isProtected>
+    <masterLabel>I</masterLabel>
+    <objectName>XurF</objectName>
+</ActionableListDefinition>

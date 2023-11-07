@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveTemplateBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jonathan</fullName>
+    <assetIcon>G</assetIcon>
+    <assetVersion>0.5191836702323586</assetVersion>
+    <description>nMad</description>
+    <label>ZTWRWz</label>
+    <templateBadgeIcon>UZipQJg</templateBadgeIcon>
+    <templateDetailIcon>nfGN</templateDetailIcon>
+    <templateType>I</templateType>
+</WaveTemplateBundle>

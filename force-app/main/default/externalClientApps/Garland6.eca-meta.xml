@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Garland</fullName>
+    <contactEmail>LLM</contactEmail>
+    <description>YzbdBgFlH</description>
+    <iconUrl>pwhV</iconUrl>
+    <infoUrl>l</infoUrl>
+    <isDistributed>true</isDistributed>
+    <isProtected>false</isProtected>
+    <logoUrl>hEm</logoUrl>
+    <masterLabel>XeZL</masterLabel>
+    <oauthDev>
+        <callbackUrl>NwN</callbackUrl>
+        <certificate>UIOo</certificate>
+        <consumerKey>BIiVFegFx</consumerKey>
+        <consumerSecret>NQ</consumerSecret>
+        <idTokenConfig>
+            <idTokenAudience>Kuf</idTokenAudience>
+            <idTokenIncludeAttributes>false</idTokenIncludeAttributes>
+            <idTokenIncludeCustomPerms>false</idTokenIncludeCustomPerms>
+            <idTokenIncludeStandardClaims>false</idTokenIncludeStandardClaims>
+            <idTokenValidity>-536745370</idTokenValidity>
+        </idTokenConfig>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>true</isIntrospectAllTokens>
+        <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
+        <selectedScopes>
+            <scope>CDPIngest</scope>
+        </selectedScopes>
+        <singleLogoutUrl>DfSqFMPqu</singleLogoutUrl>
+    </oauthDev>
+    <orgScopedExternalApp>vVYb</orgScopedExternalApp>
+</ExternalClientApplication>

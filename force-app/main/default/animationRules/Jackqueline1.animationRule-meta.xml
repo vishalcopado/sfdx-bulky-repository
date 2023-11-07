@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnimationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jackqueline</fullName>
+    <animationFrequency>wethyf</animationFrequency>
+    <developerName>qeR</developerName>
+    <isActive>false</isActive>
+    <masterLabel>B</masterLabel>
+    <recordTypeContext>nhAB</recordTypeContext>
+    <recordTypeName>xNI</recordTypeName>
+    <sobjectType>WQoICLxWs</sobjectType>
+    <targetField>dcjIfBuh</targetField>
+    <targetFieldChangeToValues>WBT</targetFieldChangeToValues>
+</AnimationRule>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchedulingObjective xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cristine</fullName>
+    <isProtected>false</isProtected>
+    <masterLabel>QGXBbu</masterLabel>
+    <schedulingCategory>A</schedulingCategory>
+    <schedulingObjectiveParameters>
+        <parameterKey>DaysAhead</parameterKey>
+        <value>XQn</value>
+    </schedulingObjectiveParameters>
+    <schedulingObjectiveType>BalanceShifts</schedulingObjectiveType>
+</SchedulingObjective>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelationshipGraphDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bennett</fullName>
+    <isActive>false</isActive>
+    <isTemplate>false</isTemplate>
+    <masterLabel>J</masterLabel>
+    <relationshipGraphDefVersions>
+        <graphDefinition>yLUrVjM</graphDefinition>
+        <graphType>ed</graphType>
+    </relationshipGraphDefVersions>
+    <relationshipGraphDefVersions>
+        <graphDefinition>e</graphDefinition>
+        <graphType>G</graphType>
+    </relationshipGraphDefVersions>
+</RelationshipGraphDefinition>

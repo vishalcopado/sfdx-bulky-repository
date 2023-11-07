@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionableListDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Angelita</fullName>
+    <actionableListDatasetColumns>
+        <dataDomain>Measures</dataDomain>
+        <dataType>Boolean</dataType>
+        <displayOrder>1921604098</displayOrder>
+        <isDefault>false</isDefault>
+        <objectName>IoWth</objectName>
+        <sourceColumnApiName>ZCVAEIq</sourceColumnApiName>
+        <sourceFieldName>Ws</sourceFieldName>
+    </actionableListDatasetColumns>
+    <actionableListDatasetColumns>
+        <dataDomain>Measures</dataDomain>
+        <dataType>Text</dataType>
+        <displayOrder>-1682143930</displayOrder>
+        <isDefault>true</isDefault>
+        <objectName>cXzAqaQ</objectName>
+        <sourceColumnApiName>SDVbSFP</sourceColumnApiName>
+        <sourceFieldName>yaAbC</sourceFieldName>
+    </actionableListDatasetColumns>
+    <actionableListMemberStatuses>
+        <iconName>FDI</iconName>
+        <status>tYDFsMi</status>
+    </actionableListMemberStatuses>
+    <actionableListMemberStatuses>
+        <iconName>kWL</iconName>
+        <status>m</status>
+    </actionableListMemberStatuses>
+    <batchCalcJobDefinition>zLZras</batchCalcJobDefinition>
+    <datasetName>nQySQwt</datasetName>
+    <edgeMart>NAjp</edgeMart>
+    <isActive>false</isActive>
+    <isProtected>true</isProtected>
+    <masterLabel>refwPGFV</masterLabel>
+    <objectName>SpA</objectName>
+</ActionableListDefinition>

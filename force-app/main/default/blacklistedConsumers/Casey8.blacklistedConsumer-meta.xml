@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BlacklistedConsumer xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Casey</fullName>
+    <blockedByApiWhitelisting>true</blockedByApiWhitelisting>
+    <consumerKey>ZIp</consumerKey>
+    <consumerName>UPlWnIc</consumerName>
+    <masterLabel>c</masterLabel>
+</BlacklistedConsumer>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformCachePartition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Dwain</fullName>
+    <description>Tkkf</description>
+    <isDefaultPartition>false</isDefaultPartition>
+    <masterLabel>BpdMC</masterLabel>
+    <platformCachePartitionTypes>
+        <allocatedCapacity>155878558</allocatedCapacity>
+        <allocatedPartnerCapacity>-1997904472</allocatedPartnerCapacity>
+        <allocatedPurchasedCapacity>1809164155</allocatedPurchasedCapacity>
+        <allocatedTrialCapacity>-1127474319</allocatedTrialCapacity>
+        <cacheType>Organization</cacheType>
+    </platformCachePartitionTypes>
+    <platformCachePartitionTypes>
+        <allocatedCapacity>8469284</allocatedCapacity>
+        <allocatedPartnerCapacity>-2100712186</allocatedPartnerCapacity>
+        <allocatedPurchasedCapacity>106878538</allocatedPurchasedCapacity>
+        <allocatedTrialCapacity>2124583841</allocatedTrialCapacity>
+        <cacheType>Session</cacheType>
+    </platformCachePartitionTypes>
+</PlatformCachePartition>

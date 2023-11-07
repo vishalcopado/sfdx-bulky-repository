@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EclairGeoData xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mirella</fullName>
+    <content>iYA=</content>
+    <maps>
+        <boundingBoxBottom>0.00689470222648203</boundingBoxBottom>
+        <boundingBoxLeft>0.35991900687959366</boundingBoxLeft>
+        <boundingBoxRight>0.8323585789722001</boundingBoxRight>
+        <boundingBoxTop>0.6423364560245806</boundingBoxTop>
+        <mapLabel>YTQoNuVq</mapLabel>
+        <mapName>lsneuSX</mapName>
+        <projection>lqPj</projection>
+    </maps>
+    <masterLabel>blRFP</masterLabel>
+</EclairGeoData>

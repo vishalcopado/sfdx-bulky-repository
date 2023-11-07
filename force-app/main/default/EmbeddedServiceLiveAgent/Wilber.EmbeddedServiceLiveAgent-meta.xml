@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceLiveAgent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Wilber</fullName>
+    <avatarImg>qBrs</avatarImg>
+    <customPrechatComponent>fiqoqLV</customPrechatComponent>
+    <embeddedServiceConfig>ANpUxvWY</embeddedServiceConfig>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>Oy</embeddedServiceLiveAgent>
+        <order>-1969240499</order>
+        <quickActionDefinition>Hpv</quickActionDefinition>
+        <quickActionType>OfflineCase</quickActionType>
+    </embeddedServiceQuickActions>
+    <enabled>true</enabled>
+    <fontSize>Large</fontSize>
+    <headerBackgroundImg>tpQdl</headerBackgroundImg>
+    <isOfflineCaseEnabled>false</isOfflineCaseEnabled>
+    <isQueuePositionEnabled>true</isQueuePositionEnabled>
+    <liveAgentChatUrl>a</liveAgentChatUrl>
+    <liveAgentContentUrl>wAUT</liveAgentContentUrl>
+    <liveChatButton>E</liveChatButton>
+    <liveChatDeployment>LOvxDD</liveChatDeployment>
+    <masterLabel>leBTFYH</masterLabel>
+    <offlineCaseBackgroundImg>rzPkNJwVy</offlineCaseBackgroundImg>
+    <prechatBackgroundImg>TLDb</prechatBackgroundImg>
+    <prechatEnabled>true</prechatEnabled>
+    <prechatJson>vkf</prechatJson>
+    <scenario>Basic</scenario>
+    <smallCompanyLogoImg>V</smallCompanyLogoImg>
+    <waitingStateBackgroundImg>WpqqSrrGc</waitingStateBackgroundImg>
+</EmbeddedServiceLiveAgent>

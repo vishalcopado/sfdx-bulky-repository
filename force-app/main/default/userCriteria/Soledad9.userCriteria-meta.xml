@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserCriteria xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Soledad</fullName>
+    <creationAgeInSeconds>-540633118</creationAgeInSeconds>
+    <description>Wv</description>
+    <lastChatterActivityAgeInSeconds>-489217687</lastChatterActivityAgeInSeconds>
+    <masterLabel>vreUmgc</masterLabel>
+    <profiles>UZITr</profiles>
+    <userTypes>Customer</userTypes>
+    <userTypes>Internal</userTypes>
+</UserCriteria>

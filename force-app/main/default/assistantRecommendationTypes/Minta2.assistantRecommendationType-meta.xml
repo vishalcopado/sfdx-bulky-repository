@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssistantRecommendationType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Minta</fullName>
+    <description>Yuqk</description>
+    <masterLabel>JrLJoo</masterLabel>
+    <platformActionlist>
+        <actionListContext>Record</actionListContext>
+        <platformActionListItems>
+            <actionName>NGC</actionName>
+            <actionType>ProductivityAction</actionType>
+            <sortOrder>-1984438286</sortOrder>
+            <subtype>fsXhIpjC</subtype>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>wXDdqMJ</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>1212566019</sortOrder>
+            <subtype>C</subtype>
+        </platformActionListItems>
+        <relatedSourceEntity>cbKvS</relatedSourceEntity>
+    </platformActionlist>
+    <sobjectType>cJbaISNJs</sobjectType>
+    <title>dlKR</title>
+</AssistantRecommendationType>

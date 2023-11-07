@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileApplicationDetail xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Errol</fullName>
+    <applicationBinaryFile>2FU=</applicationBinaryFile>
+    <applicationBinaryFileName>IRNoYY</applicationBinaryFileName>
+    <applicationBundleIdentifier>TAkabPEhn</applicationBundleIdentifier>
+    <applicationFileLength>-119764824</applicationFileLength>
+    <applicationIconFile>DqtysB</applicationIconFile>
+    <applicationIconFileName>MGNuv</applicationIconFileName>
+    <applicationInstallUrl>HEW</applicationInstallUrl>
+    <devicePlatform>android</devicePlatform>
+    <deviceType>zMG</deviceType>
+    <minimumOsVersion>eX</minimumOsVersion>
+    <privateApp>true</privateApp>
+    <version>uxSTt</version>
+</MobileApplicationDetail>

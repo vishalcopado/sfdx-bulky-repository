@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionLinkGroupTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Yong</fullName>
+    <actionLinkTemplates>
+        <actionUrl>EFczJKN</actionUrl>
+        <headers>QMKtmdDpo</headers>
+        <isConfirmationRequired>false</isConfirmationRequired>
+        <isGroupDefault>false</isGroupDefault>
+        <label>qNXQqWZ</label>
+        <labelKey>CfpoGhKJ</labelKey>
+        <linkType>API</linkType>
+        <method>HttpGet</method>
+        <position>285084083</position>
+        <requestBody>dLv</requestBody>
+        <userAlias>EIklLRzNu</userAlias>
+        <userVisibility>EveryoneButCreator</userVisibility>
+    </actionLinkTemplates>
+    <category>Primary</category>
+    <executionsAllowed>Unlimited</executionsAllowed>
+    <hoursUntilExpiration>-1334449544</hoursUntilExpiration>
+    <isPublished>true</isPublished>
+    <name>GSCNs</name>
+</ActionLinkGroupTemplate>

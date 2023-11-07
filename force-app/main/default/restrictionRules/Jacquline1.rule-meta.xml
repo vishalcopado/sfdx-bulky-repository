@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RestrictionRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jacquline</fullName>
+    <active>false</active>
+    <dataspaceScope>OZQ</dataspaceScope>
+    <description>KYPtd</description>
+    <enforcementType>D360_Restrict</enforcementType>
+    <masterLabel>SBCyBiG</masterLabel>
+    <recordFilter>XNJY</recordFilter>
+    <targetEntity>nRHuDZ</targetEntity>
+    <userCriteria>bUGkmkkN</userCriteria>
+    <version>1261480016</version>
+</RestrictionRule>

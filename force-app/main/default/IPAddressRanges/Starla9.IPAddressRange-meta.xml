@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IPAddressRange xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Starla</fullName>
+    <description>jAcYpfxwy</description>
+    <endIpAddress>cF</endIpAddress>
+    <ipAddressFeature>EmailIpFiltering</ipAddressFeature>
+    <ipAddressUsageScope>Inclusion</ipAddressUsageScope>
+    <isProtected>false</isProtected>
+    <masterLabel>UYHbb</masterLabel>
+    <startIpAddress>TAMIlHeMs</startIpAddress>
+</IPAddressRange>

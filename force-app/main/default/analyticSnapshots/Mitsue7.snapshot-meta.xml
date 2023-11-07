@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticSnapshot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mitsue</fullName>
+    <description>P</description>
+    <groupColumn>D</groupColumn>
+    <mappings>
+        <aggregateType>Sum</aggregateType>
+        <sourceField>FKgXMXX</sourceField>
+        <sourceType>summary</sourceType>
+        <targetField>tsQYtq</targetField>
+    </mappings>
+    <mappings>
+        <aggregateType>Maximum</aggregateType>
+        <sourceField>xFZNMGPMA</sourceField>
+        <sourceType>tabular</sourceType>
+        <targetField>Yq</targetField>
+    </mappings>
+    <name>AAixA</name>
+    <runningUser>CpVnQrXq</runningUser>
+    <sourceReport>k</sourceReport>
+    <targetObject>hcMPVTAB</targetObject>
+</AnalyticSnapshot>

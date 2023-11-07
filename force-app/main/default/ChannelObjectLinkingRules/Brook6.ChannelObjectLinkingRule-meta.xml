@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChannelObjectLinkingRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Brook</fullName>
+    <actionForNoRecordFound>PromptAgent</actionForNoRecordFound>
+    <actionForSingleRecordFound>PromptAgent</actionForSingleRecordFound>
+    <channelType>Phone</channelType>
+    <description>I</description>
+    <isLinkedRecordOpenedAsSubTab>true</isLinkedRecordOpenedAsSubTab>
+    <isRuleActive>true</isRuleActive>
+    <masterLabel>kKLOr</masterLabel>
+    <objectToLink>Contact</objectToLink>
+    <ruleName>qmGJh</ruleName>
+</ChannelObjectLinkingRule>

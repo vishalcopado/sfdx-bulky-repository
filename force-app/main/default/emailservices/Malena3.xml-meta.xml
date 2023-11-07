@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailServicesFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Malena</fullName>
+    <apexClass>hdNxZ</apexClass>
+    <attachmentOption>NoContent</attachmentOption>
+    <authenticationFailureAction>Discard</authenticationFailureAction>
+    <authorizationFailureAction>UseSystemDefault</authorizationFailureAction>
+    <authorizedSenders>tpTVL</authorizedSenders>
+    <emailServicesAddresses>
+        <authorizedSenders>mDzj</authorizedSenders>
+        <developerName>oyQ</developerName>
+        <isActive>true</isActive>
+        <localPart>zCFm</localPart>
+        <runAsUser>Mfmdbwb</runAsUser>
+    </emailServicesAddresses>
+    <errorRoutingAddress>oHhrg</errorRoutingAddress>
+    <functionInactiveAction>UseSystemDefault</functionInactiveAction>
+    <functionName>Lt</functionName>
+    <isActive>true</isActive>
+    <isAuthenticationRequired>false</isAuthenticationRequired>
+    <isErrorRoutingEnabled>true</isErrorRoutingEnabled>
+    <isTextAttachmentsAsBinary>true</isTextAttachmentsAsBinary>
+    <isTlsRequired>true</isTlsRequired>
+    <overLimitAction>Discard</overLimitAction>
+</EmailServicesFunction>

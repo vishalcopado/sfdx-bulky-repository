@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeSheetTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Randolph</fullName>
+    <active>true</active>
+    <description>VNLi</description>
+    <frequency>Daily</frequency>
+    <isProtected>true</isProtected>
+    <masterLabel>dRmlkCgb</masterLabel>
+    <startDate>2013-10-13T13:58:06.494Z</startDate>
+    <timeSheetTemplateAssignments>
+        <assignedTo>vWtejpUx</assignedTo>
+    </timeSheetTemplateAssignments>
+    <workWeekEndDay>Wednesday</workWeekEndDay>
+    <workWeekStartDay>Sunday</workWeekStartDay>
+</TimeSheetTemplate>

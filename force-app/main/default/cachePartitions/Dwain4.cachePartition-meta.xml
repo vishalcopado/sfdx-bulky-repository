@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlatformCachePartition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Dwain</fullName>
+    <description>y</description>
+    <isDefaultPartition>true</isDefaultPartition>
+    <masterLabel>rFSCb</masterLabel>
+    <platformCachePartitionTypes>
+        <allocatedCapacity>-214867138</allocatedCapacity>
+        <allocatedPartnerCapacity>2027119103</allocatedPartnerCapacity>
+        <allocatedPurchasedCapacity>-1526953099</allocatedPurchasedCapacity>
+        <allocatedTrialCapacity>628325403</allocatedTrialCapacity>
+        <cacheType>Session</cacheType>
+    </platformCachePartitionTypes>
+    <platformCachePartitionTypes>
+        <allocatedCapacity>-488776390</allocatedCapacity>
+        <allocatedPartnerCapacity>-1381449467</allocatedPartnerCapacity>
+        <allocatedPurchasedCapacity>1703446321</allocatedPurchasedCapacity>
+        <allocatedTrialCapacity>-1589823687</allocatedTrialCapacity>
+        <cacheType>Organization</cacheType>
+    </platformCachePartitionTypes>
+</PlatformCachePartition>

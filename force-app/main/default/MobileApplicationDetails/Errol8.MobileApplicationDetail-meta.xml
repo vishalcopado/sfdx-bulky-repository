@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileApplicationDetail xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Errol</fullName>
+    <applicationBinaryFile>jA==</applicationBinaryFile>
+    <applicationBinaryFileName>GCbnOa</applicationBinaryFileName>
+    <applicationBundleIdentifier>KDkc</applicationBundleIdentifier>
+    <applicationFileLength>-1800553546</applicationFileLength>
+    <applicationIconFile>kxZX</applicationIconFile>
+    <applicationIconFileName>GIZsFp</applicationIconFileName>
+    <applicationInstallUrl>JfrtDa</applicationInstallUrl>
+    <devicePlatform>android</devicePlatform>
+    <deviceType>lgVye</deviceType>
+    <minimumOsVersion>ouAZYV</minimumOsVersion>
+    <privateApp>false</privateApp>
+    <version>BgAL</version>
+</MobileApplicationDetail>

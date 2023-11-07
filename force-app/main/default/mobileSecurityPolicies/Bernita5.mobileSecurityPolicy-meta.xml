@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileSecurityPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bernita</fullName>
+    <effectiveDate>2016-04-04T13:31:10.683Z</effectiveDate>
+    <isEnabled>true</isEnabled>
+    <isProtected>true</isProtected>
+    <masterLabel>d</masterLabel>
+    <mobilePlatform>iOS</mobilePlatform>
+    <mobileSecurityAssignment>occUMeEFJ</mobileSecurityAssignment>
+    <mobileSecurityPolicySet>ybihMF</mobileSecurityPolicySet>
+    <ruleValue>tcJvvzT</ruleValue>
+    <ruleValueType>TextList</ruleValueType>
+    <severityLevel>Critical</severityLevel>
+    <type>MalwareDetection</type>
+</MobileSecurityPolicy>

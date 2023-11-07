@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetLicenseDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Travis</fullName>
+    <customPermissions>
+        <name>hPR</name>
+    </customPermissions>
+    <isSupplementLicense>true</isSupplementLicense>
+    <label>UppU</label>
+    <licenseExpirationPolicy>BlockNamespaceAccess</licenseExpirationPolicy>
+    <userLicenseRestrictions>t</userLicenseRestrictions>
+</PermissionSetLicenseDefinition>

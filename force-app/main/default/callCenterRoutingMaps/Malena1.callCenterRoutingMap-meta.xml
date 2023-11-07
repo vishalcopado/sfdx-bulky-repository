@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CallCenterRoutingMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Malena</fullName>
+    <callCenter>piBmy</callCenter>
+    <developerName>ZH</developerName>
+    <externalId>yjaBBn</externalId>
+    <masterLabel>Gap</masterLabel>
+    <quickConnect>nx</quickConnect>
+    <referenceRecord>HEOft</referenceRecord>
+</CallCenterRoutingMap>

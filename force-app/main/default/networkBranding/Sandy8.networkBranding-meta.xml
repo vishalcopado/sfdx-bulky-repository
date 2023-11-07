@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NetworkBranding xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sandy</fullName>
+    <content>poM=</content>
+    <loginBackgroundImageUrl>rDVtppffv</loginBackgroundImageUrl>
+    <loginFooterText>cuJhrzkTW</loginFooterText>
+    <loginLogo>HGThVHC</loginLogo>
+    <loginLogoName>Rq</loginLogoName>
+    <loginPrimaryColor>lJZJh</loginPrimaryColor>
+    <loginQuaternaryColor>U</loginQuaternaryColor>
+    <loginRightFrameUrl>BFYNSWqK</loginRightFrameUrl>
+    <network>VMygDEnFl</network>
+    <pageFooter>fZKikhSa</pageFooter>
+    <pageHeader>sMT</pageHeader>
+    <primaryColor>mZX</primaryColor>
+    <primaryComplementColor>fnEAQzGgc</primaryComplementColor>
+    <quaternaryColor>fPl</quaternaryColor>
+    <quaternaryComplementColor>DGFPvDrEO</quaternaryComplementColor>
+    <secondaryColor>kCc</secondaryColor>
+    <staticLogoImageUrl>UbFrgm</staticLogoImageUrl>
+    <tertiaryColor>Ju</tertiaryColor>
+    <tertiaryComplementColor>IRrC</tertiaryComplementColor>
+    <zeronaryColor>FLONyj</zeronaryColor>
+    <zeronaryComplementColor>PBuKk</zeronaryComplementColor>
+</NetworkBranding>

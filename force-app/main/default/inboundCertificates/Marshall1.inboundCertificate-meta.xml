@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InboundCertificate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Marshall</fullName>
+    <content>tA==</content>
+    <expirationDate>2029-10-26T12:23:40.498Z</expirationDate>
+    <issuer>wfow</issuer>
+    <masterLabel>Kchv</masterLabel>
+    <serialId>JLuN</serialId>
+</InboundCertificate>

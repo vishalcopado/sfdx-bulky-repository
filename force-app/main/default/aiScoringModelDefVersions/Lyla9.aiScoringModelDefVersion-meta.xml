@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIScoringModelDefVersion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lyla</fullName>
+    <aiScoringModelDefinition>kRD</aiScoringModelDefinition>
+    <aiScoringSteps>
+        <aiModelConfigStep>fy</aiModelConfigStep>
+        <stepDetail>uiT</stepDetail>
+    </aiScoringSteps>
+    <developerName>mFiipM</developerName>
+    <masterLabel>jTL</masterLabel>
+    <modelMode>TRAIN_AND_DEPLOY</modelMode>
+</AIScoringModelDefVersion>

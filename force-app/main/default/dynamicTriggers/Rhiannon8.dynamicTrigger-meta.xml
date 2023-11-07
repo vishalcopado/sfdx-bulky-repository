@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DynamicTrigger xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rhiannon</fullName>
+    <apexClass>uYWQRhs</apexClass>
+    <customFieldDefinition>xDCfTFe</customFieldDefinition>
+    <firesOnTriggerEventsAfterInsert>false</firesOnTriggerEventsAfterInsert>
+    <firesOnTriggerEventsAfterUpdate>false</firesOnTriggerEventsAfterUpdate>
+    <firesOnTriggerEventsBeforeInsert>true</firesOnTriggerEventsBeforeInsert>
+    <firesOnTriggerEventsBeforeUpdate>true</firesOnTriggerEventsBeforeUpdate>
+    <isActive>true</isActive>
+    <isProtected>true</isProtected>
+    <masterLabel>nEPNJ</masterLabel>
+</DynamicTrigger>

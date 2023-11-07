@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EventRelayConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Jenni</fullName>
+    <destinationResourceName>ADpJDJoE</destinationResourceName>
+    <eventChannel>uz</eventChannel>
+    <isProtected>false</isProtected>
+    <label>VeWFKAXfN</label>
+    <masterLabel>pc</masterLabel>
+    <relayOption>NBFTQ</relayOption>
+    <state>RUN</state>
+</EventRelayConfig>

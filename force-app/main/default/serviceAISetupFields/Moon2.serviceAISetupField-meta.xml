@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceAISetupField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Moon</fullName>
+    <entity>KiAuC</entity>
+    <field>P</field>
+    <fieldMappingType>CASE_SUBJ</fieldMappingType>
+    <fieldPosition>-585019447</fieldPosition>
+    <name>UdKmD</name>
+    <setupDefinition>NmcRsQL</setupDefinition>
+</ServiceAISetupField>

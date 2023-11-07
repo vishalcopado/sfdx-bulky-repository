@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MessagingChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Aldo</fullName>
+    <automatedResponses>
+        <response>nqEVicU</response>
+        <type>AgentEngagedResponse</type>
+    </automatedResponses>
+    <automatedResponses>
+        <response>xPWfggX</response>
+        <type>AgentEndEngagementResponse</type>
+    </automatedResponses>
+    <customParameters>
+        <actionParameterMappings>
+            <actionParameterName>HnU</actionParameterName>
+        </actionParameterMappings>
+        <externalParameterName>beVG</externalParameterName>
+        <masterLabel>YNYXFwzF</masterLabel>
+        <maxLength>1121859415</maxLength>
+        <name>HZTCcM</name>
+        <parameterDataType>Picklist</parameterDataType>
+    </customParameters>
+    <description>I</description>
+    <masterLabel>EIOwG</masterLabel>
+    <messagingChannelType>Voice</messagingChannelType>
+    <sessionHandlerFlow>NodAvW</sessionHandlerFlow>
+    <sessionHandlerQueue>K</sessionHandlerQueue>
+    <sessionHandlerType>Flow</sessionHandlerType>
+    <standardParameters>
+        <actionParameterMappings>
+            <actionParameterName>IoSVr</actionParameterName>
+        </actionParameterMappings>
+        <parameterType>LastName</parameterType>
+    </standardParameters>
+</MessagingChannel>

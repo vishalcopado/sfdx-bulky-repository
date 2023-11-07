@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveRecipe xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>George</fullName>
+    <content>GVk=</content>
+    <application>tp</application>
+    <dataflow>sXgn</dataflow>
+    <format>sVbpS</format>
+    <masterLabel>MGrhZL</masterLabel>
+    <securityPredicate>MEBJ</securityPredicate>
+    <targetDatasetAlias>fzPxbXGH</targetDatasetAlias>
+    <templateAssetSourceName>FIwvL</templateAssetSourceName>
+</WaveRecipe>
